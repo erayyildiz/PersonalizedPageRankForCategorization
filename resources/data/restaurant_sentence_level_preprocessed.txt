@@ -1,0 +1,1228 @@
+manzara sahane evet ama servis rezalet.	manzara sahane evet servis rezalet	AMBIENCE#GENERAL SERVICE#GENERAL
+soguk su isteyince, soguk yok, butun sulari disari cikardik diyen garson, siparisten tam 2 saat sonra gelen yemekler, yemegin yaninda soylenen roka ve pureden eser olmamasi, istedigimiz 2 mezenin de kalmamis olmasi.	soguk soguk yok sulari disari cikardik garson siparisten saat gel yemek yemegin yanin rok pure eser ol istedig meze kal ol	SERVICE#GENERAL FOOD#STYLE_OPTIONS
+yemekler iyi hos, lezzetler iyi ama heyecan verici bi taraflari yok, iyi bir baligi iyi bir sekilde izgara yapmak artik atla deve bi olay degil.	yemek iyi hos lezzet iyi heyecan verici bi taraf yok iyi baligi iyi sekil izgara at dev bi olay	FOOD#QUALITY
+bu servise bu fiyatlar ise cok fazla.	servis fiyat fazla	RESTAURANT#PRICES
+lacivert beni kalitesinin dusukluguyle cok sasirtti	lacivert kalite dusuklug sasir	RESTAURANT#GENERAL
+buraya bu kadar iyi yorum yapanlar her halde daha önce hiç balik yemediler.	bura iyi yorum yap balik	FOOD#QUALITY
+kalamardan ve koladan önce balik geldi ve apar topar önümüze atildi.	kalamar kola balik gel apar topar at	SERVICE#GENERAL
+ayrica gelen kalamar soguk ve sünger gibiydi.	gel kalamar soguk sunger	FOOD#QUALITY
+uzun lafin kisasi kesinlikle ve asla bir daha gitmem ve tavsiyede etmem.	uzun laf kisasi kesin git tavsiye et	RESTAURANT#GENERAL
+daha önce de söyledigim gibi büyüdükçe kalitesi düsen yerlerden	soyledigim buyu kalite dus yer	RESTAURANT#GENERAL
+kesinlikle ev yemegi degil - bu kadar basarisiz ev yemekleri olmasina ragmen ögle saatlerinde ki yogunlugu çözebilmis degilim.	kesin ev yemegi basari ev yemek ol ogle saat yogunlug coz degilim	FOOD#QUALITY
+ya insanlar gerçekten ev yemeginin nasil oldugunu bilmiyorlar.	insan gercekten ev yemeg oldugun bil	FOOD#QUALITY
+ya da herkes benim gibi 1 kere deniyor ve bir daha gitmiyor.	kere git	RESTAURANT#GENERAL
+1 kere denedigim fiyatlarinin yüksek yemeklerinin lezzetsiz oldugu bir mekan önermiyorum.	kere denedigim fiyat yuksek yemek lezzetsiz mekan oner	RESTAURANT#PRICES FOOD#QUALITY
+mekanın girişinde kasap reyonu ışıltılı,sıcak bir ortam yaratılmaya çalışılmış manzara olmadığı için bulunduğu konumda pek samimi bulmadım.	mekan gir kasap reyon isiltili sicak ortam yarat calis manzara bulun konum samimi bul	AMBIENCE#GENERAL
+garsonumuz ilgisizdi biz söyledikce yaptı buda benim restauranttan beklentimi zayıflatıyor.	garson ilgi restaurant beklentim zayifla	SERVICE#GENERAL
+lokumun daha iyisini yedim küşleme güzeldi.	lokum iyi yet kuslem guzel	FOOD#QUALITY
+bilemedim mekana daha sonra belki bir şans daha verebilirim.	bil mekan sans ver	RESTAURANT#GENERAL
+2 sene önce hızlı bir kahvaltı yapmak için geldiğimiz mekana dair hatırımda kalan 6 tl lik çayı oldu:	sene hiz kahvalti gel mekan dair hatirim kal tl lik cay	DRINKS#PRICES
+) menüde dikkat etmemiştik ama hesap gelince ufak bir şok yaşamıştık😩 güzel olabilir ama kahvaltıdan fazla ödediğimiz çay yüzünden bir daha uğramadık.	menu dikkat et hesap gel ufak sok yasa guzel ol kahvalti fazla ode cay ugra	DRINKS#PRICES RESTAURANT#GENERAL
+şatobiryanı öneririm.	satobir oner	FOOD#QUALITY
+sosu tereyagli ve yumusak .	sosu tereyagil yumusak	FOOD#QUALITY
+sert et sevmeyenler icin cok lezzetliydi.	sert et sev ic lezzet	FOOD#QUALITY
+guvecte yogurt ve salatayla iyi bir uclu oldu.	guvec yogurt salata iyi	FOOD#QUALITY
+servisi hizli valesi var.	servis hiz vale	SERVICE#GENERAL
+acik mekanda ise gardenya bolumu guzel.	acik mekan gart bolum guzel	AMBIENCE#GENERAL
+kalabalik icin ideal.	kalabalik ideal	RESTAURANT#GENERAL
+bugun çalışan arkadasin yonlendirmesiyle siyah caylardan bourbon vanilla ictik.	bugun calis arka yon siyah cay bourbon vanilla ictik	FOOD#QUALITY
+vanilya tadi gerçekten baya hissediliyodu ama ben beyaz caylarini daha cok begenmistim.	vanilya tadi gercekten bay hissediliyodu beyaz cay begenmist	DRINKS#QUALITY
+ortam güzel,özellikle rahat oturma köşeleri👌 esas kahve sever biri oldugum icin cok tercih ettigim mekan değil ama yine de arada degisiklik icin guzel olabilir.	ortam guzel ozellikle rahat otur kose esas kahve sev oldugum ic tercih ettigim mekan degisik ic guzel ol	AMBIENCE#GENERAL
+yoğun olduğu günlerde(cumartes-pazar) gitmenizi tavsiye etmem.	yok gun git tavsiye et	RESTAURANT#GENERAL
+şubelerden en iyisi pendik merkez ana şubesi iyidir.	sube iyi pendik merkez an sube iyi	RESTAURANT#GENERAL
+bugüne kadar dışarıda yediğim en lezzetli kurufasülyeci.	bugun disari lezzet kurufasulyeci	FOOD#QUALITY
+fasulyesi ağızda dağılıyor adeta, lokum gibi.	fasulye agiz dagil adeta lokum	FOOD#QUALITY
+duyduğum kadarıyla suda değil sütte bekletiyorlarmış.	duy sutte bekle	FOOD#STYLE_OPTIONS
+yanında turşu, cacık veya yoğurtla harika oluyor.	yan tursu cacik yogurt harika	FOOD#STYLE_OPTIONS
+pilavı da çok lezzetli, mis gibi tereyağ kokuyor.	pilav lezzet mis tereyag kok	FOOD#QUALITY
+finali sütlaçla yapmanızı tavsiye ediyorum.	final sutlac yap tavsiye et	FOOD#QUALITY
+sütlacı da enfes.	sutla enfes	FOOD#QUALITY
+hard rock cafe'de hiç sıra beklemeden oturmaya alışık değiliz ki biz, avrupa veya amerika'dakilerle aynı duyguyu vermiyor bu sebeple ama lezzet tabii yine aynı.	hard rock sira bekle otur alisik degiliz avrupa ayni duygu ver sebep lezzet ayni	FOOD#QUALITY SERVICE#GENERAL
+atıştırmalık jumbo combo pek yummy!	atistirmalik jumbo combo yummy	FOOD#QUALITY
+deniz ürünleri çok başarılı.	deniz urun basari	FOOD#QUALITY
+manzarası zaten mükemmel.	manzara mukemmel	AMBIENCE#GENERAL
+bütün istanbul'un güzelliğini, yoğunluğunu hissediyorsun.	guzel yogunluk hisset	AMBIENCE#GENERAL
+onun dışında pek öğrenci mekanı değil.	dis ogrenci mekan	AMBIENCE#GENERAL
+özel günlerde gidilecek, küçük kutlamalar yapılacak bir yer	ozel gun git kucuk kutla yap yer	AMBIENCE#GENERAL
+rahatça sohbet edebilmek istiyorsanız, orta mükemmel.	rahat sohbet et orta mukemmel	AMBIENCE#GENERAL
+çalan müzik tam kıvamında, rahatsız etmiyor.	calan muzik kivam rahat et	AMBIENCE#GENERAL
+yemekleri çok lezzetli, manzara mükemmel.	yemek lezzet manzara mukemmel	AMBIENCE#GENERAL FOOD#QUALITY
+ancak hesap biraz abartılı geliyor, balık yemeden kişi başı 100 liradan fazla ödedik, itiraz etmek gerekir.	hesap abarti gel balik kisi bas lira fazla ot itiraz et	FOOD#PRICES
+kalabalik zamanlarda servis fazlasiyla aksiyor.	kalabalik zaman servis fazlasiyla akis	SERVICE#GENERAL
+bosken soylemis oldugum makarna ne kadar hizli geldiyse, mekanin dolmasiyla arkadasimin soylemis oldugu siparis unutuldu, defalarca hatirlatma yapmamiz gerekti.	bosken soylemis oldugum makarna hiz gel mekan dolma arkadasi soylemis oldug siparis unut defalarca hatirla yap	SERVICE#GENERAL
+ayrica masalarin fazla ic ice olmasi zaman zaman rahatsiz olmaniza neden olabiliyor	masa fazla ic ic ol zaman zaman rahat ol ol	AMBIENCE#GENERAL
+kış aylarında içerideki sıcak ve loş ışıklı ortamında güzel yemekler yiyebilir, yazın da dışarıda o harika çilekli magnoliasından tadabilirsiniz.	kis ay iceri sicak los isik ortam guzel yemek yazin disari harika cilek magnolia tat	AMBIENCE#GENERAL FOOD#QUALITY
+i̇çinizi serinletecek enfes bir tat.	ciniz serinle enfes tat	FOOD#QUALITY
+garsonlar suratsiz.	garson surat	SERVICE#GENERAL
+bu kadar methedilmeyi hakketmiyor.	methet hakket	RESTAURANT#GENERAL
+kasarli köftenin içinde kasar olmayan ve köfte ustasi geçinen bir yer!	kasar kofte kasar kofte ustasi gecin yer	RESTAURANT#GENERAL FOOD#STYLE_OPTIONS
+isletme sahibi kaba.	islet sahip kaba	SERVICE#GENERAL
+bizim kasarli köfte tanimimiz böyle diyor sadece!	kasar kofte tanim sadece	FOOD#STYLE_OPTIONS
+müsteri memnuniyeti sifir!	musteri memnuniyet sifir	RESTAURANT#GENERAL
+yılların sampi'si, canım pide istediğimde eve sipariş için tercih ettiğim yerlerdendir.	yil canim pit ev siparis tercih et yer	FOOD#QUALITY
+o zaman keşke başlangıçlarda menüde yer almasa!	zaman keske baslangic menut yer al	FOOD#STYLE_OPTIONS
+beşiktaş'ta tam otobüs duraklarının arkasında olmasından dolayı ulaşımı çok kolay ve fiyatları elbette çok makul.	otobus durak arka ol ulasim kolay fiyat makul	RESTAURANT#GENERAL LOCATION#GENERAL
+ben çıtır pide sevenlerdenim, dolayısıyla siparişi verirken özellikle rica ettim ve gerçekten de çitir çitir pide geldi.	citir pit sev siparis ver ozellikle rica et gercekten citir citir pide gel	FOOD#STYLE_OPTIONS
+ancak maalesef birlikte gittiğim arkadaşlarım hiç sevmezmiş çıtır pideyi ve tabii ki onların ki de çıtır geldi.	maalesef birlikte git arkadas sev citir pide citir gel	FOOD#STYLE_OPTIONS
+neyse tadı paket servisten elbette çok daha iyidi neticede beklemeden yeme imkanınız var.	tat paket servis iyi netice bekle imkan	FOOD#QUALITY
+malzemesi bol, porsiyonu tam kıvamındaydı.	malzeme bol porsiyon kivam	FOOD#STYLE_OPTIONS
+beşiktaş'ın göbeğinde.	gobek	LOCATION#GENERAL
+ve deneyim maalesef çok da olumlu olmadı.	deneyim maalesef olumlu	RESTAURANT#GENERAL
+pide lezzeti lafım yok, ama sipariş verirken bir arkadaşımızın kenarlarını çıtır çıtır istemesini yanlış anlamış olacak ki, tüm siparişleri çıtır çıtır getirdi.	pit lezzet lafim yok siparis ver arkadas kenar citir citir yanlis anla ol siparis citir citir getir	FOOD#QUALITY SERVICE#GENERAL
+sevmediğimden yiyemedim kenarlarını, ama ortası pek lezizdi.	sev kenar orta leziz	FOOD#QUALITY FOOD#STYLE_OPTIONS
+başlangıç için menüde başlangıçlarda yer alan lahmacunun, ana yiyecek pideden daha geç gelecek olması ise ayrı bi durumdu tabii.	baslangic menu baslangic yer al lahmacu ana yiyecek pide gec gelecek ayir bi durum	SERVICE#GENERAL
+yemek yemek için çok fazla vaktiniz yoksa, bütçeyi çok sarsmayalım, çok keyifli yemek yemesek de olur yeter ki karnımız doysun diye düşünenler için çarşı'nın göbeğinde sampi gayet ideal.	yemek yemek fazla vakit butce sars keyif yemek yet karni doy dusun gobek sampi gayet ideal	RESTAURANT#PRICES FOOD#QUALITY
+4 sicak iceceklerde servis agir, kahvalti icin tercih edilwbilir olsa da lezzete gore fiyat yuksek kaliyor.	sicak ic servis agir kahvalti ic tercih et lezzet fiyat yuksek kale	FOOD#QUALITY FOOD#PRICES SERVICE#GENERAL
+mutlaka bir hafta önceden rezarvasyon yaptırın iyi bir rum meyhanesi yemekleri başarılı olduğu gibi şahane bir manzarası var bu mekanın en büyük olayı sürekli ikram yapmalarıdır pahalı olmasına rağmen hak ediyor.	mutlaka hafta rezarvasyon yap iyi rum meyhane yemek basari sahane manzara mekan buyuk olay surekli ikram yap paha ol hak	AMBIENCE#GENERAL FOOD#QUALITY FOOD#STYLE_OPTIONS
+mutlaka ızgara mantar ve istakoz kavurma deneyin gittiğim ve hiçbir zaman pişman olmadığım ender yerlerden biridir	mutlaka izgara mantar istakoz kavur dene git zaman pisman ol ender yer	RESTAURANT#GENERAL FOOD#QUALITY
+baliklarin yanina rum ve ermeni mutfagindan mezelerde pek bir yakisiyor.	balik yan rum erm mutfagin meze yake	FOOD#QUALITY
+kuskonmaz somon sarma,kagitta balik pastirma kesinlikle denenmeli.	kuskon somon sarma kagit balik pastirm kesin dene	FOOD#QUALITY
+burada caylar harika!	cay harika	DRINKS#QUALITY
+vanilla ve portakal aromasina doyamayacaginiz harika bir lezzet olmus.	vanilla portakal aromasi doyamayacaginiz harika lezzet ol	FOOD#QUALITY
+ortam muhabbet edebilmek icin gayet guzel fakat manzara beklentiniz var ise baska yeri tercih etmelisiniz.	ortam muhabbet et ic gayet guzel manzara beklenti baska yer tercih et	AMBIENCE#GENERAL
+tam tamina 60 farkli cesit cay bulabileceginiz bu mekani ziyaret etmelisiniz!	tamina fark cesit cay bulabileceginiz mekani ziyaret et	DRINKS#STYLE_OPTIONS
+hoş bi mekan, severek giderim ve ayrılırken de memnuniyetle ayrılırım her zaman.	hos bi mekan sev git ayir memnuniyet ayir zaman	RESTAURANT#GENERAL
+özellikle akşamları gidilmesini tavsiye ederim, köprünün ve hisarın ışıkları yandığında ayrı bi zevki var.	ozellikle aksam git tavsiye et kopru hisar isik yandik ayir bi zevk	AMBIENCE#GENERAL
+hemde canlı müzikle :	hemde canli muzik	AMBIENCE#GENERAL
+daha iyisi var.	iyi	RESTAURANT#GENERAL
+buranin doneri dedikleri kadar efsane degil.	bura doner efsane	FOOD#QUALITY
+eti yagli , kokuyor, ince dilinmis ve en kotusu aradan 3 saat gecmesine ragmen migdem bulaniyor.	et yagli kok ince dilinmis kotu ara saat gec migdem bulan	FOOD#QUALITY FOOD#STYLE_OPTIONS
+ortami da begenmedim kalabalik 3. sinif bir yer.	ortami begen kalabalik sinif yer	AMBIENCE#GENERAL
+bir daha gitmem	git	RESTAURANT#GENERAL
+eti lezzetli, mekan gösterişli.	et lezzet mekan goster	AMBIENCE#GENERAL FOOD#QUALITY
+ama sunum resmen sıfır.	sun resmen sifir	SERVICE#GENERAL
+30 tl aldığınız hamburger için düz beyaz tabağa koymaktan öteye gidebilirsiniz bence?	tl al hamburger duz beyaz tabak koy git	FOOD#STYLE_OPTIONS
+havuç dilimi ise aşırı yağlı ve şerbetli.	havuc dilim asiri yak serbet	FOOD#QUALITY
+pek yaratıcı özel bir yanı yok.	yarati ozel yan yok	RESTAURANT#GENERAL
+pazar günü 14.30'a kadar kahvaltı dışı servis yapmayan big chefs!	pazar gun kahvalti dis servis yap big chefs	SERVICE#GENERAL
+kahvaltı sonrası kahve içmeye gittik, kapıdan döndük ve saat 13.30'du, şaka sandım bir an...	kahvalti kahve ic git kapi don saat du saka san an	SERVICE#GENERAL
+olmadı big chefs, zincirsin sen...	big chefs zinc	RESTAURANT#GENERAL
+menude yazilmis olmasina ragmen tavuk wrapimiz patates ile gelmedi nedenini sordugumuz da patatesi kaldirdiklarini menulerini henuz degistirmediklerini soylediler.	menut yaz ol tavuk wrapimiz patates gel sordugumuz patatesi kaldir menu degis	FOOD#STYLE_OPTIONS
+gelen tavuk wrapten 5 dakika sonra biz kofte durum istememize ragmen tavuk sis dürümu geldi durumu soyledik ve degistirdiler.	gel tavuk wrapten dakika kofte durum tavuk sis durum gel durum degis	SERVICE#GENERAL
+tavuklar kupkuruydu, kofte durum ise siradandi.	tavuk kupkuruydu kofte durum siradandi	FOOD#QUALITY
+ikisininde yanindaki yesillikler sus icin konulmus olup yemeye kalktigimizda aci bi tatla karsilastik.	ikisin yanin yesil sus ic kon kalktigi ac bi tat karsilastik	FOOD#QUALITY
+zeytinyagli tabagi soyledik icinde fasulye, barbunya, biber dolmasi, sarma ve saksuka vardi.	zeytinyag tabagi ic fasul barp biber dolmasi sarma saksuk	FOOD#STYLE_OPTIONS
+tadlari yerindeydi fakat az koymak icin bayagi bi zorlamislar kendilerini.	tat yerinde koy ic bayagi bi zorlamislar	FOOD#QUALITY FOOD#STYLE_OPTIONS
+fiyatlar normal, servis cok yavaş, tuvaletler ise pis.	fiyat normal servis yavas tuvalet pis	RESTAURANT#PRICES AMBIENCE#GENERAL SERVICE#GENERAL
+güzel olan tek sey manzaraydi, evet çocuk oyun alani var bakimsiz servis elemanlari suratsiz, hele omlet yapan bir bayan var ki benim oturdugum masa dibindeydi gelen herkese bir surat bir tavir ben böyle birsey görmedim .	guzel tek manzara evet cocuk oyun alan bakim servis eleman surat hele omlet yap bayan oturdugum masa dibin gel surat tavir gor	AMBIENCE#GENERAL SERVICE#GENERAL
+açik büfe kahvaltisi evet çesit çoktu ancak sunum beni tatmin etmedi, temizlik hijyen hissi uyandirmadi.	acik bufe kahvalti evet cesit sunum tatmin et temiz hijyen hissi uyan	FOOD#STYLE_OPTIONS
+hos mekan - mekan yaklasik 3-4 aydir var tuzla'da.	hos mekan mekan yaklasik ay	RESTAURANT#GENERAL
+gidilebilecek iyi yerlerden birisi.	git iyi yer	RESTAURANT#GENERAL
+ilk açildigi ay gittigimizde çok memnun kalmistik ama daha sonraki gidislerimizde servisin çok fazla aksadigina ve garsonlarin yogunluk nedeni ile herkes ile ilgilenememesini gözlemledik.	ilk acildigi ay gittig memnun kalmistik gidis servis fazla aksadigina garson yogun ilgilen gozlemle	SERVICE#GENERAL
+çok az sayida garson çalisiyor ve bazen mekan dolu olunca yetemiyorlar.	sayi garson calis mekan dolu ol yet	SERVICE#GENERAL
+klasik dondurma spesiyalleri ve tatlililari var.	klasik don spesiyal tatlili	FOOD#STYLE_OPTIONS
+internetten arastirip gittigim bir yerdi, ancak maalesef beklentilerimi çok karsilamadi.	internet arastir gittigim yert maalesef beklenti kars	RESTAURANT#GENERAL
+garsonlar istediginiz seyi en az iki kere istemeden maalesef getirmiyorlar.	garson istedig kere maalesef getir	SERVICE#GENERAL
+internetteki resimlerinden göründügü kadar güzel degildi.	internet resim gorundugu guzel	AMBIENCE#GENERAL
+su böregi oldukça lezzetli idi.	boregi oldukca lezzet it	FOOD#QUALITY
+çay kötü müydü?	cay kotu	DRINKS#QUALITY
+hayir, çok taze ve lezzetliydi.	hayir taze lezzet	FOOD#QUALITY
+beklentimin üstündeydi.	beklenti ustun	RESTAURANT#GENERAL
+her yönüyle ideal - bizim okula çok yakin oldugu için çok sik gittigimiz bir yerdir ve muhtesemdir zaten manzarasi.	yon ideal okul yakin oldug sik gittigimiz yer muhtesem manzarasi	RESTAURANT#GENERAL AMBIENCE#GENERAL
+yazin daha zevkli oluyor manzaraya karsi oturmasi.	yazin zevk manzara kars otur	AMBIENCE#GENERAL
+marmara ögrencilerine de indirimli fiyat uygulamasi var.	marmara ogrenci indirim fiyat uygula	RESTAURANT#PRICES
+o yüzden de bizim için avantajli oluyor.	avantaj	RESTAURANT#PRICES
+gözleme yapan teyzeler de var bu yil, kumpir servisine de basladilar.	gozlem yap teyze yil kumpir servis basla	FOOD#STYLE_OPTIONS
+kuaförü de çok ucuz ve iyi ayrica.	kuafor ucuz iyi	RESTAURANT#MISCELLANEOUS
+daha ne olsun =)		RESTAURANT#GENERAL
+güzel manzara ancak fiyat performans olarak mutfak yeterli değil.	guzel manzara fiyat performans mutfak yeterli	AMBIENCE#GENERAL FOOD#QUALITY
+bu kadar ünlü olmasını reklama bağlıyorum çünkü çok daha iyi deniz ürünlerini daha uygun fiyatlarla yiyebileceğiniz bir sürü yer var i̇stanbul'da.	unlu ol reklam bagla iyi deniz urun uygun fiyat suru yer	FOOD#QUALITY FOOD#PRICES
+paranız çoksa deneyin ama şart da değil:	para dene sart	RESTAURANT#GENERAL
+döner güzel ok ama giderek daha kalabalik hale hatta sisen restoranda omuz omuza kolunuzu kipirdatamadan feci bir gürültü içinde yemek yemek zorunda kaliyorsunuz.	doner guzel ok git kalabalik hal sisen restoran omuz omuz kol kipirdat feci gurultu yemek yemek zor kale	AMBIENCE#GENERAL FOOD#QUALITY
+sicak bir ortam - yeri iyi olmasa da, zevkli dösenmis, yemekleri sunum ve tat açisindan tatmin edici, renkli bir mekan.	sicak ortam yer iyi ol zevk dosenmis yemek sunum tat aci tatmin et renk mekan	LOCATION#GENERAL AMBIENCE#GENERAL FOOD#QUALITY FOOD#STYLE_OPTIONS
+sira bekleme olayi ise çok kötü...	sira bekle olay kotu	SERVICE#GENERAL
+aci sevmeyenlere uygun bir mekan degil.	ac sev uygun mekan	RESTAURANT#GENERAL
+manzara muhtesem,ortam güzel ama bir karisik köfte tabagi acili köfteyle geliyorsa,fajita da aciysa bana uygun degil.	manzara muhtesem ortam guzel karisik kofte tabagi acili kofte gel fajita ac uygun	AMBIENCE#GENERAL FOOD#QUALITY
+sadece meze yiyin.	sadece meze	FOOD#QUALITY
+her hafta gelmeye çalışıyoruz.	hafta gel calis	RESTAURANT#GENERAL
+bütün balıkları değişik soslarla pişirip getiriyorlar, siz dur diyene kadar da mezeler gelmeye devam ediyor.	balik degisik sos pis getir dur meze gel devam	FOOD#STYLE_OPTIONS
+balığın fast food gibi yenildiği yer.	balik fast food yen yer	FOOD#STYLE_OPTIONS
+yavaş yavaş balık keyfi yapmak isterseniz önermem.	yavas yavas balik keyfi oner	FOOD#STYLE_OPTIONS
+servisi çok hızlı.	servis hiz	SERVICE#GENERAL
+mısır ekmeği de sıcacık bayılıyorum.	misir ekmek sicacik bayil	FOOD#QUALITY
+60 çeşit çay, ruh dinlendirici müzikler, keyifli ortam, hayal kırıklığı yaratan mizuno pudding ve farklı da olsa alt tarafı çay içmiştim, bu hesap da ne şimdi dedirten bir hesap :	cesit cay ruh din muzik keyif ortam hayal kirik yarat mizuno pudding fark alt taraf cay ic hesap hesap	DRINKS#PRICES DRINKS#STYLE_OPTIONS AMBIENCE#GENERAL FOOD#QUALITY
+hem çok keyif almıştım, hem de yok yok bir çay için bu kadar paraya değmez demiştim ve öve öve bitirilmeyen mizuno pudding'i beğenmemiştim.	keyif al yok yok cay para dek ov ov bit mizuno begen	DRINKS#PRICES RESTAURANT#GENERAL FOOD#QUALITY
+neden şimdiye kadar gelmemişim dedim.	gel	RESTAURANT#GENERAL
+servisten de oldukça memnun kaldık.	servis oldukca memnun kal	SERVICE#GENERAL
+biz erken saatte gittik ama akşamları romantik bir yemek için oldukça ideal bir mekan...	erken saat git aksam romantik yemek oldukca ideal mekan	AMBIENCE#GENERAL
+hangi gün hangi saat gidilse kalabalıktan kurtulmak mümkün değil.	gun saat git kalabalik kurtul mumkun	AMBIENCE#GENERAL
+çoluğu çocuğu toplayan ev hanımları grupları mekana olan ilgiyi azaltıyor.	coluk cocuk topla ev hanim grup mekan ilgi azal	AMBIENCE#GENERAL
+garsonlar iyi.	garson iyi	SERVICE#GENERAL
+ansiklopedi kalinliginda menuyu getirip siparisinizi vermek istediginizde o yok, bu uok,su kalmadi seklinde ifadelerle birturlu istediginiz tatliyi yiyemediginiz mekan isletmecisine konuyu ilettiginizde yapacak birseyleri olmadigini buyuk rahatlikla dile getiren , garsonlarinin sattiklari urunden haberdar olmayip isteklerinizi yerine gec veya yanlis getirmeleride cabasi.	ansiklopedi kalinligin menu getir sipari ver istedig yok uok kal sekil ifade birtur istedig tatli yiyemedig mekan isletmeci konu ilettig olmadigin buyuk rahat dil getir garson sat urun haberdar ol istek gec yanlis getir cabasi	FOOD#STYLE_OPTIONS SERVICE#GENERAL
+kesinlikle tavsiye etmiyorum.	kesin tavsiye et	RESTAURANT#GENERAL
+diğer şubesinin efsaneleşen hikayelerinin ardından defalarca hep belirli sebeplerle geldiğimiz eleos bence cidden abartılıyor.	sube efsane hikaye art defalarca belirli sebep gel eleos cit abart	RESTAURANT#GENERAL
+yeşilköy şubesini bilemem ama burası standart üzerinde yine de o fiyatlar bence çok saçma.	yesilkoy sube bil bura standart uzer fiyat sacma	RESTAURANT#PRICES
+ayrıca fix menü zorlaması gibi en sinir bozucu uygulamayı burada normalleştirmiş durumdalar.	fix menu zorla sinir boz uygula normal durum	FOOD#STYLE_OPTIONS
+mezeler de vasatın üzerinde.	meze vasat uzer	FOOD#QUALITY
+balkon/teras bölümü de cidden çok küçük.	balkon teras bolum cit kucuk	AMBIENCE#GENERAL
+her zaman gittigim ve servisi her zaman igrenc olan bu mekan artiik iyice rezalet sinirlarini zorlamis.	zaman gittigim servis zaman igrenc mekan artiik iyi rezalet sinir zorla	RESTAURANT#GENERAL SERVICE#GENERAL
+mekanin isletmecisi beyin tavri tarzi konusmasi uslubu ve terbiyesi yerlerde.	mekan isletmeci beyin tavir tarz konusmasi uslup terbiye yer	SERVICE#GENERAL
+mekanin populerligi yuzunden rahatlar sanirim ama bu rahatlikla populerligi kisa surede kaybederler.	mekan populerlig rahat sanirim rahat populerligi kisa sure kaybet	RESTAURANT#GENERAL
+istanbulda tek manzara goren yer olmamakla beraber yemekleride son derece lezzetsiz.	istanbul tek manzara gor yer ol beraber yemek son derece lezzetsiz	AMBIENCE#GENERAL FOOD#QUALITY
+zaten bu saatten sonra sultan sofrasida kursa o isletmeciyle bu mekana bir daha adimimi atmam.	saat sultan sofrasi kur islet mekan adimim at	SERVICE#GENERAL
+yemekler super lezzetli, ogle yemeginde cok kalabalik ama saat 2 sonrasinda rahat.	yemek super lezzet ogle yemegin kalabalik saat rahat	AMBIENCE#GENERAL FOOD#QUALITY
+bir tabaga 5 farkli cesit isteyebilirsiniz, ozellikle bugday salatasi ve havuc salatasi muhtesem mutlaka deneyin	tabaga fark cesit ozellikle bugday salata havuc salata muhtesem mutlaka dene	FOOD#QUALITY
+istanbulda baklavanın adresi.	istanbul baklavan adres	FOOD#QUALITY
+karaköyden, eminönünden geçerken uğramalısınız.	karakoy eminonun gec ugra	RESTAURANT#GENERAL
+sadece baklava değil karışık tabak yaptırın.	sadece baklav karisik tabak yap	FOOD#QUALITY
+çikolatalı baklavayıda özellikle bayanlara tavsiye ederim	cikolata baklavayi ozellikle bayan tavsiye et	FOOD#QUALITY
+yurtdisindan gelen misafirlerimi memnun etmesiyle,manzarasiyla ve tabii ki meze ve yemekleriyle begenimi kazanmis oldu gelinir tadilir calan muzikler guzel ayari sohbetle hos bir fon oluyor.	yurtdi gel misafir memnun et manzarasi meze yemek begen kazan gel tadilir calan muzik guzel ayari sohbet hos fon	AMBIENCE#GENERAL FOOD#QUALITY
+burayi seviyorum gerçekten.	bura sev gercekten	RESTAURANT#GENERAL
+hersey lezzetli statüsüne çok yakin.	hersey lezzet statu yakin	FOOD#QUALITY
+keyifli vakit geçirirsiniz emin olun.	keyif vakit gec emin ol	RESTAURANT#GENERAL
+bira dışında başka bir şey içmenizi istemeyen mekan, bira 7,8 lira iken votka 25, şarap 17.5...	bira dis baska ic mekan bira lira iken votka sarap	DRINKS#PRICES
+onun dışında, belirli bir saatten sonra müzik sağır edici seviyeye ulaşmakta.	dis belirli saat muzik sagir et seviye ulas	AMBIENCE#GENERAL
+balıklarından daha çok kendine has mezeleriyle ön plana çıkmış alkolsüz bir balıkçı .	balik has meze plan cik alkol balikci	FOOD#STYLE_OPTIONS
+mezeleri gerçekten standartların üzerinde mekan neredeyse her gün akşam saatlerinde yoğun oluyor .	meze gercekten standart uzer mekan neredeyse gun aksam saat yok	FOOD#QUALITY
+bunun haricinde çalışanların ilgiside gayet iyi	haric calisan ilgi gayet iyi	SERVICE#GENERAL
+tam bir hayal kırıklığı.	hayal kirik	RESTAURANT#GENERAL
+combo tabağı hayalleriyle gittik ve şaka gibi içinde iki üç parça olan çok lezzetsiz bir tabak geldi.	combo tabak hayal git saka parca lezzetsiz tabak gel	FOOD#QUALITY
+hamburgerleri vasat.	hamburger vasat	FOOD#QUALITY
+çok çok kötü	kotu	RESTAURANT#GENERAL
+sütiştir dedik kahvaltı yapalım dedik pişman olduk valla.	sutis kahvalti yap pisman ol valla	RESTAURANT#GENERAL
+porsiyonları çok küçük fiyatlar çok pahalı.	porsiyon kucuk fiyat paha	AMBIENCE#GENERAL FOOD#STYLE_OPTIONS
+garsonlar ilgisiz çayları kötü.	garson ilgi cay kotu	DRINKS#QUALITY SERVICE#GENERAL
+arada bir belki tatlı yemeye gidilebilir.	tatli git	FOOD#QUALITY
+o da manzarası için.	manzara	AMBIENCE#GENERAL
+egzotik çayları seviyorsanız mutlaka uğramanız gereken bir mekan.	egzotik cay sev mutlaka ugra mekan	DRINKS#STYLE_OPTIONS
+bourbon vanilla ve irish malt tavsiye ettiğim çaylar arasında.	bourbon vanilla irish malt tavsiye et cay ara	DRINKS#QUALITY
+servis kaliteli, çalışanları ise inanılmaz ilgili.	servis kalite calisan inan	SERVICE#GENERAL
+sevdiğiniz çayların bazılarını paket olarak satın alabiliyorsunuz da.	sev cay paket satin al	DRINKS#STYLE_OPTIONS
+mekandaki müzik seçimleri de harika.	mekan muzik secim harika	AMBIENCE#GENERAL
+bazen inanılmaz kalabalık olabiliyor haliyle öyle günlerde serviste aksaklıklar yaşanabiliyor.	inan kalabalik ol hal gun servis aksak yasa	SERVICE#GENERAL
+mekan güzel ferah.	mekan guzel ferah	AMBIENCE#GENERAL
+servis çok hızlı.	servis hiz	SERVICE#GENERAL
+çok fazla çeşit var.	fazla cesit	FOOD#STYLE_OPTIONS
+bazı çeşitler kebapla çok alakasız olabiliyor.	cesit kebap alaka ol	FOOD#STYLE_OPTIONS
+fiyatları makul.	fiyat makul	RESTAURANT#PRICES
+yemekler lezzetli	yemek lezzet	FOOD#QUALITY
+manzara güzel,yemekler güzel ama servis berbat.	manzara guzel yemek guzel servis berbat	AMBIENCE#GENERAL FOOD#QUALITY SERVICE#GENERAL
+bir defa demlik çay içmek istedik musluk suyu ile yapmışlar küf kokuyordu.	demlik cay ic musluk yap kuf kok	DRINKS#QUALITY
+kısacası berbat.	kisacasi berbat	RESTAURANT#GENERAL
+mekani çok güzel, çesitler inanilmaz derecede bol ve lezzetli.	mekani guzel cesit inan derece bol lezzet	AMBIENCE#GENERAL FOOD#QUALITY FOOD#STYLE_OPTIONS
+servisi gayet iyi.	servis gayet iyi	SERVICE#GENERAL
+tesis, fethi pasa korulugunun içinde yer aliyor.	tesis fetih pasa korulugu yer al	LOCATION#GENERAL
+etler kalitesi ortalama.	et kalite ortalama	FOOD#QUALITY
+lezzet ortalama.	lezzet ortalama	FOOD#QUALITY
+neyle kıyaslanarak çok beğenildiğini merak ediyorum açıkçası.	kiyasla begen merak et acik	RESTAURANT#GENERAL
+mekan güzel.	mekan guzel	RESTAURANT#GENERAL
+bu et bu parayı asla hak etmiyor.	et para hak et	FOOD#QUALITY FOOD#PRICES
+kuru fasulye için gidilir.	kuru fasul git	FOOD#QUALITY
+güzel yapıyorlar.	guzel yap	FOOD#QUALITY
+pilav, ayran eşliğinde iyi bir menü.	pilav ayran eslik iyi menu	FOOD#QUALITY
+ama servis konusunda personelinden memnun değilim, bu konuda kendilerini inş.	servis konu personel memnun dek konu ins	SERVICE#GENERAL
+mart ayinin son gunu bugun berbatti burasi.	mart ayin son gun bugun berbat burasi	RESTAURANT#GENERAL
+kahvaltiliklar geldi cay yok gelen menemen bozuk domatesten,kokusu tadi yenecek gibi degil, yan masada surekli onu istemistik biz gelmedi diyip durdu bizim gibi.	kahvaltiliklar gel cay yok gel menemen bozuk domatesten koku tadi yen yan masa surekli istemistik gel dur	FOOD#QUALITY FOOD#STYLE_OPTIONS
+normalde sevdigim bir kahvalticiydi bgn ne yedigimi anladim ne bisi!	normal sevdigim kahvalticiydi bgn yedigim anla bis	FOOD#QUALITY
+nereye gitsek kararsızlığına düşmek üzereyken kurtarıcı olan mekandır kütük ev.	git karar dus kurtar mekan kutuk ev	RESTAURANT#GENERAL
+i̇çeriden ve dışarıdan tamamen bir dağ evini andırmasıyla egzotik bir havaya sahip olan mekanda servis nispeten hızlı, fiyatlar pahalı değil, bahçesi güzel.	ceri disari dag ev andir egzotik hava sahip mekan servis nispeten hiz fiyat paha bahce guzel	RESTAURANT#PRICES AMBIENCE#GENERAL SERVICE#GENERAL
+kışın daha çok tercih edilebilecek bir yer ama yazın da gidilir gidilmesine.	kisin tercih et yer yazi git git	RESTAURANT#GENERAL
+sunduklari lezzetleri ve gösterdikleri ilgi ile küçük ev sayesinde güzel bir aksam geçirdik.	sun lezzet goster ilgi kucuk ev saye guzel aksam gec	RESTAURANT#GENERAL FOOD#QUALITY SERVICE#GENERAL
+ardindan en çok begendigim ise döner oldu.	art begendigim doner	FOOD#QUALITY
+gayet lezzetliydi.	gayet lezzet	FOOD#QUALITY
+bence buraya yolunuz düserse dönerini ve kavurmali pidesini kesinlik denemenizi öneririm.	bura yol dus doner kavur pide kesin dene oner	FOOD#QUALITY
+diger yediklerimizide begendim hepsi güzellerdi.	yediklerimizide begent guzel	FOOD#QUALITY
+kendi üretimleri manda yogurtlarinida denemenizde fayda var.	uretim manda yogurtlarinida deneme fayda	FOOD#QUALITY
+tatlilardan ise en çok kazandibini ve kaymakli ayva tatlisini begendim.	tatli kazandibini kaymak ayva tatli begen	FOOD#QUALITY
+fiyatlar ise sunulan hizmet, kalite ve merkezi konumundan dolayi uygun sayilir.	fiyat sun hizmet kalite merkez konum uygun say	RESTAURANT#PRICES LOCATION#GENERAL SERVICE#GENERAL
+öncelikle ortamini çok begendim.	oncelik ortam begen	AMBIENCE#GENERAL
+güzel, sik ve ferah bir ortami var.	guzel sik ferah ortam	AMBIENCE#GENERAL
+özellikle restorantin tam ortasindaki agaç çok hosuma gitti.	ozellikle restorantin orta agac hosum git	AMBIENCE#GENERAL
+o agaci korumak için gösterdiginiz çaba kesinlikle isletmenizin sayginligini fazlasiyla arttiracaktir.	agac koru gosterdiginiz caba kesin islet sayginligin fazlasiyla art	AMBIENCE#GENERAL
+hazir ürünlerden çok yöresel ve kendi üretimleri ürünleri kullaniyor oluslari çok hosuma gitti.	hazir urun yoresel uretim urun kullan olus hosum git	FOOD#STYLE_OPTIONS
+trabzon ve rizeden gelen kavurmalar ile yapilan kasarli ve kavurmali pide beni benden aldi.	trabzon rize gel kavur yap kasar kavur pide al	FOOD#QUALITY
+harikaydi...	harika	RESTAURANT#GENERAL
+umdugumu degil buldugumu yedim - arkadaslarim çok övdü, geldim yedim bitiremedim.	umdugum buldugum yet arkadaslarim ovt gel yet bit	FOOD#QUALITY
+yani güzel degildi.	guzel	FOOD#QUALITY
+damak tadima hitap edemedi açikçasi.	damak tadim hitap et acik	FOOD#QUALITY
+biberler kizartilmadan atilmis içine.	biber kizar at ic	FOOD#QUALITY
+bol yumurtali ve birkaç parça domates atilmis içine.	bol yumurtali parca domates at ic	FOOD#QUALITY
+adeta menemen degil biberli omlet olmus gibi.	adeta menemen biber omlet ol	FOOD#QUALITY
+açik ayrani fena degildi.	acik ayrani fena	DRINKS#QUALITY
+begendim diyebilirim.	begen	RESTAURANT#GENERAL
+manzara disinda deneyimlenecek bir yemegi yok gereksiz pahali ve verdiginiz paraya asla degmeyen menusu var aslinda yok cunku cesit yok.	manzara deneyim yemegi yok paha verdiginiz para degmeyen menus yok cesit yok	RESTAURANT#PRICES AMBIENCE#GENERAL FOOD#QUALITY FOOD#STYLE_OPTIONS
+hamburgerini deneyelim dedik kendisi 35tl sunum berbat hamburgeri lezzetli degil saoganlar karamelize degil sadece patates kizartmasi guzel onu da mc donaldsta yeyin.	hamburger dene sunum berbat hamburger lezzet saogan karame sadece patates kizartmasi guzel mc donaldst yeyin	FOOD#QUALITY SERVICE#GENERAL
+dün gidip yeniden kahvalti etme firsati buldugum yer.	dun git yeniden kahvalti et firsat buldugum yer	RESTAURANT#GENERAL
+ben arkadasim ve 2.5 yasindaki oglum rahatlikla doyduk.	arkadasim yasin oglum rahat doy	FOOD#STYLE_OPTIONS
+bir kahvalti tabagi ile gelen çay ücretsizdi.	kahvalti tabagi gel cay ucret	DRINKS#STYLE_OPTIONS
+yukaridaki masaya ek olarak 3 bardak çay ve su dahil 42 tl ücret ödedik.	yukari masa ek bardak cay dahil tl ucret ode	RESTAURANT#PRICES
+kahvalti tabagi 17.90 tl menemen 10 tl patates 8 tl.	kahvalti tabagi tl menemen tl patates tl	FOOD#PRICES
+sani istanbul'un dört bir kösesine yayilmis durumda.	sani kose yay durum	RESTAURANT#GENERAL
+fakat benim çok yakinimda olmasina ragmen çok sik gitmeyi tercih etmiyorum.	yakinim ol sik git tercih et	RESTAURANT#GENERAL
+etine eyvallah fakat fiyat konusunda çok uçuklar.	et eyvallah fiyat konu ucuk	RESTAURANT#PRICES FOOD#QUALITY
+biraz daha ortamini sik hale dönüstürürlerse daha fazla müsteri çekeceklerine eminim.	ortam sik hal donus fazla musteri cekecek emin	AMBIENCE#GENERAL
+bu kadar çok ve lezzetli çay çeşidini bir arada bulmak çok güzel.	lezzet cay cesit bul guzel	FOOD#QUALITY FOOD#STYLE_OPTIONS
+karaköyün dar sokak aralarında, sokağa koyduğu masalarıyla insanı farklı bir atmosfere sürüklüyor.	karako dar sokak ara sokak koy masa insan fark atmosfer surukle	LOCATION#GENERAL AMBIENCE#GENERAL
+servis çok özenli ve güzel.	servis ozen guzel	SERVICE#GENERAL
+müşterisi genç bir kitle.	musteri genc kitle	RESTAURANT#GENERAL
+kül tablalarının dolu ve pis durması bana starbucks'ı hatırlattı.	kul tabla dolu pis dur hatirla	SERVICE#GENERAL
+manzara'ya tabikide yıldızlı 5 !	tabiki yildiz	AMBIENCE#GENERAL
+dekorasyon da bir o kadar güzel.	dekorasyon guzel	AMBIENCE#GENERAL
+eğer sabırlıysanız ve denize biraz daha yakın olayım diyorsanız iyi şanslar ne kadar bekleyeceğiniz bir muamma.	sabir deniz yakin ol iyi sans bekle muamma	RESTAURANT#GENERAL
+tek kötü yanı bu olabilir burasının benim açımdan.	tek kotu yan ol bura acim	RESTAURANT#GENERAL
+fiyatlar gerçekten bir tık üstte ama manzara gözümü her defasında kör ediyor ve görmezden gelebiliyorum.	fiyat gercekten tik ust manzara goz kor gor gel	RESTAURANT#PRICES AMBIENCE#GENERAL
+aşk-ı memnu'yu tatmayan kalmasın!	tat kal	FOOD#QUALITY
+burdaysanız mutlaka deneyin kuş yuvası yenmesi biraz zor bir tatlı ama o da güzel bir alternatif.	burt mutlaka dene kus yuva yen zor tatli guzel alternatif	FOOD#QUALITY
+yazın dısarıda yer bulması epey zor.	yazin disari yer bul epey zor	AMBIENCE#GENERAL
+fakat kızartma combosu bir harika.	kizar combo harika	FOOD#QUALITY
+sürekli kalabalik nedeniyle servis oldukca yavas.	surekli kalabalik servis oldukca yavas	SERVICE#GENERAL
+bazen bir hesabın gelmesi bile yarım saat sürebiliyor.	hesap gel yarim saat sur	SERVICE#GENERAL
+sadece ün yapmak işte hepsi bundan ibaret.	sadece ibaret	RESTAURANT#GENERAL
+parasıyla almıyormuş gibi davran panpa konsept esinmesi bülent ersoyun fevkinde	para al davran panpa konsept esin bulent ersoyun fevk	AMBIENCE#GENERAL
+3 arkadaş yaz başı gittik,döner kısma oturduk 7-8 dakika sipariş almaya gelen olmadı.	arkadas yaz bas git doner kis otur dakika siparis al gel	SERVICE#GENERAL
+bi dakka bekleyin işim var görüyorsunuz tarzı bir fırça.	bi dakka bekle is gor tarz firca	SERVICE#GENERAL
+evet yemekler lezzetli ortam guzel fakat hafta sonu gittigimiz icin midir bilmemm cok kalabalikti.	evet yemek lezzet ortam guzel hafta son gittig ic bil kalabalik	AMBIENCE#GENERAL FOOD#QUALITY
+calisanlar pek ilgili degildi hesabi tam 17482 garsona soylememize ragmen yarim saat sonra geldi abartisiz.	calisan hesabi garson yarim saat gel abarti	SERVICE#GENERAL
+içecek çeşitliliği konusunda biraz yetersiz ancak fiyat olarak tartışmasız çevresine göre çok çok ucuz.	icecek cesitlilik konu yetersiz fiyat tartis cevre	RESTAURANT#PRICES DRINKS#STYLE_OPTIONS
+civarda sıcaktan bunalıp serinlemek istiyorsanız boğazın kenarındaki masalardan birine oturup canlı müzik eşliğinde soğuk birşeyler içebilirsiniz.	civar sicak bunal serinle bogaz kenar masa otur canli muzik eslik soguk ic	RESTAURANT#GENERAL
+türk kahvesi de fena değil.	turk kahve fena	DRINKS#QUALITY
+manzarasi ve dizayni guzel fakat garsonlar ilgisiz, porsiyonlar cok kucuk ve pahali.	manzarasi dizayn guzel garson ilgi porsiyon kucuk paha	RESTAURANT#PRICES AMBIENCE#GENERAL SERVICE#GENERAL FOOD#STYLE_OPTIONS
+lezzet eh iste.	lezzet eh	FOOD#QUALITY
+ozetle manzara disinda bisey yok.	ozet manzara bisey yok	RESTAURANT#GENERAL AMBIENCE#GENERAL
+happy hour icin vazgecilmez nokta.	happy hour vazgec nokta	RESTAURANT#GENERAL
+bence burgerleri ve pizzasi kanyon'da yenebilecek acik ara en iyi.	burger pizzasi yen acik ara iyi	FOOD#QUALITY
+zincirler icinde tek tercih edilebilir yer.	zincir ic tek tercih et yer	RESTAURANT#GENERAL
+adi her ne kadar pizzaci olsa da ne yazik ki pizzalar ortalama.	at pizzaci yazik pizza ortalama	FOOD#QUALITY
+neden bu kadar popüler oldugunu anlamiyorum.	populer oldugun anla	RESTAURANT#GENERAL
+num num gerçegi - yediginiz herseyin hakkini verdikleri bir gerçek.	num num gercegi yedig hersey hak ver gercek	FOOD#QUALITY
+yemeklerin doyuruculugu ve lezzeti tartisilmaz ancak ögle saatlerinde yer bulmakta oldukça sikintili.	yemek doyuruculugu lezzet tartisilmaz ogle saat yer bul oldukca sikinti	AMBIENCE#GENERAL FOOD#QUALITY
+manzaraya da sufleye de bayildik.	manzara sufle bay	AMBIENCE#GENERAL FOOD#QUALITY
+karsida isiklariyla rumeli hisari ve köprü manzarasi esliginde bir aksamüstü big chefs'te oturmak çok keyifliydi.	karsida isik rum hisari kopru manzarasi eslig aksamustu big otur keyif	AMBIENCE#GENERAL
+sufle 13,5 lira, çay 4,5 lira.	suf lira cay lira	DRINKS#PRICES FOOD#PRICES
+burada sulu yemek yok.	yemek yok	FOOD#STYLE_OPTIONS
+gençler ve ögrenciler için fiyatlari daha uygun tutmuslar.	genc ogrenci fiyat uygun tut	RESTAURANT#PRICES
+lahmacun döner burger pide ve köfte çesitleri mevcut.	lahmacun doner burger pit kofte cesit mevcut	FOOD#STYLE_OPTIONS
+iftar menüsü 80 tl.	iftar menus tl	FOOD#PRICES
+ezogelin çorba çok tuzluydu.	ezogel corba tuz	FOOD#QUALITY
+ve erken servis edildigi için iftara kadar sogudu.	erken servis edildigi iftar sogud	SERVICE#GENERAL
+içli köfte ve pirzola güzeldi.	icli kofte pirzo guzel	FOOD#QUALITY
+servis elemanlari yetersiz oldugu için yavasti.	servis eleman yetersiz yavast	SERVICE#GENERAL
+her seyden öte böyle bir mekana bu tuvaletler hiç yakismiyor	mekan tuvalet yake	AMBIENCE#GENERAL
+bir yer düşünün ki içecekler bardakla geliyor, garsonlar suratsız ve islak mendil bulunmuyor sebepsiz yere -_- buraya ne olmuş böyle !	yer dusun icecek bardak gel garson surat islak mendil bulun sebep yer bura ol	DRINKS#STYLE_OPTIONS SERVICE#GENERAL
+hayal kırıklığı	hayal kirik	RESTAURANT#GENERAL
+civardaki restorantlardan pek bir farkı yok, servisi yavaş.	civar restorant fark yok servis yavas	SERVICE#GENERAL
+her deniz ürününü karıştırıp önünüze getiriyorlar.	deniz urun karis getir	FOOD#STYLE_OPTIONS
+açıkçası hicbirinin tadını tam alamiyorsunuz.	acik tat al	FOOD#STYLE_OPTIONS
+balik ve deniz ürünlerini çok sevmeyenler balik kfcsi kıvamında olduğu ve kızartma bol olduğu için sevebilirler.	balik deniz urun sev balik kfc kivam kizar bol sev	FOOD#STYLE_OPTIONS
+sadece soya soslu somon başarılıydı.	sadece soy sos somon basari	FOOD#QUALITY
+kisin iç kismi dag evini animsatan, yazin bahçesi yesillikler icersinde ve ferah olan, açik büfe kahvaltisi zengin çesitleriyle bir hayli rabet gören, bunun haricinde genellikle nargile severlerin ugrak mekani olan tatli bir cafe.	kis ic kismi dag ev animsa yazin bahce yesil ic ferah acik bufe kahvalti zengin cesit hayli rabet gor haric genellikle nargile sev ugrak mekan tatli cafe	RESTAURANT#GENERAL AMBIENCE#GENERAL FOOD#STYLE_OPTIONS
+utanmadan bozuk içli köfte, acilasmis tereyagi servis edebilen bir mekan...	utan bozuk icli kofte acilasmis tereyagi servis et mekan	FOOD#QUALITY
+garsonu bu kadar uyardigimizda ise sadece iletirim dedi.	garson uyardigi sadece iletirim	SERVICE#GENERAL
+özür bile dilemediler.	ozur dile	SERVICE#GENERAL
+machiato dediğim halde yerine espresso servis eden işletme.	machiato espresso servis isle	SERVICE#GENERAL
+boş bardak, fincan, tabak masada bekliyor, toplayan yok.	bos bardak fincan tabak masa bekle topla yok	SERVICE#GENERAL
+menüdeki çeşitleri sorunca, o yok, bu yok, onun yerine şunu verelim, bunu verelim.	menu cesit sor yok yok ver ver	FOOD#STYLE_OPTIONS
+kirli, iyi yıkanmamış bardakla çay servisi.	kir iyi yika bardak cay servis	SERVICE#GENERAL
+mado'nun genel hastalıklarının bir araya gelmiş hali gibi.	genel hastalik ara gel hal	RESTAURANT#GENERAL
+manzara satıyor burada da.	manzara sat	RESTAURANT#GENERAL AMBIENCE#GENERAL
+yoksa mado'ların kötü bir örneği.	kotu ornek	RESTAURANT#GENERAL
+ev yemekleri hergün farkli - tipki anne eli degmis gibi lezzetli ev yemekleri...	ev yemek hergun fark tipki anne el degmis lezzet ev yemek	FOOD#QUALITY FOOD#STYLE_OPTIONS
+mekan çok küçük hemen doluyor.	mekan kucuk hemen dolu	AMBIENCE#GENERAL
+öglenleri yer bulamadigimiz çok oluyor.	oglen yer bulamadig	SERVICE#GENERAL
+genelde ürünler lezzetli ve fiyat da uygun .	genelde urun lezzet fiyat uygun	FOOD#QUALITY FOOD#PRICES
+öglen için tercih edilebilir ama 12yi çok geçirmemek gerekiyor...	oglen tercih et gec	RESTAURANT#GENERAL SERVICE#GENERAL
+cok guzel sirin bir mekan yemekler kokteyliler super manzara cok iyi, tabiki bu guzel seyler icin sira bekleyebilirsiniz.	guzel sir mekan yemek kokteyli super manzara iyi tabiki guzel ic sira bekle	AMBIENCE#GENERAL DRINKS#QUALITY FOOD#QUALITY
+malzemeler güzel ama hamuru çok sevemedim.	malzeme guzel hamur sev	FOOD#STYLE_OPTIONS
+genel olarak mekan şirin.	genel mekan sir	AMBIENCE#GENERAL
+alkol olsa daha tutulabilirler.	alkol tut	DRINKS#STYLE_OPTIONS
+hayatımın en pahalı yemeğini yediğim restoran.	hayat paha yemek restoran	FOOD#PRICES
+yemekler lezzetli olmasına rağmen fsm köprüsünün başınızın üstünde zebellah gibi durması manzaranın keyfini kaçırmakta.	yemek lezzet ol fsm kopru bas ust zebellah dur manzara keyif	AMBIENCE#GENERAL FOOD#QUALITY
+yemek porsiyonları çok küçük.	yemek porsiyon kucuk	FOOD#STYLE_OPTIONS
+vale hizmeti var.	vale hizmet	SERVICE#GENERAL
+rock'n roll burger yedim.	roll burger yet	FOOD#QUALITY
+burger ekmegi yumusamis dagiliyordu.	burger ekmegi yumusamis dagile	FOOD#QUALITY
+icinde ki sos da pek bi istah acici degildi.	ic sos bi istah acici	FOOD#QUALITY
+ortami guzel gidilecekse onun icin gidelebilir.	ortami guzel git gidel	AMBIENCE#GENERAL
+mekan enteresan bir havaya sahip , haftaici aksamlari abiler ellerinde nargilelerle çayla muhabbetin dibine vururken.	mekan enteresan hava sahip haftai aksam abi el nargile cay muhabbet dip vur	AMBIENCE#GENERAL
+hafta sonu sabahlari ozellikle evli ve cocuklu ciftlerin kahvalti merkezi oluyor.	hafta son sabah ozellik evli cocuk cift kahvalti merkez	RESTAURANT#GENERAL
+yemeklerini ve caylarini begendigim.	yemek cay begendigi	DRINKS#QUALITY FOOD#QUALITY
+fiyat olarak gayet mantikli bir isletme.	fiyat gayet mantik islet	RESTAURANT#PRICES
+tavsiyemdir	tavsiyem	RESTAURANT#GENERAL
+kendilerine özel biraları mevcut olsaydı belki daha güzel olurdu ama standart biralardan içmek durumunda kaldık.	ozel bira mevcut ol guzel ol standart bira ic durum kal	DRINKS#STYLE_OPTIONS
+bunun haricinde servis iyi garsonlar güleryüzlü ve rahat bir mekan.	haric servis iyi garson guleryuzlu rahat mekan	AMBIENCE#GENERAL SERVICE#GENERAL
+yemekler de farklı tadlar var.	yemek fark tat	FOOD#STYLE_OPTIONS
+cuma iş çıkışı arkadaşlarla takılmalık bir mekan.	cuma is cik arkadas takil mekan	AMBIENCE#GENERAL
+çok fazla lezzetli alternatifi bulunan menüsünü seviyorum.	fazla lezzet alternatif bulun menus sev	FOOD#QUALITY FOOD#STYLE_OPTIONS
+citys'in alt katındayken tanıdık sevdik.	alt katin tani sev	RESTAURANT#GENERAL
+magnolia'sı ayrı, limonatası ayrı güzel.	ayri limonata ayir guzel	DRINKS#QUALITY FOOD#QUALITY
+bir peynirli tostu bile çok özenle sunuyorlar.	peynir tosut ozen sun	SERVICE#GENERAL
+somon ızgarasına 4 puan.	somon izgara puan	FOOD#QUALITY
+hem sağlıklı hem de doyurucu.	saglik doy	FOOD#QUALITY
+güzel bir öğle yemeği molası.	guzel ogle yemek mola	FOOD#QUALITY
+bahçesi de güzel.	bahce guzel	AMBIENCE#GENERAL
+salıncağı bile var.	salincak	AMBIENCE#GENERAL
+yemek üzerine de soğuk kahve iyi gidiyor.	yemek uzer soguk kahve iyi git	DRINKS#QUALITY
+boğazın en güzel yerlerinden birinde, sıcak, sempatik ve zevkli dekorasyonu ve şahane manzarası, genç müşteri kitlesi, güzel müzikleri yetmezmiş gibi güler yüzlü arkadaşca servisi de mükemmel.	bogaz guzel yer sicak sempatik zevk dekorasyon sahane manzara genc musteri kitle guzel muzik yet guler arkadasca servis mukemmel	LOCATION#GENERAL AMBIENCE#GENERAL SERVICE#GENERAL
+kahvaltı seçenekleri çok iyi.	kahvalti secenek iyi	FOOD#STYLE_OPTIONS
+yemekleri de fena değil.	yemek fena	FOOD#QUALITY
+tüm bu özelikleri göz önüne alınca fiyatlar çok makul geliyor.	ozelik goz al fiyat makul gel	RESTAURANT#PRICES
+gece, gündüz, her zaman için öneririm.	gec gunduz zaman oner	RESTAURANT#GENERAL
+besiktaki en hakiki pideci diyebilirim.	besik hakiki pide	FOOD#QUALITY
+ben bu yuzden tatli yemegi tercih etmedim.	tatli yemegi tercih et	FOOD#QUALITY
+fiyatlari 13-17 tl arasi porsiyonlari 1.5 olarak buyutmek de mumkun.	fiyat tl arasi porsiyon buyut mumkun	FOOD#PRICES FOOD#STYLE_OPTIONS
+puanimdan sirf yavas yuzunden kisiyorum!	puanim sirf yavas kis	RESTAURANT#GENERAL SERVICE#GENERAL
+otobus duraginin hemen karsisinda yeri cok kolay.	otobus duragi hemen karsis yer kolay	LOCATION#GENERAL
+porsiyonu tam malzemesi bol hamuru citir citir fakat servis icin ayni hosnutluktan bahsedemicem.	porsiyon malzeme bol hamur citir citir servis ic ayni hosnutluk bahset	SERVICE#GENERAL FOOD#STYLE_OPTIONS
+servis oldukca yavas.	servis oldukca yavas	SERVICE#GENERAL
+yavas demek bile az kalir.	yavas kal	SERVICE#GENERAL
+az vaktiniz varsa kesinlikle ogle saatlerinde ugramayiniz.	vakit kesin ogle saat ugra	SERVICE#GENERAL
+besiktas da yiyebilceniz en iyi pide ama odun atesinde pisenin yerini tutmuyor tabiki.	besiktas yiyebilce iyi pit ot ate pise yer tut tabiki	FOOD#QUALITY FOOD#STYLE_OPTIONS
+tatli secenekleri de mevcur sufle ve kunefe var menu de var da pide o kadar gec gelince insani tatli siparisi dusunduruyor.	tatli secenek mevcur suf kunef menu pit gec gel insani tatil sipari dusun	FOOD#STYLE_OPTIONS SERVICE#GENERAL
+eski kalitesinde olmasada hala iyi diyelim talep çok olunca ister istemez kalite ve servis vasata düşüyor etleri kenfi çiftliklerinden otopark sorun fiatlar normal	eski kalite olmasa iyi talep ol kalite servis vasat dus et kenf ciftlik otopark sorun fiat normal	RESTAURANT#PRICES RESTAURANT#GENERAL SERVICE#GENERAL
+manzarasi icin gidilesi cafe , cok fazla yazacak bisey yok.	manzarasi gidile cafe fazla yaz bisey yok	AMBIENCE#GENERAL
+fiyatlar standart seviyede.	fiyat standart seviye	RESTAURANT#PRICES
+otopark sorunu yok.	otopark sorun yok	LOCATION#GENERAL
+sessiz sakin ve huzurlu bir mekan.	ses sakin huzur mekan	AMBIENCE#GENERAL
+kuru fasulyesi lezzetli.	kuru fasulye lezzet	FOOD#QUALITY
+sutlaci tavsiye edilir.	sutla tavsiye et	FOOD#QUALITY
+köftesi de kaliteli.	kofte kalite	FOOD#QUALITY
+sade güzel bir yer.	sade guzel yer	AMBIENCE#GENERAL
+çalışanlar ilgili kibar.	calisan kibar	SERVICE#GENERAL
+ortaköye yolu düşen ugramali.	ortako yol dus ugrama	RESTAURANT#GENERAL
+park sorunu ciddi.	park sorun cit	LOCATION#GENERAL
+valesi var gerçi.	vale gerci	SERVICE#GENERAL
+pazar sabahları brunch dışında seçeneğiniz yok.	pazar sabah brunch dis secenek yok	FOOD#STYLE_OPTIONS
+brunch çeşitleri ehh.	brunch cesit ehh	FOOD#STYLE_OPTIONS
+masaya istenen sucuklu yumurtanın sucuğuna extra ücret istenmesi ayıp.	masa sucuk yumurta sucuk extra ucret ayip	FOOD#PRICES
+mekanın lokasyonu on numara ama rezervasyonsuz deniz kenarı masa bulmanız imkansız.	mekan lokasyon numara rezervasyon deniz kenar masa bul imkan	LOCATION#GENERAL
+böyle bir brunch için 59tl, 4 ince dilim sucuk için 5tl extra ücret mânâsız.	brunch ince dilim sucuk extra ucret	FOOD#PRICES
+en son kabalık bir grup halinde gittiğimizde siparişlerde karışıklık olmuştu malesef.	son kabalik grup hal git siparis karisik ol malesef	SERVICE#GENERAL
+tek kelimeyle muhtesem bir lezzet, doner kesimi tam olarak usta isi.	tek kelime muhtesem lezzet doner kesim us	FOOD#QUALITY FOOD#STYLE_OPTIONS
+yagsiz ve cok lezzetli.	yagsiz lezzet	FOOD#QUALITY
+yaninda getirdikleri tandir lavasi ise bugune kadar yedigim en lezzetli lavas.	yan getir tan lavasi bugun yedigim lezzet lavas	FOOD#QUALITY
+oturdugunuz gibi siparisiniz aliniyor ve hemen servis yapilmaya baslaniyor.	otur sipari alin hemen servis yap basla	SERVICE#GENERAL
+ortaya ise salata ve patates kizartmasi getiriyolar.	orta salata patates kizartmasi getir	FOOD#STYLE_OPTIONS
+acik ara en iyi donerci.	acik ara iyi donerc	RESTAURANT#GENERAL
+big chefs her daim şişirilmiş bir kafedir.	big chefs daim sis kafe	RESTAURANT#GENERAL
+çünkü size oluru olmayan fiyatlar sunar.	oluru fiyat sun	RESTAURANT#PRICES
+i̇sim yapmıştır çünkü pahalı olduğu için kaliteli algısı yaratır .	sim yap paha kalite algi yarat	RESTAURANT#PRICES
+bir ayvalık tostuna 20 tl , bir kavanoz tatlıya 20 tl vs. yazan bu mekana kesinlikle gitmem .	ayvalik tosut tl kavanoz tatli tl vs yaz mekan kesin git	RESTAURANT#GENERAL FOOD#PRICES
+çünkü bu israftan başka bir şey değil benim nazarımda .	israf baska nazar	RESTAURANT#GENERAL
+böyle mekanları biraz boş bırakmak lazım ki fiyat skalasını biraz düşük aralığa taşısınlar !	mekan bos birak lazim fiyat skala dusuk aralik tasi	RESTAURANT#PRICES
+tatlilar - tatlilari çok güzel, tiramisu özellikle yenilmeli ama ana ögün kadar büyük geliyor dikkat!	tatli tatli guzel tirami ozellikle yen ana ogun buyuk gel dikkat	FOOD#QUALITY
+unsuz çikolatali pastasi biraz agir, diyet yapanlar bulasmasin!	cikolata pastasi agir diyet yap bul	FOOD#QUALITY
+yemeklerin tadi tuzu yok.	yemek tadi tuz yok	FOOD#QUALITY
+ortam gürültüden ibaret.	ortam gurultu ibaret	AMBIENCE#GENERAL
+garsonlar tv izlemekten size bakmiyor.	garson tv izle bak	SERVICE#GENERAL
+geçin allahaskina baska bir sürü yer var yenebilecek	gecin allahaskina baska suru yer yen	RESTAURANT#GENERAL
+güzel - konum olarak çok keyifli bir yer degil ancak çalisirken ögle yemekleri için bazen gidiyoruz.	guzel konum keyif yer calis ogle yemek git	LOCATION#GENERAL FOOD#QUALITY
+yemeklerin lezzetine inanamayacaksiniz, pastirma ile yapilan topkapi kebabi çok iyidir.	yemek lezzet inan pastirm yap topkapi kebabi iyi	FOOD#QUALITY
+koftenin hicbir ozelligi yok.	kofte ozelligi yok	FOOD#QUALITY
+hizmet yok guleryuz yok.	hizmet yok guleryuz yok	SERVICE#GENERAL
+manzaranin ekmegini yiyorlar.	manzara ekmeg	RESTAURANT#GENERAL AMBIENCE#GENERAL
+masalar dipdibe marketten dondurulmus kofte alin evinizde yiyebilirsiniz.	masa dipdip market don kofte alin ev	AMBIENCE#GENERAL
+siradan - siradan kebaplari olan mekan...	sira sira kebap mekan	FOOD#QUALITY
+kebap için kesinlikle gidilmeli denemez ama tatlilari inanilmaz güzel.	kebap kesin git dene tatli inan guzel	FOOD#QUALITY
+hizmetten cok memnun kaldik.	hizmet memnun kal	SERVICE#GENERAL
+herkes cok ilgili ve guler yuzluydu.	guler	SERVICE#GENERAL
+d somon izgara ve etli quesadilla sipariz ettik.	d somon izgara et quesadil sipariz et	FOOD#QUALITY
+somon izgaranin altinda olan kuskonmazli ispanakli sote mukemmeldi, yemek ise genel olarak guzeldi.	somon izgara alt kuskonmaz ispanak sot mukemmel yemek genel guzel	FOOD#QUALITY
+etli quesadillanin ise ozellikle eti cok guzeldi.	et quesadillanin ozellikle et guzel	FOOD#QUALITY
+mutlaka bir daha gelicez :	mutlaka gelicez	RESTAURANT#GENERAL
+sevdiğim bir mekan.	sev mekan	RESTAURANT#GENERAL
+müzikler, bahçesi, menüsü güzel.	muzik bahce menus guzel	AMBIENCE#GENERAL FOOD#STYLE_OPTIONS
+ferah bir ortamı var ve kalabalık buluşmalar için de uygun bir yer.	ferah ortam kalabalik bulus uygun yer	AMBIENCE#GENERAL
+çalışanları da güler yüzlü.	calisan guler	SERVICE#GENERAL
+girerken böyle bir yerle karşılaşacağınızı tahmin etmiyorsunuz konumu nedeniyle.	gir yer karsilasacak tahmin et konum	LOCATION#GENERAL
+sütiş'in emirgan şubesi gibi bu şubesinin manzarası da çok güzel deniz hemen yanınızda köprü hemen sağ çaprazda :	emirgan sube sube manzara guzel deniz hemen yan kopru hemen sag capraz	AMBIENCE#GENERAL
+) yemekler güzel fiyatlar da mekana göre gayet uygun.	yemek guzel fiyat mekan gayet uygun	RESTAURANT#PRICES FOOD#QUALITY
+tavukgöğsü başarılı :	tavukgok basari	FOOD#QUALITY
+berbat biyer rezervasyon yaptirdigim halde misafirlerime rezil oldum rezalet biyer calisanlarin tavirlari olsun ilgileri herseyi rezalet otesi	berbat biyer rezervasyon yaptirdigim misafir rezil ol rezalet biyer calisan tavir ilgi hersey rezalet	RESTAURANT#GENERAL SERVICE#GENERAL
+çömlekte ev yapimi yogurtlarini mutlaka deneyin.	comlek ev yapim yogurtlarin mutlaka dene	FOOD#QUALITY
+eski zamanlar biraktigimiz gerçek yogurdun tadini yakalayacaksiniz.	eski zaman biraktig gercek yogur tadin yakala	FOOD#QUALITY
+fiyati da saka gibi.	fiyati saka	FOOD#PRICES
+mükellef bir yemek sonrasi ortalama 15-25 tl'ye mekandan çikabilirsiniz.	mukellef yemek sonrasi ortalama mekan cik	FOOD#PRICES
+dekorasyon zevkli olmus, özellikle mekanin ortasina konuslanmis bonsai agaç beni benden aldi.	dekorasyon zevk olmus ozellikle mekan orta konuslanmis bonsai agac al	AMBIENCE#GENERAL
+çok iyi karsilandik ve sonuna kadar el üstünde tutulduk.	iyi karsila son el ust tut	SERVICE#GENERAL
+harikasiniz arkadaslar.	harika arkadas	RESTAURANT#GENERAL
+) her seyden ufak ufak tattik.	ufak ufak tattik	FOOD#QUALITY
+yemeklerde favorilerim döner ve kavurmali pide oldu.	yemek favori doner kavur pide	FOOD#QUALITY
+kavurmali pide için tekrar ugrayacagim.	kavur pit tekrar ugrayacagim	FOOD#QUALITY
+tatlilarda tavuk gögsü gerçekten lezizdi.	tatli tavuk gog gercekten leziz	FOOD#QUALITY
+irmik helvasinin da tavuk gögsünden eksigi yoktu, sekeri kivamindaydi ve hafifti.	irmik helva tavuk gog eksig yok seker kivam hafif	FOOD#QUALITY
+buraya sık geliyorum, leventte çalışanların da çok tercih ettiği bir yer.	bura sik gel levent calisan tercih yer	RESTAURANT#GENERAL
+yemekleri eskiden daha güzeldi özellikle mantısı çok başarılıydı.	yemek eskiden guzel ozellikle manti basari	FOOD#QUALITY
+ancak her gün çeşit çeşit ev yemeğinin çıkıyor olması çok cazip, ister zeytinyağlılar ister sıcak yemekler insanı her gün fast food yemekten alıkoyuyor.	gun cesit cesit ev yemek cik cazip zeytinyak sicak yemek insan gun fast food yemek alikoy	FOOD#STYLE_OPTIONS
+zeytinyağlı tabağı başarılı, salatalarının da porsiyonu çok büyük tavsiye ederim.	zeytinyak tabak basari salata porsiyon buyuk tavsiye et	FOOD#QUALITY FOOD#STYLE_OPTIONS
+ve oradakı koku olayına bır hal care bulamadıkları ıcın yazık olan mekandır.	ora koku olay hal care bula ic yazik mekan	AMBIENCE#GENERAL
+taksim'de kendi tarzına göre keyifle gidilecek mekanlardan biri.	tarz keyif git mekan	RESTAURANT#GENERAL
+) hamburgeri hoşuma gidiyor ve ny steak de tavsiye edebilirim.	hamburger hos git ny steak tavsiye et	FOOD#QUALITY
+i̇çecek olarak genelde bira sevdiğim için kokteylleri için bir şey söyleyemeyeceğim.	cecek genelde bira sev kokteyl	DRINKS#QUALITY
+afiyetle!	afiyet	FOOD#QUALITY
+ben artık happy moons u beğenmiyorum.	happy moons begen	RESTAURANT#GENERAL
+servisi iyiydi çalışanları güleryüzlü fakat yemeklerinden eskiden aldığım tadı almıyorum.	servis iyi calisan guleryuz yemek eskiden al tat al	FOOD#QUALITY SERVICE#GENERAL
+ben bi tek çilekli limonatasını beğendim, çok tavsiye etmem	bi tek cilek limonata begen tavsiye et	RESTAURANT#GENERAL DRINKS#QUALITY
+öyle bir manzara ve konum için olabilecek son mekan filizler olmalıydı.	manzara konum ol son mekan filiz ol	RESTAURANT#GENERAL AMBIENCE#GENERAL
+zaman kaybı!	zaman kayp	RESTAURANT#GENERAL
+yemekleri fena degil.	yemek fena	FOOD#QUALITY
+ozellikle zeytinyaglilari guzel.	ozellikle zeytinyaglilari guzel	FOOD#QUALITY
+galata cevresinde zeytinyagli veya ev yemegivari yiyebilecegimiz nadir yerlerden oldugu icin tercih ediyorduk.	galata cevre zeytinyag ev yemegivar yiyebilecegimiz nadir yer oldug tercih et	FOOD#QUALITY
+ama dunyanin en yavas evlere servis hizmetini sunuyorlar.	dunya yavas ev servis hizmet sun	SERVICE#GENERAL
+hele de ogle saatinde 50 ile 70 dakika beklemeye hazir olun.	hele ogle saat dakika bekle hazir ol	SERVICE#GENERAL
+ogle saatleri degilse de 25-30 dk beklemeyi goze almak gerekiyor.	ogle saat dk bekle goz al	SERVICE#GENERAL
+en son soyledigimiz firinda makarnasi da kuru geldikten sonra bir daha siparis vermemeye karar verdik.	son soyledigimiz firinda makarnasi kuru gel siparis ver karar ver	FOOD#QUALITY
+manzarasi çok güzel , dekorasyonda çok başarılıydı , kahvaltı için gittik kahvaltı güzeldi ama omleti beğenmedim çok tatsızdı.	manzarasi guzel dekorasyon basari kahvalti git kahvalti guzel omleti begen tat	AMBIENCE#GENERAL FOOD#QUALITY
+geri kalan hersey tazeydi kayısı ve cevizle süslemeleri çok hoşuma gitti kahvaltıya fresh bir hava katmışlar.	geri kal hersey taze kayi ceviz susleme hos git kahvalti fresh hava kat	SERVICE#GENERAL
+kahvaltısı için gidebilir ama garsonlar servis ederken gördüğüm kadarıyla yemek porsiyonları küçüktü ve sunum hoşuma gitmedi .	kahvalti git garson servis et gordugum yemek porsiyon kucuk sunum hos git	FOOD#QUALITY FOOD#STYLE_OPTIONS
+kısacası manzarası için gidilebilinir bir yer sadece .	kisacasi manzara git yer sadece	RESTAURANT#GENERAL AMBIENCE#GENERAL
+i̇lk evlilik yıldönümü yemeğimizi burada yemiştik, karşılama gayet güzel kibar çalışanlar.	lk evlilik yildonum yemek karsila gayet guzel kibar calisan	SERVICE#GENERAL
+sunumu beğendik.	sun begen	SERVICE#GENERAL
+sakin mutlu bir yemekti.	sakin mutlu	AMBIENCE#GENERAL
+tekrar gitmeyi düşünürüm.	tekrar git dusun	RESTAURANT#GENERAL
+klasik rakı-balık-fasıl üçlemesinden sıkılan, ve mezelere odaklanmak isteyenler için en iyi alternatif.	klasik ucle sik meze odak iyi alternatif	FOOD#QUALITY
+manzara olarak en iyi seçeneği sunmasa da lakerdası başta olmak üzere bütün mezeleri denemeye değer.	manzara iyi secenek sun lakerdasi basta meze deneme deger	AMBIENCE#GENERAL FOOD#QUALITY
+fıstıklı peynirli meze, buraya özel bir lezzet.	fistik peynir meze bura ozel lezzet	FOOD#QUALITY
+kişi başı 60 liraya rakınız ve mezelerinizle güzel bir akşam geçirmeniz garanti.	kisi bas lira rak meze guzel aksam gec garanti	RESTAURANT#PRICES FOOD#QUALITY
+konum itibariyle cok guzel yerde, manzarasi enfes.	konum guzel yer manzarasi enfes	LOCATION#GENERAL AMBIENCE#GENERAL
+limonatasi kocaman ve lezzetliydi, "ayvalik tostu"nu yeniden yorumlayarak tamamen farkli bir hale getirmisler, fena degildi.	limonatasi koc lezzet ayvalik tosut nu yeniden yorumla fark hal getir fena	DRINKS#STYLE_OPTIONS DRINKS#QUALITY FOOD#QUALITY
+ancak mekanin en buyuk sıkıntısı hizmet kalitesi, cok cok yavaslar!	mekan buyuk sikinti hizmet kalite yavas	SERVICE#GENERAL
+ki bana gore bir mekanda olmasi gereken en onemli ozellik "hizmet kalitesi" en buyuk kurtaricisi lokasyon ve muhtesem bogaz manzarasi!	mekan ol onem ozellik hizmet kalite buyuk kurtar lokasyon muhtesem bogaz manzarasi	LOCATION#GENERAL AMBIENCE#GENERAL SERVICE#GENERAL
+sinirsz kahvalti keyfi için harika bir yer.	sinirsz kahvalti keyfi harika yer	FOOD#QUALITY
+manzarasi cok güzel.	manzarasi guzel	AMBIENCE#GENERAL
+garsonlar biraz daha güler yüxlü olabilir.	garson guler yux ol	SERVICE#GENERAL
+40 tl kisi basi.	tl kis basi	RESTAURANT#PRICES
+zengin bir acik büfe menüsü var.	zengin acik bufe menus	FOOD#STYLE_OPTIONS
+keyifli bir yer.	keyif yer	RESTAURANT#GENERAL
+son zamanların benim için en büyük hayal kırıklığı.	son zaman buyuk hayal kirik	RESTAURANT#GENERAL
+bu kadar büyük merakla gelip de yediklerimden bu kadar az haz ettiğim başka bir yer olmadı.	buyuk merak gel haz et baska yer	FOOD#QUALITY
+garson arkadaşlar, mekanın manzarası, hizmet şahane ama lezzet adına söyleyebileceğim çok şey yok.	garson arkadas mekan manzara hizmet sahane lezzet at yok	AMBIENCE#GENERAL FOOD#QUALITY SERVICE#GENERAL
+köprü altı yerleri gibi kalamar koydular önümüze.	kopru yer kal koy	FOOD#QUALITY
+yeşilköy efsanesi burada sürmemiş	yesilkoy efsane sur	RESTAURANT#GENERAL
+yıllar önce keyifli mekan sayısı azken sıklıkla tercih ettiğimiz, mekan sayısı arttıkça da geri plana ittiğimiz mekanlardan.	yil keyif mekan sayi azken sik tercih et mekan sayi art geri plan it mekan	RESTAURANT#GENERAL
+bahçesi insana huzur veriyordu...	bahce insan huzur ver	AMBIENCE#GENERAL
+manzara guzel servis rezalet , 3 kere soylemeden getirmiyorlar , iki kere degil 5 kere dusunun gelirken	manzara guzel servis rezalet kere getir kere kere dus gelir	AMBIENCE#GENERAL SERVICE#GENERAL
+bir yanı benzinlik bir yanı mezarlık manzaralı ama çokta tutan bir cafe.	yan benzin yan mezarlik manzara tut cafe	RESTAURANT#GENERAL AMBIENCE#GENERAL
+e5 üstünde olduğu için çabuk direksiyon kırılıp az vakitte çok oturmalık kolaylığı için tercih ettik.	ust cabuk direksiyon kir vakit otur kolaylik tercih et	LOCATION#GENERAL
+bahçesi keyifli yemekte çok kötü değildi.	bahce keyif kotu	AMBIENCE#GENERAL FOOD#QUALITY
+arkasından içtiğimiz kahve için çok beklesekte fazla beklentisiz bir cafe olduğundan notu 3.5 olarak verdim	arka ic kahve bekle fazla beklenti cafe ol not ver	RESTAURANT#GENERAL SERVICE#GENERAL
+besiktas barbarosta bulunan sampi sabaha kadar acik,gece cani cekenler icin ideal ve paket servisi de var,kapali kasarlisi da cok lezzetli oluyor	besiktas barbarost bulun sampi sabah acik gec cani cek ic ideal paket servis kapali kasarli lezzet	FOOD#QUALITY
+pizzalarini fena bulmadim.	pizza fena bul	FOOD#QUALITY
+acikcasi cok ayilip bayilani var ama ben daha kalin hamurlu pizzalari seviyorum.	acikca ayil bayila kalin hamur pizza sev	FOOD#STYLE_OPTIONS
+ama pizzeria trio' nun pizzalari da guzel.	pizzer trio pizza guzel	FOOD#QUALITY
+eti kotuydu net ama geri kalan urunleri fena sayilmazdi.	et kotu net geri kal urun fena say	FOOD#QUALITY
+i̇nanilmaz bir manzaraya sahip bu arada mekan.	nanilmaz manzara sahip mekan	AMBIENCE#GENERAL
+pizza, sarap, manzara kombini icin gidilebilir.	pizza sarap manzara kombin git	AMBIENCE#GENERAL DRINKS#QUALITY FOOD#QUALITY
+özellikle bahçesini tercih edin giderseniz.	ozellikle bahce tercih et git	AMBIENCE#GENERAL
+açık alan gayet rahat.	acik alan gayet rahat	AMBIENCE#GENERAL
+içecekler güzel, ama fastfood tarzı atıştırmalık tercih edecekseniz pek tavsiye etmem.	icecek guzel fastfood tarz atistirmalik tercih et tavsiye et	DRINKS#QUALITY FOOD#QUALITY
+yemekler fena değil fakat porsiyonlar çok ufak.	yemek fena porsiyon ufak	FOOD#QUALITY FOOD#STYLE_OPTIONS
+fiyat biraz fazla gibi.	fiyat fazla	RESTAURANT#PRICES
+burasi eskiden favori yerlerimdendi menüsü degisti ve artik eski menudeki yemeklerin bile tadi ayni degil lezzet olarak cok kötü.	burasi eskiden favori yerlerimdent menus degist eski menu yemek tadi ayni lezzet kotu	FOOD#QUALITY
+lezzet disinda degerlendirirsek hem dis alani bahcesiyle hemde ic alani rahat buyuk koltuklariyla cok keyifli bir mekan	lezzet deger dis alan bahce hemde ic alan rahat buyuk koltuk keyif mekan	AMBIENCE#GENERAL
+tadı bir başka aşşkın kuruçeşmenin en iyi mekanı diyebiliriz arkadaşlarla kahve içip sohbet etmek burda bir başka	tat baska asskin kurucesme iyi mekan arkadas kahve ic sohbet et burt baska	RESTAURANT#GENERAL
+kadıköy'ün bira cennetlerinden biri.	bira cennet	DRINKS#STYLE_OPTIONS
+eski çalışanları daha iyi ve samimiydi diye düşünüyorum.	eski calisan iyi samimiydi dusun	SERVICE#GENERAL
+mevcut çalışanlarının marjinal görünümlerini yadırgamamakla birlikte , bu marjinal görüntü hafiften cool davranışlara kaçıyor, bu da hizmete olumsuz yansıyor.	mevcut calisan marjinal gorunum yadirga birlikte marjinal goruntu hafiften cool davran hizmet olumsuz yansi	SERVICE#GENERAL
+daha gülümseyen bir çalışan profili olmalı.	gulumse calis profil ol	SERVICE#GENERAL
+hizmeti ortalama, yemekler ortalama.	hizmet ortalama yemek ortalama	FOOD#QUALITY SERVICE#GENERAL
+yine de bol çeşit bira denemek ve müzik dinlemek için gidilmeli.	bol cesit bira dene muzik dinle git	DRINKS#STYLE_OPTIONS AMBIENCE#GENERAL
+yemekler çok vasat.	yemek vasat	FOOD#QUALITY
+her zaman çok yoğun.	zaman yok	SERVICE#GENERAL
+içerde müzikten birbirini duyamıyorsun.	icerd muzik birbiri duy	AMBIENCE#GENERAL
+servis elemanları kaba.	servis eleman kaba	SERVICE#GENERAL
+sadece fiyatlar makul.	sadece fiyat makul	RESTAURANT#PRICES
+menü kısıtlı	menu kisit	FOOD#STYLE_OPTIONS
+cizbiz koftesi , sutis moccachinosu , dtox corbasi ve haftasonu hahvalti zenginligiyle tavsiye edebilecegim bir mekan manzarasi , ulasim rahatligi konforuyle denemenizi tavsiye ederim	cizbiz kofte sutis moccachinosu dtox corba haftason hahvalti zenginligi tavsiye et mekan manzarasi ulasim rahatligi konfor deneme tavsiye et	FOOD#QUALITY AMBIENCE#GENERAL DRINKS#QUALITY FOOD#STYLE_OPTIONS LOCATION#GENERAL
+sosyal medyada ünlü olduktan sonra kaliteyi düşürmüş mekanlardan bir tanesi.	sosyal medya unlu ol kalite dus mekan tane	RESTAURANT#GENERAL
+arkadaşım aşkı memnu söyledi,ben de cheescake söyledim.	arkadas ask memnu cheescake	FOOD#QUALITY
+i̇kisi de durmuş ve kötü kalite malzeme kullanılmıştı.	kis dur kotu kalite malzeme kullan	FOOD#QUALITY
+en azından adlarıyla özdeşleşmiş tatlılarına özen göstermelerini beklerdim.	azi at ozdes tatli ozen goster bekle	FOOD#QUALITY
+bu manzarada ne versek yerler mantığında bir işletmenin kuruçeşme'de olmasına çok üzüldüm.	manzara ver yer mantik isle ol uz	RESTAURANT#GENERAL
+önermiyorum, eminim aynı güzellikte manzaraya sahip ama yemekleri müşteriye saygı gereği taze ve iyi malzemeyle yapılmış bir yer bulabilirsiniz civarda.	oner emin ayni guzel manzara sahip yemek musteri saygi taze iyi malzeme yap yer bul civar	AMBIENCE#GENERAL FOOD#QUALITY
+anzarasi harika...	anzarasi harika	AMBIENCE#GENERAL
+- burasi haftada bir ugramaya çalistigim ve manzarasina bayildigim bir mekan.	burasi hafta ugrama calistigim manzarasina bayildigim mekan	AMBIENCE#GENERAL
+ancak bir seyler yemek için çok iyi denemez.	yemek iyi	FOOD#QUALITY
+pastalari 3. sinif pastane mamulleri gibi...	pasta sinif pastane mamul	FOOD#QUALITY
+ayrica genelde çok kalabalik olmasi nedeniyle yer kapmak için bayagi bir ugrasmak gerekiyor.	genelde kalabalik ol yer kap bayagi ugrasmak	SERVICE#GENERAL
+servis vasat.	servis vasat	SERVICE#GENERAL
+çatal, bıçak pis ve cevizli baklavası şerbetinden insanın midesini bulandiriyor.	catal bicak pis ceviz baklava serbet insan mide bulan	FOOD#QUALITY SERVICE#GENERAL
+ayrıca baklava yanmış gibi.	baklav yan	FOOD#QUALITY
+fıstıklı tatlılar idare eder.	fistik tatli idare et	FOOD#QUALITY
+karakoyde yer alan sirin bir cafe.	karakoy yer al sir cafe	RESTAURANT#GENERAL
+sık sık gelip butun caylardan denemek lazim.	sik sik gel cay dene lazim	DRINKS#QUALITY
+fiyatlar yuksek ama verdiginiz paraya degiyo	fiyat yuksek verdiginiz para degiyo	RESTAURANT#PRICES RESTAURANT#GENERAL
+dekorasyonu cok hos.	dekorasyon hos	AMBIENCE#GENERAL
+cok rahat koltuklari var.	rahat koltuk	AMBIENCE#GENERAL
+oturup saatlerce kaliteli cay esliginde muhabbet edebilirsiniz.	otur saat kalite cay eslig muhabbet et	AMBIENCE#GENERAL DRINKS#QUALITY
+buzlu cay hayatimda ictigim en iyi buzlu caydi.	buz cay hayat ictigim iyi buz cay	DRINKS#QUALITY
+seker orani yerindeydi ve cok ferahlatiyordu.	seker oran yerinde ferahlat	DRINKS#QUALITY
+cin cayi nin tadi da cok guzeldi.	cin cay tadi guzel	DRINKS#QUALITY
+kavun aromasinin kivami yerindeydi ama ic ic bitmedi bir turlu.	kavun aromasi kivami yer ic ic bit turlu	DRINKS#QUALITY
+fiyat/performans olarak gidilebilecek mekanlardan birisi uzunlar kebap.	fiyat performans git mekan uzun kebap	RESTAURANT#PRICES RESTAURANT#GENERAL
+piyasada bulunan kebapçılara göre 1 tık daha iyidir.	piyasa bulun kebapci tik iyi	RESTAURANT#GENERAL
+haftasonu gezmeleri için de gidilebilir, aç kaldığınızda yemeğimi yiyip hemen kalkayım mantığında da gidebilirsiniz.	haftason gez git ac kal yemek hemen kalk mantik git	RESTAURANT#GENERAL
+berbat bir yer,insanlarin sefil oldugu,göcmen burosuna sıra bekleyen biri gibi hissettim,rezalet...	berbat yer insan sefil oldug gocmen buro sira bekle hisset rezalet	RESTAURANT#GENERAL SERVICE#GENERAL
+asla gitmeyin.	git	RESTAURANT#GENERAL
+paranızla rezil olmak isterseniz buyrun derim.	para rezil buyur	RESTAURANT#GENERAL
+menusundeki hemen hemen hersey oldukca lezzetli.	menus hemen hemen hersey oldukca lezzet	FOOD#QUALITY
+ozellikle acik bufe sabah kahvaltisi evinizde yapiyormus gibi keyifli.	ozellikle acik bufe sabah kahvalti ev yap keyif	FOOD#QUALITY
+standart bir kahvalti fakat ortam,servis,mekanin konumu çitayi yükseltiyor.	standart kahvalti ortam servis mekan konum citayi yuksel	AMBIENCE#GENERAL FOOD#QUALITY SERVICE#GENERAL
+özellikle servis elemani sezgin bey 'in isini bu kadar iyi yapmasi ve herkesle esit ayni güler yüzle ilgilenmesi , masalar arasi slalom yaparken hiç bir istegi ikiletmemesi hepimizin sempatisini ve takdirini kazandi.	ozellikle servis eleman sezgin bey in iyi yap esit ayni guler ilgilen masa arasi slalom yap isteg ikile sempati takdir kazan	SERVICE#GENERAL
+göksu'da gidilebilecek en hos cafelerden biri bence.	git hos cafe	RESTAURANT#GENERAL
+geniş bahçesi ve terası ile bu lokasyona yakın arkadaşların yaz akşamlaında açık haavada nargile keyfi yapabilecekleri bir mekan.	genis bahce tera lokasyon yakin arkadas yaz aksam acik haava nargile keyfi yap mekan	AMBIENCE#GENERAL
+ulasim oldukca kolay.	ulasim oldukca kolay	LOCATION#GENERAL
+otoparki vale sistemiyle calisiyor.	otoparki vale sistem cale	LOCATION#GENERAL
+cevre duzenlemesi okadar guzel yapilmiski daha yemekleri tatmadan iyi geldim diyorsunuz.	cevre duzenle okadar guzel yapilmiski yemek tat iyi gel	AMBIENCE#GENERAL
+etler , meze, salata ve patates kizartmasi da size kesinlikle aksini dusundurmuyor.	et meze salata patates kizartmasi kesin akis dusun	FOOD#QUALITY
+hepsi ayri lezzetli.	ayri lezzet	FOOD#QUALITY
+acildigindan beri ara sira gidiyordum.	acildigindan ara sira git	RESTAURANT#GENERAL
+icin) artik gitmiyorum.	ic git	RESTAURANT#GENERAL
+yasaklatanlara hayirli olsun!	yasakla hayir	RESTAURANT#GENERAL
+vasat - istanbul'daki kebapçilarla kiyaslayacak olursak gerçekten vasat.	vasat kebapci kiyasla ol gercekten vasat	FOOD#QUALITY
+ama benim derdim kebap degil yeni bir yer görmek diyorsaniz kesinlikle tavsiye edilir.	dert kebap yeni yer gor kesin tavsiye et	AMBIENCE#GENERAL FOOD#QUALITY
+ancak çok büyük beklentiyle gidilmemeli ki sonra çok üzülmemeli:	buyuk beklenti git uz	RESTAURANT#GENERAL
+ozel gun yemeklerinizi yiyebileceginiz luks bir restorant.	ozel gun yemek luks restorant	RESTAURANT#GENERAL
+kulbasti ve ozellikle ev yapimi sufleyi tavsiye ediyorum.	kulbasti ozellikle ev yapim sufle tavsiye et	FOOD#QUALITY
+rezervasyon sirasinda ozel gununuzu soylediginiz takdirde sampanya ikramlari oluyor bu guzel bir jest	rezervasyon sira ozel gun soylediginiz takdirde sampanya ikram guzel jest	DRINKS#STYLE_OPTIONS SERVICE#GENERAL
+yemek servisi ve lezzeti iyi bir restaurant.	yemek servis lezzet iyi restaurant	FOOD#QUALITY SERVICE#GENERAL
+servis süreleri biraz uzun birde bulunduğu mekana ve mekanın fiziksel kalitesine göre fiyatlar pahalı.	servis sure uzun birde bulun mekan mekan fiziksel kalite fiyat paha	RESTAURANT#PRICES SERVICE#GENERAL
+daha mütevazı menu fiyatları olsa daha sık ziyaret edilebilir	mutevazi menu fiyat sik ziyaret et	RESTAURANT#PRICES
+çikolatalı baklavasına bayılıyorum kesinlikle en favori tatlım.	cikolata baklava bayil kesin favori tatlim	FOOD#QUALITY
+diğer bütün tatlılarının kalitesi ve lezzeti üst seviyede.	tatli kalite lezzet ust seviye	FOOD#QUALITY
+güllüoğlu bu konuda uzman.	gulluok konu uzman	RESTAURANT#GENERAL
+nusret etin prensi diyorsak bildiğimiz var ki diyoruz.	nusret et prens bil	FOOD#QUALITY
+😎 etleri muhteşem lezzetliydi.	et muhtesem lezzet	FOOD#QUALITY
+evde de aynısını bir aşçı adayı olarak yapsam bile nusret'inki farklı.	ev ayni asci aday yap fark	FOOD#QUALITY
+kaliteli yemek sevenler mutlaka gitsin denesin.	kalite yemek sev mutlaka git	FOOD#QUALITY
+jumbo combo ve kola istedim ama börek ve tavuk parçaları dışındaki tatlar bana göre değildi.	jumbo combo kol borek tavuk parca disi tat dek	FOOD#QUALITY
+sosları sevmedim ve soğan halkalarının tadı tatlı geldi.	sos sev sok halka tat tatli gel	FOOD#QUALITY
+nachos istemediğime pişman oldum.	nachos pisman ol	FOOD#QUALITY
+cumartesi olmasına rağmen sakindi.	cumartesi ol sakin	AMBIENCE#GENERAL
+telefonun şebekesi çekmediği için wifi ye bağlanmak istedim ama oturduğum müddetçe başarılı olmadım.	telefon sebeke cek wifi bagla otur muddet basari ol	SERVICE#GENERAL
+servis hızlı ve çalışanları pozitifti.	servis hiz calisan pozitif	SERVICE#GENERAL
+güzel bir cafe ama maalesef hard rock değil.	guzel cafe maalesef hard rock	RESTAURANT#GENERAL AMBIENCE#GENERAL
+açıkçası çokta tavsiye edilecek bir yer değil bence , press ile yanyana olunca bir orayada bakayim dedim fakat oturmamla kalkmam bir oldu .	acik tavsiye yer press yanyana ol orayat bakayim otur kalk	RESTAURANT#GENERAL
+sadece türk kahvesi var ve bir sürü çay çeşidi tadlari belki güzeldir ama hem pahali hem gereksiz bir yer bence	sadece turk kahve suru cay cesit tat guzel paha yer	RESTAURANT#PRICES RESTAURANT#GENERAL
+birde burdaki yerini deniyeyim dedim geçenlerde ama tam bir hayal kirikligi garsonlar asiri ilgisiz kebaplar diger subelerine göre basarisiz cok sarimsakli ve rahatsiz edici manzara gibi bir olayi yok bridge 'in tam tersi tarafinda kaldigi icin evlere bakiyor bos bos gitmeye degecek bir yer degil lezzette kötü zaten ilk ve son gidisim olacak fakat servis için göztepe subesi gerçekten güzel salatalari bile paket sekilde gonderiyor .	bur yer deniyeyim det gecenlerde hayal kiriklig garson asir ilgi kebap sube basari sarimsak rahat et manzara olay yok bridge in ters taraf kaldig ic ev bak bos bos git degecek yer lezzet kotu ilk son git ol servis goztep sube gercekten guzel salata paket sekil gonder	RESTAURANT#GENERAL AMBIENCE#GENERAL FOOD#QUALITY SERVICE#GENERAL
+dostlarinizla birlikte gürültüden uzak, bir seyler içme düsüncesindeyseniz birbirinizin sesini rahatlikla duyabileceginiz mükemmel bir yer limonlu bahçe.	dost birlikte gurultu uzak ic dusunce birbiri ses rahat duyabileceginiz mukemmel yer limonlu bahce	AMBIENCE#GENERAL
+bahçesindeki kedilerinin birbirini kovalamasi ise mutluluktan midenizde kelebekler uçurtuyor!	bahce kedi birbiri kovala mutlu mide kelebek	AMBIENCE#GENERAL
+tek sorun siparisin çok geç gelmesi ve yemeklerin performans-fiyat birlikteliginin tutarli olmamasi	tek sorun sipari gec gel yemek birliktelig tutarli ol	FOOD#PRICES SERVICE#GENERAL
+popülerliğin etkisiyle kaliteyi düşüren, malzemeyi azaltan bir yer oldu.	populerlik etki kalite dus malzeme azal yer	RESTAURANT#GENERAL FOOD#STYLE_OPTIONS
+baklavada fıstığı ara ki bulasın.	baklava fistik ara bul	FOOD#STYLE_OPTIONS
+paket alınan baklavaların bayat olma ihtimali yüksek, dikkatli olun.	paket alin baklava bayat ol ihtimal yuksek dikkat ol	FOOD#QUALITY
+su böreği de kötü.	borek kotu	FOOD#QUALITY
+zaten o kalabalıkta oturmaya o gürültüyü çekmeye bile değmez.	kalabalik otur gurultu cek dek	AMBIENCE#GENERAL
+normal mekan normal tatlar.	normal mekan normal tat	AMBIENCE#GENERAL FOOD#QUALITY
+övgü üzerine gitmiştik ama fazla beklentiye girince bazen normal bulacağınız şeyi de bepenmeyebiliyorsunuz.	ovgu uzer git fazla beklenti gir normal bulacak bepe	RESTAURANT#GENERAL
+bence istanbulda iyi denilen mekanlarda bile meze probleni var.	istanbul iyi mekan meze problen	FOOD#QUALITY
+sıradan lezzetler.	sira lezzet	FOOD#QUALITY
+burda da aynı durum geçerli işte	bur ayni durum gecerli	RESTAURANT#GENERAL
+her zaman keyifli - her zaman keyifle gittigim mekanlardan biri olmustur.	zaman keyif zaman keyif gittigim mekan ol	RESTAURANT#GENERAL
+bahçesi çok güzel.	bahce guzel	AMBIENCE#GENERAL
+misafirlerini çok güzel host ediyorlar.	misafir guzel host et	SERVICE#GENERAL
+canyon road ve big burger her zaman favorimdir.	canyon road big burger zaman favorim	FOOD#QUALITY
+cok yuksek sesle gulup egleniyorlar.	yuksek ses gul egle	AMBIENCE#GENERAL
+ugramadan geçmeyin - konum olarak güzel bir yere kurulan ve disaridan geçerken görsel olarak içeri çagiran ayrica içeri girildiginde de pisman etmeyen bir mekan.	ugrama gec konum guzel yer kur disari gecer gorsel iceri cagir iceri girildigin pisman et mekan	LOCATION#GENERAL AMBIENCE#GENERAL
+burasi oldukça lezzetli yemekler yapiyor ve sunum, hijyen, herkes çok sicak kesinlikle gidilmeli.	burasi oldukca lezzet yemek yap sunum hijyen sicak kesin git	FOOD#QUALITY SERVICE#GENERAL
+güzel manzara, yetersiz menü - otagtepe'nin manzarasi çok güzel ancak ne yazik ki bu manzaraya uyacak bir menü zenginligi, yemek kalitesi yok.	guzel manzara yetersiz menu manzarasi guzel yazik manzara uy menu zenginligi yemek kalite yok	AMBIENCE#GENERAL FOOD#QUALITY FOOD#STYLE_OPTIONS
+hizmet kalitesi de iyi degil.	hizmet kalite iyi	SERVICE#GENERAL
+deniz mahsullü pizzası güzel değil.	deniz mahsul pizza guzel	FOOD#QUALITY
+riske girmeden hamburger, wrap, sandviç tarzı bir şey söylemek en mantıklısı.	risk gir hamburger wrap sandvic tarz mantik	AMBIENCE#GENERAL
+ayrıca rezervasyon alıyorlar ki numnum'sınız siz havanız kime diyesi geliyor insanın.	rezervasyon al hava gel insan	SERVICE#GENERAL
+fırında makarnasını denedim ama çok beğendiğimi söyleyemeyeceğim.	firin makarna dene begen	FOOD#QUALITY
+3 aydir haftasonlari ugrak noktamizdi, kahvehane gibi maç ücreti 10 tl diye yazdilar yaa o gun bizim gozumuzde bitti.	ay haftason ugrak nokta kahvehane mac ucret tl yaz yaa gun goz bit	RESTAURANT#PRICES
+gidicekler simdiden dikkatli olsun.	git dikkat	RESTAURANT#GENERAL
+mudavimi oldugum diger mekanim, ascisi super yemekler cikariyor isletmecisini cok seviyoruz , balli tavuk salata , yesil mercimek corbasi, kestanesi suflesi ve birbirinden saglikli fresh meyve sulari deneyin derim ,bogazin gobeginde yemeginizi yemenin keyfine varin	mudavi oldugum mekanim ascis super yemek cikar isletmeci sev balli tavuk salata yesil mercimek corba kestane sufle birbiri saglik fresh meyve sulari dene derim bogazin gobeg yemeg keyif	FOOD#QUALITY RESTAURANT#GENERAL AMBIENCE#GENERAL DRINKS#QUALITY SERVICE#GENERAL
+fethipaşa korusunun içinde bulunan manzarasına göre uygun fiyata sahip salaş şık aileye uygun bir mekan.	fethipas koru bulun manzara uygun fiyat sahip salas sik aile uygun mekan	RESTAURANT#PRICES LOCATION#GENERAL AMBIENCE#GENERAL
+özellikle yaz akşamları terasında semaver çayını denemelisiniz	ozellikle yaz aksam tera semaver cay dene	DRINKS#QUALITY
+yaz ayları için bahçesi beşiktaş'taki en ferah yer olabilir.	yaz ay bahce ferah yer ol	AMBIENCE#GENERAL
+yemekleri lezzetli, servis hızlı ve çalışanlar güler yüzlü.	yemek lezzet servis hiz calisan guler	FOOD#QUALITY SERVICE#GENERAL
+iç dekorasyonu da gayet hoş.	ic dekorasyon gayet hos	AMBIENCE#GENERAL
+müzikler de ortam ile uyumlu.	muzik ortam uyum	AMBIENCE#GENERAL
+malesef ki sadece pazar günü brunch veren bir yer.	malesef sadece pazar gun brunch ver yer	FOOD#STYLE_OPTIONS
+kahvaltısını denemediyseniz denemelisiniz çok fazla çeşit var hatta hangisini yesek diye şaşırıyorsunuz.	kahvalti dene deneme fazla cesit yesek sasir	FOOD#STYLE_OPTIONS
+saatlerce pazar keyfi yapabilceğimiz bir yer.	saat pazar keyfi yapabilcek yer	RESTAURANT#GENERAL
+manzarasına zaten diyecek tek bir kelime yok.	manzara tek kelime yok	AMBIENCE#GENERAL
+böyle bir yerin tabi ki fiyatları pahalı.	yer tabi fiyat paha	RESTAURANT#PRICES
+garsonlar ilgili, yemekler güzel	garson yemek guzel	FOOD#QUALITY SERVICE#GENERAL
+tuzlanın meşhur balıkçısı.	tuzla meshur balikci	RESTAURANT#GENERAL
+eskiye nazaran kalitesi oldukça düşük.	eski nazaran kalite oldukca dusuk	RESTAURANT#GENERAL
+eskiden mekan daha ufak sınırlı sayıda müşteriye hizmet eden ama kalitesini bozmayan bir yerdi.	eskiden mekan ufak sinir sayi musteri hizmet kalite boz yer	RESTAURANT#GENERAL
+maalesef son 1 senede kalitesinde ve serviste epey sıkıntılı.	maalesef son sene kalite servis epey sikinti	RESTAURANT#GENERAL SERVICE#GENERAL
+tatlilari da denenmeli bence.	tatli dene	FOOD#QUALITY
+manzarasi da ayrica güzeldir.	manzarasi guzel	AMBIENCE#GENERAL
+plaza insanı için öğle yemeklerinde bir alternatif kanımca.	plaz insan ogle yemek alternatif kanim	RESTAURANT#GENERAL
+ev yemeklerini hakettiğinden pahalıya sattıklarını düşünüyorum.	ev yemek haket paha sat dusun	FOOD#PRICES
+göksunun kenarında çok şirin bir yer.	gok kenar sirin yer	AMBIENCE#GENERAL
+yemekleri de gayet lezzetliydi.	yemek gayet lezzet	FOOD#QUALITY
+görselliğe pek önem vermedikleri aşikar yine de.	gorsellik onem ver asikar	AMBIENCE#GENERAL
+ama hizmet konusunda on puan veriyorum	hizmet konu puan ver	SERVICE#GENERAL
+uzun zamandan sonra yediğim en güzel kofte idi.	uzun zaman guzel kofte it	FOOD#QUALITY
+hamburgerde çok güzeldi.	hamburger guzel	FOOD#QUALITY
+roka salatası güveçte mantarda başarılı idi.	rok salata guvec mantar basari it	FOOD#QUALITY
+biz kahvaltısında denemek üzere tekrar geliriz	kahvalti dene tekrar gel	RESTAURANT#GENERAL
+i̇stanbul'da daha fazla olması istenen mekanlardan.	fazla mekan	RESTAURANT#GENERAL
+dizaynı güzel.	dizayn guzel	AMBIENCE#GENERAL
+kalabalık olduğunda bile çevrenizdeki masalarla iç içe hissettirmeyecek kadar ferah.	kalabalik ol cevre masa ic ic hisset ferah	AMBIENCE#GENERAL
+özellikle boğaziçi üniversitesi öğrencilerinin sıkça uğraması gereken bir mekan.	ozellikle bogazic universite ogrenci sik ugra mekan	RESTAURANT#GENERAL
+yemek menüsü geliştirilebilir.	yemek menus gelis	FOOD#STYLE_OPTIONS
+fiyatlar gayet uygun.	fiyat gayet uygun	RESTAURANT#PRICES
+quattro stagioni ve orto'yu denedik ancak beklentilerimizin altında kaldı.	quattro stagion dene beklenti alt kal	FOOD#QUALITY
+pizzalarından ziyade tiramusu çok daha başarılı.	pizza ziyade tiramu basari	FOOD#QUALITY
+bir de dükkanın minyatür haldeki maketi çok tatlı.	dukkan minyatur hal maket tatli	AMBIENCE#GENERAL
+cok fazla kisiye servis yapildigi icin cok basarili bulmuyorum mezeler dunden kalma gibi etler cok guzel degil yanliz adana kebabi fena degil ama daha iyileri oldugu icin baska yerde denemede fayda var	fazla kisiye servis yapildigi ic basari bul meze dun kalma et guzel yanliz at kebabi fena iyi oldug baska yer deneme fayda	AMBIENCE#GENERAL FOOD#QUALITY SERVICE#GENERAL
+orta...	orta	RESTAURANT#GENERAL
+- ambiansi hos.	ambiansi hos	AMBIENCE#GENERAL
+yemekleri basarili bulmuyorum, burgerler lezzetsiz, fajita için kullandiklari et uygun degil.	yemek basari bul burger lezzetsiz fajita kullan et uygun	FOOD#QUALITY
+genelde çok kalabalik oldugu için de servis kosturmaca içinde yapiliyor.	genelde kalabalik oldug servis kosturmac yap	SERVICE#GENERAL
+kadıköy'de yemek yenecek en iyi yerlerden birisi happy moon's.	yemek yen iyi yer happy	FOOD#QUALITY
+günün her saatinde gelinebilir.	gun saat gel	RESTAURANT#GENERAL
+servis hızlı sayılır mekan dekorasyonu gerçekten güzel.	servis hiz say mekan dekorasyon gercekten guzel	AMBIENCE#GENERAL SERVICE#GENERAL
+manzara muhtesem ama servis icin ayni seyi soyleyemeyecegim.	manzara muhtesem servis ic ayni	AMBIENCE#GENERAL SERVICE#GENERAL
+peynirli omlet ve menemen lezzetliydi ama patates kizartmasi fazla yag cekmisti.	peynir omlet menemen lezzet patates kizartmasi fazla yag cekmist	FOOD#QUALITY
+gelen kahveler de maalesef sogumustu.	gel kahve maalesef sogumustu	DRINKS#QUALITY
+abartildigini düsünüyorum.	abartildig dusun	RESTAURANT#GENERAL
+getirilen patates kizartmasi için kullanilan yag kaçinci kere kullanilmissa üzerinde siyahlasmis yag kalintilari vardi ve patatesler birakin çitir olmayi hamur gibiydi.	getir patates kizartmasi kullan yag kacinci kere kullan uzer siyahlasmis yag kalinti patates birakin citir ol hamur	FOOD#QUALITY FOOD#STYLE_OPTIONS
+domates/salatalik sögüs beklemekten pörsümüstü.	domates salatalik sogus bekle porsumust	FOOD#QUALITY
+etrafta kaotik bir hareketlilik yasanmasi yediginizden keyif almanizi zorlastiriyor.	etraf kaotik hareket yasa yedig keyif al zorlastire	AMBIENCE#GENERAL
+üzerine ortalama bir döner olunca ben tekrar gidecegimi sanmam.	uzer ortalama doner ol tekrar gidecegim san	RESTAURANT#GENERAL FOOD#QUALITY
+bayıldığım bir yer mekan çok hoş her mezeyi tatmak gerekli evet keşke fiyatlar daha insani boyutta olsa muhteşem olurdu ama ne yapayım o kadar keyif alıyorum ki verdiğimiz para can acıtmıyor sadece daha seyrek gitmemize sebep oluyor ortam yemekler ve müzik herşey harika	bayil yer mekan hos meze tat evet keske fiyat insani boyut muhtesem ol yap keyif al ver para can ac sadece seyrek git sebep ortam yemek muzik hersey harika	RESTAURANT#PRICES RESTAURANT#GENERAL AMBIENCE#GENERAL FOOD#QUALITY
+nadir güllüoglunun yeri güzel bakimli ve taze lezzet sunuyor sadece bana çok sekerli geliyor damak tadimdan kaynaklanabilir hepsini genelde denedim fistikli baklava güzel	nadir gulluoglu yer guzel bakim taze lezzet sun sadece seker gel damak tadim kaynakla genelde dene fistik baklav guzel	LOCATION#GENERAL FOOD#QUALITY
+mekanın içine cidden emek harcandığı her halinden belli.	mekan ic cit emek harca hal belli	AMBIENCE#GENERAL
+ne kadar yoğun olursa olsun, servis hızlı yenilen her şey çok lezzetli.	yok servis hiz yen lezzet	FOOD#QUALITY SERVICE#GENERAL
+pastırmalı yumurta konusunda hala gönlümün tek sultanıdır sütiş.	pastirma yumurta konu gonlum tek sultan sutis	FOOD#QUALITY
+hasan kolcuoğlu çok pahalı diyemem ama hesap yüksek sayılır; ayrıca sözde açık ama aslında kapalı alanında sigara içiliyor.	hasan kolcuok paha hesap yuksek say soz acik kapali alan sigara ic	RESTAURANT#PRICES AMBIENCE#GENERAL
+mezeler çok çeşitli ve lezzetli, metrelik kebabı da güzel, o da gayet lezzetli fakat mecburen fix menü alınıyor.	meze cesit lezzet metre kebap guzel gayet lezzet mecburen fix menu al	AMBIENCE#GENERAL FOOD#QUALITY FOOD#STYLE_OPTIONS
+para ödeyip istediğini yiyememek biraz gereksiz israfa sebep oluyor, bence değişmeli	para ode israf sebep degis	FOOD#STYLE_OPTIONS
+mantısı ficcini zeytinyağlı mezgiti ile cok guzel yer.	manti ficc zeytinyak mezgit guzel yer	FOOD#QUALITY
+ama meyhane kismina bir kere oturdugumuzda arkadaslarimizi bekliyorduk zorla 10 tane meze getirdiler eger meze istemiyorsak oturamayacagimizi soylediler.	meyhane kisim kere oturdug arkadaslarimizi bekle zorla tane meze getir meze oturamayacagimizi	SERVICE#GENERAL
+terbiyesiz birkac garsonu dışında guzel bir yerdi	terbiye garson dis guzel yer	RESTAURANT#GENERAL SERVICE#GENERAL
+anadolu yakasi'nda kebap yenebilecek en iyi ve en nezih yerlerden birisi.	anadolu kebap yen iyi nezih yer	AMBIENCE#GENERAL FOOD#QUALITY
+yemekleri ve ozellikle ara sicaklari cok lezzetli.	yemek ozellik ara sicak lezzet	FOOD#QUALITY
+servis cok hizli.	servis hiz	SERVICE#GENERAL
+calisanlar guleryuzlu.	calisan guleryuz	SERVICE#GENERAL
+cerkez yemekleri sevenler icin guzel bir tercih .	cerkez yemek sev ic guzel tercih	FOOD#QUALITY
+ozellikle mantisini cok begenmistim, mezeleri vs lezzetliydi .	ozellikle manti begenmistim meze vs lezzet	FOOD#QUALITY
+sadece son gittigimde calisanlarin muamelesinden hic hosnut kalmadim, bu konuda daha dikkatli olmalilar.	sadece son gittigim calisan muamele hosnut kal konu dikkat ol	SERVICE#GENERAL
+mekan dekorasyonu çok başarılı.	mekan dekorasyon basari	AMBIENCE#GENERAL
+mezeler oldukça güzel ve çeşitli.	meze ol guzel cesit	FOOD#QUALITY FOOD#STYLE_OPTIONS
+ancak balıklara gelince bir durdum.	balik gel dur	FOOD#QUALITY
+bildiğin çiftlik balığı geldi.	bildik ciftlik balik gel	FOOD#QUALITY
+daha lezzetli bir ana yemek bekliyordum açıkçası.	lezzet ana yemek bekle acik	FOOD#QUALITY
+fiyatlar ortalama meyhane fiyatlarının üzerinde.	fiyat ortalama meyhane fiyat uzer	RESTAURANT#PRICES
+etler güzel, eti az ama öz pişiren nadir yerlerden:	et guzel et oz pis nadir yer	FOOD#QUALITY
+penne siciliano yedim yerken guzeldi ama sonra yagindan butun gun midem yandi.	penne siciliano yet yer guzel yagin gun midem yan	FOOD#QUALITY
+arkadasim begendili tavuk yedi o da ayni seyi yasadi.	arkadasim begendi tavuk ayni yasa	FOOD#QUALITY
+servis, ilgi mukemmel yemekler midede rahatsizlik yaratabiliyor.	servis ilgi mukemmel yemek mide rahatsizlik yarat	FOOD#QUALITY SERVICE#GENERAL
+yediğim en iyi sahanda yumurta.	iyi sahan yumur	FOOD#QUALITY
+yumurtanın neyi güzel demeyin.	yumurta guzel	FOOD#QUALITY
+kavurmalı efsane, saçma demeyin yanında bakır kapta ayranı da için.	kavur efsane sac yan bak kap ayran	DRINKS#QUALITY FOOD#QUALITY
+yemekleri standart , mudur tarzinda kapida bekleyen kisi soguk ve ters birisi...	yemek standart mudur tarz kapi bekle kis soguk ters	FOOD#QUALITY SERVICE#GENERAL
+bize bakan garson yuksek ses ile siparis almasi ayri bir entresan...	bakan garson yuksek ses siparis al ayri entresan	SERVICE#GENERAL
+eskiden daha iyiydi.	eskiden iyi	RESTAURANT#GENERAL
+fiyatlar asiri uçmus.	fiyat asir	RESTAURANT#PRICES
+artik lezzete degil popülerligine gidiliyor.	lezzet populerligin git	FOOD#QUALITY
+konum olaral harika , lezzet olarak iyi ancak gerçekten servis her gidişimde aynı kötülükte hiç ödün vermiyorlar bu konuda.	konum olaral harika lezzet iyi gercekten servis gidisim ayni kotu ot ver konu	LOCATION#GENERAL FOOD#QUALITY SERVICE#GENERAL
+birinin bu sorunu çözmesi gerekir	sorun coz	RESTAURANT#GENERAL
+sıcak, samimi ve içten kütük ev cafe ...	sicak samimi icten kutuk ev cafe	AMBIENCE#GENERAL
+serpme kahvaltıların vazgeçilmezi oldu bizim için haftasonu buraya gelip keyifli vakit geçirebilirsiniz.	serpme kahvalti vazgec haftason bura gel keyif vakit gec	FOOD#QUALITY
+paket olarak dönerlerini aldım, özenle paketlenmişti, uzun bir yolculuk yapmış olmama rağmen açtığımda hala sıcaklığını koruyordu.	paket doner al ozen paketle uzun yolculuk yap ol ac sicak koru	SERVICE#GENERAL
+malzemeden kısılmaması ve etinin lezzeti beni çok memnun etti.	malzeme kis et lezzeti memnun	FOOD#QUALITY FOOD#STYLE_OPTIONS
+bir gun once ayni saatte oglen menusu getiren garson, bir gun sonra kustahca "dun insiyatif alip getirdim ama bundan sonra vermem olur biter" diyerek getirmedi.	gun ayni saat oglen menus getir garson gun kustah dun insiyatif alip getir ver bit getir	SERVICE#GENERAL
+kesinlikle gitmeyin, muamele cok kotu.	kesin git muamele kot	SERVICE#GENERAL
+iftardan sonra çay veya kahve keyfi yapmak için ideal bir yer.	iftar cay kahve keyfi ideal yer	AMBIENCE#GENERAL DRINKS#QUALITY
+hem bogazin huzuruyla kendinizi dinlendirebilir, arkadaslarla koyu bir sohbetle uzun saatlerce oturabilir ve canli müzik esliginde keyfinize keyif katabilirsiniz.	bogazin huzur dinlen arkadas koy sohbet uzun saat otur canli muzik eslig keyif keyif kat	AMBIENCE#GENERAL
+fiyatlari gercekten pahali fakat kaliteli ve hos bir mekan ariyorsaniz kesinlikle tercih edilebilir.	fiyat gercek paha kalite hos mekan are kesin tercih et	RESTAURANT#PRICES RESTAURANT#GENERAL
+ozellikle begendilerine kattiklari damla sakizi o kadar hos bir aroma veriyor ki anlatamam.	ozellikle begendi kat dam sakizi hos aroma ver anla	FOOD#QUALITY
+baslangiclarinin bir cogunu denedik hepside enfes.	baslangic cog dene enfes	FOOD#QUALITY
+tatli olarak sufleyi tercih ettik ve ona da bayildik.	tatli sufle tercih et bay	FOOD#QUALITY
+mukemmel.	mukemmel	RESTAURANT#GENERAL
+tek eksik olarak etin orta pisimisini istememize ragmen cok pismis bir et ile karsilastik.	tek eksik et orta pisimi pismis et karsilastik	FOOD#STYLE_OPTIONS
+yıllardır dizaynini aynen koruyan uskudardaki muhteşem yemekleri olan esnaf lokantasi.	yil dizayn aynen koru uskudar muhtesem yemek esnaf lokanta	FOOD#QUALITY
+esnaf lokantasi na göre fiyatları pahali ve kredi kartı geçmiyor.	esnaf lokanta na fiyat paha kredi kart gec	RESTAURANT#PRICES SERVICE#GENERAL
+ancak yemekleri gerçekten çok lezzetli.	yemek gercekten lezzet	FOOD#QUALITY
+tatlilardan da irmik helvası ve fırında sutlaci öneririm.	tatli irmik helva firin sutla oner	FOOD#QUALITY
+yıllardır i̇stanbul'daki favori pizzacım.	yil favori pizzacim	RESTAURANT#GENERAL
+ben gittiğimde bir pizzayı hiç bir zaman kendim bitiremiyorum.	git pizza zaman bit	FOOD#STYLE_OPTIONS
+birden çok pizza denemek adına pizzanın iki yarısını farklı yaptırın derim.	birden pizza dene at pizza yari fark yap	FOOD#STYLE_OPTIONS
+servis porsiyonlar çok çok kötü.	servis porsiyon kotu	FOOD#STYLE_OPTIONS SERVICE#GENERAL
+nerde bebek şubesi nerde burası tek güzel yanı caddenin bir arka sokağında yeşilliklerin içinde bahçesinin olması	bebek sube bura tek guzel yan cadde arka sokak yesil bahce	AMBIENCE#GENERAL
+turk kahvesının ıcınden kocaman böcek çıktı.	turk kahve ic kocaman bocek cik	DRINKS#QUALITY
+kahveyı bıtırdığınızde dıbındekı bocekle karsilasiyorsunuz!	kahve bitir dip bocek karse	DRINKS#QUALITY
+yemekleri hesap edin artık!	yemek hesap et	FOOD#QUALITY
+bir daha asla!		RESTAURANT#GENERAL
+nedendir bilmiyorum ama burayı çok seviyorum.	bil bura sev	RESTAURANT#GENERAL
+lynchburgleri çok güzel.	lynchburgleri guzel	DRINKS#QUALITY
+cin li kokteylleri de denemeye değer ama arkadaş bi jager mojito yapamıyorsunuz.	cin li kokteyl deneme deger arkadas bi jager mojito yap	DRINKS#QUALITY
+otur , 0 !	otur	RESTAURANT#GENERAL
+alkollü içki almadiginiz bir restda adam basi 80/90 tl hesap cookk fazla ,üstelik gayet az yedik .	alkol icki almadiginiz rest adam basi tl hesap cookk fazla ustelik gayet	RESTAURANT#PRICES
+lezzet iyi ama fiyatla orantili degil ,porsiyonlar az,personel iyi .	lezzet iyi fiyat oranti porsiyon personel iyi	FOOD#STYLE_OPTIONS FOOD#QUALITY FOOD#PRICES SERVICE#GENERAL
+manzara güzel.	manzara guzel	AMBIENCE#GENERAL
+kurucesmede olmasına rağmen pek bir derme catma mekan.	kurucesme ol derm cat mekan	AMBIENCE#GENERAL
+sıkış sıkış yerlestirilmis masalardan dolayi ortam çok ugultulu maalesef.	sik sik yerles masa ortam ugultu maalesef	AMBIENCE#GENERAL
+çok daha keyifli bir yer olabilirdi.	keyif yer ol	AMBIENCE#GENERAL
+o gürültü ortamdan sonra tekrar gidecegimi sanmıyorum.	gurultu ortam tekrar gidecegim san	AMBIENCE#GENERAL
+i̇thal peynir tabağındaki peynirler çok yetersiz, çoğu ithal bile değil.	thal peynir tabak peynir yetersiz ithal	FOOD#QUALITY
+böylesi bir mekan için fiyat ortalamanın üstünde kalmış.	boylesi mekan fiyat ortalama ust kal	RESTAURANT#PRICES
+açık ortamda yemek isteyenler için güzel bir ortam.	acik ortam yemek guzel ortam	AMBIENCE#GENERAL
+bahçesinde sakince yemeğinizi yiyebilirsiniz.	bahce sakin yemek	AMBIENCE#GENERAL
+kuzu sisleri ve lahmacunlari guzeldi...	kuzu sis lahmacunlari guzel	FOOD#QUALITY
+serviste aksamalar var.	servis aksa	SERVICE#GENERAL
+garsonlar sürekli bir şey düşürüyor...	garson surekli dus	SERVICE#GENERAL
+kahvaltisi bol cesitli doyurucu hatta genelde biteremiyosunuz fiyati biraz daha uygun olabilirdi calisanlar guler yuzlu ama bulundugu alan ve masalar daha genis olsa daha rahat oturup keyifle kahvaltimizi edebiliriz	kahvalti bol cesit doy genelde bit fiyat uygun ol calisan guler bulundug al masa genis rahat otur keyif kahvalti et	FOOD#STYLE_OPTIONS AMBIENCE#GENERAL FOOD#PRICES SERVICE#GENERAL
+merkezi konumu ve geniş menüsü nedeniyle kadıköy'de çok tercih edilen, çoğu zaman dışarıda yer bile bulamayacağınız mekan.	merkezi konum genis menus tercih et zaman disari yer bula mekan	LOCATION#GENERAL FOOD#STYLE_OPTIONS
+fakat son iki gidişimde çok pahalanmış buldum.	son gidisim paha bul	RESTAURANT#PRICES
+yemeklerde bugüne dek bir sıkıntıya rastlamadım, ama çok lezzetli yapıyorlar diyebileceğim bir tek cajun tavuk var.	yemek bugun dek sikinti rastla lezzet yap tek caj tavuk	FOOD#QUALITY
+şimdilerde gözümde ancak ortalama bir mekan yani.	goz ortalama mekan	RESTAURANT#GENERAL
+tuzla balıkçısının köklü müşterisiyimdir.	tuz balikci koklu musterisiyim	RESTAURANT#GENERAL
+i̇lk açıldığı günden bu gününe gelir giderim.	lk ac gun gun gel git	RESTAURANT#GENERAL
+fiyatları gayet uygun olan yer bulmanın bir o kadar zor olduğu şirin bir dükkandan buralara kadar kısa bir sürede gelmiş bir mekanımızdır.	fiyat gayet uygun yer bul zor sir dukkan bura kisa sure gel mekan	RESTAURANT#PRICES AMBIENCE#GENERAL
+ama maalesef eski lezzet mi?	maalesef eski lezzet	FOOD#QUALITY
+mekan ne kadar çok büyüdüyse kalite o kadar düştü.	mekan buyu kalite dus	RESTAURANT#GENERAL
+ah be sezgin abi eski lezzetine hasretiz	ah be sezgin abi eski lezzet hasret	FOOD#QUALITY
+beşiktaşa otobüsle zincirlikuyudan geldiğinizde gözünüze direk çarpan bir mekan.	besiktas otobus zincirlikuyu geldik goz direk carp mekan	LOCATION#GENERAL
+pideleri iyi hizmetide bence üst kat terası çok daha iyi bütük kalabalık gözünüzün önünden akıyor resmen hemen yanındaki ağaç ilede farklı bir hava katıyor	pide iyi hizmetide ust kat tera iyi butuk kalabalik goz ak resmen hemen yan agac ilet fark hava kat	AMBIENCE#GENERAL FOOD#QUALITY SERVICE#GENERAL
+bahariyede gezerken yemek yemek icin buraya gelebilirsiniz mekan guzel sik menu de cesitli gayet.	bahariye gez yemek yemek bura gel mekan guzel sik menu cesit gayet	AMBIENCE#GENERAL FOOD#STYLE_OPTIONS
+fiyatlar da cok pahali degil ortalama duruyordu	fiyat paha ortalama dur	RESTAURANT#PRICES
+cookshop diyince aklima ilk gelen magnolia oluyor.	cookshop aklim ilk gel magnolia	FOOD#QUALITY
+buraya gelipte bu tatliyi denemeden gitmeyin.	bura gelipte tatli deneme git	FOOD#QUALITY
+makarnalardan patlicanli,zeytinli penne guzel.	makarna patlican zeytin penne guzel	FOOD#QUALITY
+arkadasim lasagne yedi ama pek begenmedi.	arkadasim lasagne begen	FOOD#QUALITY
+servisin gelistirilmesi gerek siparis almaya gec geliyorlar.	servis gelis siparis al gec gel	SERVICE#GENERAL
+sadece adi num num - hem gmall hem kanyon denedim ama olmadi.	sadece at num num gmall kanyon dene ol	RESTAURANT#GENERAL
+yemekler basarisiz, menü zengin, servis de basarili ama ilk açildigindaki lezzet kalitesini bozdu.	yemek basari menu zengin servis basari ilk acildigin lezzet kalite boz	SERVICE#GENERAL FOOD#QUALITY FOOD#STYLE_OPTIONS
+kurufasulye ve sütlaç - sürekli gittigim yerlerden biri.	kurufasul sutlac surekli gittigim yer	FOOD#QUALITY
+tereyagini da manzarayla karistirinca, yeme de yaninda yat...	tereyagin manzara karistirinca yan yat	AMBIENCE#GENERAL FOOD#QUALITY
+bir de üzerine bolca findik dökülmüs firin sütlaci yedin mi daha ne olsun.	uzer bol findik dok firin sutla yet	FOOD#QUALITY
+ideal...	ideal	RESTAURANT#GENERAL
+- tuzla sahilinde kafede oturup bir seyler içmek için ideal bir yer.	tuz sahil kafet otur ic ideal yer	LOCATION#GENERAL
+künefesi düsündügümden güzelmis.	kunefe dusundugum guzel	FOOD#QUALITY
+bir hatay künefesiyle kiyaslamasam tabi ki ama lezzetliydi.	hatay kunefe kiyasla tabi lezzet	FOOD#QUALITY
+çayi, sahlepi, künefesi ve dondurmasi önerilebilir.	cayi sahlepi kunefe don oner	DRINKS#QUALITY FOOD#QUALITY
+limonatasi ev yapimi deniyor hatta içinde nane yapragi vs. düz limonata gelince sorduk nane yapragini su anda yok dediler.	limonatasi ev yapim dene nane yapragi vs duz limonat gel sor nane yapragin an yok	DRINKS#STYLE_OPTIONS
+biz sormadan getirdigimizde bilgilendirmesi lazimdi.	sor getirdigi bilgi lazim	SERVICE#GENERAL
+yine de tuzla'da ugrak olunabilecek bir mekan.	ugrak ol mekan	RESTAURANT#GENERAL
+mis gibi uskudar ;) - dilruba'ya çikis yolu zorlu, yorucu olsa da nargilesi için gidilmeye deger.	mis uskudar cikis yol zorlu yoru nargile git deger	LOCATION#GENERAL DRINKS#QUALITY
+hele kebaplari enfes.	hele kebap enfes	FOOD#QUALITY
+sabahlari ise 100 çesit kahvaltisiyla essiz manzara birlesince insani rahatlatmaya yetiyor.	sabah cesit kahvalti es manzara birle insani rahatla yet	AMBIENCE#GENERAL FOOD#STYLE_OPTIONS
+görülmesi gereken, kaliteli bir yer;)	gor kalite yer	RESTAURANT#GENERAL
+dün ailece essiz lezzetleri tatdigimiz mabeyn deydik.	dun ailece essiz lezzet tatdig mabeyn	FOOD#QUALITY
+tatlilar muhtesemdi.	tatli muhtesem	FOOD#QUALITY
+hesap gelene kadar tadimizda çok iyiydi.	hesap gel tat iyi	RESTAURANT#PRICES
+342 tl çok fazla.	tl fazla	RESTAURANT#PRICES
+içki servisi kaldirilmis olmasi garibime gitti açikcasi.	icki servis kaldir ol garibim git acikca	DRINKS#STYLE_OPTIONS
+degisik pide türleri caniniz çekiyorsa denenebilir.	degi pide tur can cek dene	FOOD#STYLE_OPTIONS
+eh iste.	eh	RESTAURANT#GENERAL
+ama çok pide yemeyenler için güzel diyebilirim.	pit guzel	FOOD#QUALITY
+çorbasi soguk geldi.	corbasi soguk gel	FOOD#QUALITY
+tadi pek yoktu.	tadi yok	FOOD#QUALITY
+suflesi normal.	sufle normal	FOOD#QUALITY
+besiktas ta merkezi yerde.	besik merkezi yer	LOCATION#GENERAL
+fakat yemekleri baya standart hatta bazıları bi hayli kotu...	yemek baya standart bi hayli kotu	FOOD#QUALITY
+tavsiye edebileceğim tek şeyi dondurması olur sanırım.	tavsiye et tek don san	FOOD#QUALITY
+geniş çay menüsü ve bence alelade demlenen çaylar.	genis cay menus alela demle cay	DRINKS#STYLE_OPTIONS
+kaliteli olabilirler ama ne gramına ne demleme süresine ne de sıcaklığa dikkat edildiğini sanmıyorum.	kalite ol gram demle sure sicak dikkat et san	DRINKS#STYLE_OPTIONS DRINKS#QUALITY
+bir paket çay alabildiğim ücrete daha iyi bir şey beklerdim.	paket cay al ucret iyi bekle	DRINKS#PRICES DRINKS#QUALITY
+tatlıları için gelinebilir.	tatli gel	FOOD#QUALITY
+miss pizza "çok iyi" olmasa da i̇stanbul'da en iyiler arasında sayılabilir.	miss pizza iyi ol iyi ara say	FOOD#QUALITY
+dışarıda yer vermiyorlar, içerisi boşken yerimiz yok diyorlar, öğlen 12'den biraz önce gidince daha açılmadık diyorlar vb...	disari yer ver iceri bosk yer yok oglen git ac vb	SERVICE#GENERAL
+yemeği fena olmasa servisi nedeniyle hayatta uğramayacağım yer.	yemek fena ol servis hayat ugra yer	RESTAURANT#GENERAL FOOD#QUALITY SERVICE#GENERAL
+i̇yi bir kaliteye böyle bir hizmet hiç yakışmıyor.	kalite hizmet yakis	FOOD#QUALITY SERVICE#GENERAL
+kullanılan malzemeler çok iyi değil ancak ortalamanın üstü ve hamuru gayet iyi yapıyorlar.	kullan malzeme iyi ortalama ust hamur gayet iyi yap	FOOD#QUALITY
+pizzaları gayet doyurucu ve çeşitli.	pizza gayet doy cesit	FOOD#STYLE_OPTIONS
+değişik tatları tatmak isteyenler için iyi bir alternatif.	degisik tat tat iyi alternatif	FOOD#STYLE_OPTIONS
+özellikle kabaklı pizzası gayet başarılı.	ozellikle kabak pizza gayet basari	FOOD#QUALITY
+servis konusunda ise ciddi sıkıntıları olduğunu düşündüğüm bir yer.	servis konu ciddi sikinti dusun yer	SERVICE#GENERAL
+her seferinde mutlaka bir problemle karşılaşıyoruz.	sefer mutlaka problem karsilas	RESTAURANT#GENERAL
+çalışanlar gerçekten burnundan kıl aldırmıyor.	calisan gercekten burun kil al	SERVICE#GENERAL
+çok defa geri dönmüşlüğüm de vardır.	geri don	RESTAURANT#GENERAL
+manzara konum çok çok güzel.	manzara konum guzel	LOCATION#GENERAL AMBIENCE#GENERAL
+boğazda balık için i̇stanbul'daki belli başlı yerlerden olmasına rağmen böyle bir manzara için lezzet biraz daha arttiralabilinir diye düşünüyorum.	bogaz balik belli bas yer ol manzara lezzet arttiralabili dusun	AMBIENCE#GENERAL FOOD#QUALITY
+fiyatlar yüksek ama gerçek boğazda balığın bedeli var, ambians ve konum dolayısı ile fiyatlara laf söylemek doğru değil.	fiyat yuksek gercek bogaz balik bedel ambians konum fiyat laf dogru	RESTAURANT#PRICES LOCATION#GENERAL AMBIENCE#GENERAL
+boğazda balıklı romantik akşam yemeği için ...	bogaz balik romantik aksam yemek	AMBIENCE#GENERAL
+once kirk saat istegimiz soslari bekledik cunku tum soslar baskalari tarafindan kullaniliyordu.	saat isteg soslari bekle sos baska taraf kullan	SERVICE#GENERAL
+sorum su ki alti ustu bir mayonez ne kadar bulunmasi zor olabilir ya da maliyeti nedir ki bu kadar az alinir?	sorum ust mayonez bulun zor ol maliyet al	FOOD#STYLE_OPTIONS
+yemege gelince ise tatsiz tutsuz bir yemekti begenmedik.	yemeg gel tatsiz tut begen	FOOD#QUALITY
+yemek bitince hadi kalkin tavirlarina girildi.	yemek bit hadi kalkin tavir gir	SERVICE#GENERAL
+ozetle uzatmadan musteriye yoluncak kaz gozuyle bakilmaktadir.	ozet uza musteriye yoluncak kaz goz bak	SERVICE#GENERAL
+bendemi var bir hoşnutsuzluk anlamadım.	bende hosnutsuz anla	RESTAURANT#GENERAL
+bereketli bir mekan hafta içi,cumartesi kuyruk kapıda.	bereket mekan hafta ic cumartesi kuyruk kapi	RESTAURANT#GENERAL
+lakin bir kez soğuk gelen çorbayı garsona söylediğimde hiç oralı olmadı.	lakin soguk gel corba garson ora	SERVICE#GENERAL
+anlaşılan müessesede bir doymuşluk var.	anlas muessese doy	RESTAURANT#GENERAL
+bence orada en leziz olan lavaş.	leziz lavas	FOOD#QUALITY
+lavaş yediriyor gibi.	lavas yet	FOOD#QUALITY
+döneri çok beni sarmadı.	doner sar	FOOD#QUALITY
+en önemli özelliği olan döneri hariç geri kalan her şey iyiydi.	onem ozellik doner haric geri kal iyi	RESTAURANT#GENERAL FOOD#QUALITY
+yemek öncesi ikramlar, garsonların ilgisi ve servis hızı güzeldi.	yemek ikram garson ilgi servis hiz guzel	SERVICE#GENERAL
+ama döneri methedildiği kadar değilmiş.	doner methet dek	FOOD#QUALITY
+manzarası süper, zaten süper olan başka birşeyde yok.	manzara super super baska yok	RESTAURANT#GENERAL AMBIENCE#GENERAL
+diğer lezzetlerin tamamı standart.	lezzet standart	FOOD#QUALITY
+bu lezzetlere göre uygılanan fiyatlarda pahalı bence.	lezzet uygila fiyat paha	FOOD#PRICES
+manzara parası eklenmiş yiyeceklerin üzerine	manzara para ekle yiyecek uzer	FOOD#PRICES
+tünel'de ev yemeği yemek için güzel bir alternatif ve lezzetli olsa da rahatlık açısından bana iyi bir hissiyat vermemişti, hemen yemek yiyip kalkmalık mekanlardan çünkü masa sayısı çok az ve masanı yüksek ihtimalle başkalarıyla paylaşıyorsun.	ev yemek yemek guzel alternatif lezzet rahat aci iyi hissiyat ver hemen yemek kalk mekan masa sayi masan yuksek ihtimal baska paylas	AMBIENCE#GENERAL FOOD#QUALITY
+yine de ayda yılda bir gidilebilir.	ay yil git	RESTAURANT#GENERAL
+zeytinyagli yemekleri cok basarili ve her yerde olan klasik yemekler yerine farkli tatlar var.	zeytinyag yemek basari yer klasik yemek fark tat	FOOD#QUALITY FOOD#STYLE_OPTIONS
+oldukca da bol kepceden hizmet veriyorlar ve 5cesit zeytinyagli icin 13-14tl oduyorsunuz.	oldukca bol kepce hizmet ver zeytinyag tl ot	FOOD#PRICES FOOD#STYLE_OPTIONS
+ogle yemeklerinde hele de yazin favori yerlerimden,ama maalesef ufak bir mekan oldugu icin yer bulmak zor olabiliyor ama birazcik beklerseniz imkansiz degil	ogle yemek hele yazin favori yer maalesef ufak mekan oldug ic yer bul zor ol birazcik bekle imkan	FOOD#QUALITY SERVICE#GENERAL
+manzarası süper.	manzara super	AMBIENCE#GENERAL
+gerçekten çok güzel bir konumda yer alıyor.	gercekten guzel konum yer al	LOCATION#GENERAL
+servisi hızlı.	servis hiz	SERVICE#GENERAL
+ne zaman gitsek güler yüzle ayrılıyoruz.	zaman git guler ayir	RESTAURANT#GENERAL
+köfteleri de lezzetli.	kofte lezzet	FOOD#QUALITY
+taksimin kalabalik dar sokaklarindan kucucuk bir kapidan girip ulastiginiz yemyesil bir bahce adeta kucuk bir supriz :	taksim kalabalik dar sokak kucucuk kapi gir ulastiginiz yemyesil bahc adeta kucuk supriz	AMBIENCE#GENERAL
+) biz burayi cok sevdik cok romantik cok tatli.	bura sev romantik tatli	RESTAURANT#GENERAL AMBIENCE#GENERAL
+tek kusuru masalar biraz yakin birbirine.	tek kusur masa yakin birbiri	AMBIENCE#GENERAL
+kirmizi limonata ve limon vitamin tercih ettik ve ikisine de bayildik.	kir limonat limon vitamin tercih et bay	DRINKS#QUALITY
+mutlaka gelin gorun.	mutlaka gelin gorun	RESTAURANT#GENERAL
+manzarasi mukkemmel denize sifir olmasi sebebiyle.	manzarasi mukkemmel deniz sifir ol sebep	AMBIENCE#GENERAL
+bahcesi huzurlu.	bahce huzur	AMBIENCE#GENERAL
+i̇cerisi icin ayni seyi soyleyemiycm temiz bulmuyorum.	ceri ic ayni temiz bul	AMBIENCE#GENERAL
+self servis olayi sıkıcı.	self servis olay siki	SERVICE#GENERAL
+bir yandan iyi pesinizde dolanan garsonlar yok.	yan iyi pesinizt dolan garson yok	SERVICE#GENERAL
+girip hava almak icin oturabilceginiz br yer.	gir hava al oturabilceginiz br yer	AMBIENCE#GENERAL
+çok kalabalık olduğundan pek sohbete uygun değil, ancak mekan gayet güzel, iç kısım çok güzel kokuyor.	kalabalik ol sohbet uygun mekan gayet guzel ic kisim guzel kok	AMBIENCE#GENERAL
+ama kalabalık ve gürültüden dolayı çok fazla duramadık.	kalabalik gurultu fazla dur	AMBIENCE#GENERAL
+eski performansini ariyoruz - baslarda müptelasi oldugum ama son zamanlarda kalitesi oldukça düsen bir mekan.	eski performans are bas muptelasi oldugum son zaman kalite oldukca dus mekan	RESTAURANT#GENERAL
+ilk kez yiyen için mükemmel ama ilk açildigindaki lezzeti kaybetti.	ilk mukemmel ilk acildigin lezzet kaybet	FOOD#QUALITY
+en iyi konumlu ögretmenevi!	iyi konum ogretmenev	LOCATION#GENERAL
+- anadolu hisari'nin hemen yanindaki sabanci ögretmenevi, herkesin kullanimina açik olan bir tesis.	anadolu hemen yanin sabanci ogretmenev kullanim acik tesis	RESTAURANT#GENERAL
+toplamda 4 salon ve bir kafeteryadan olusan tesiste uygun fiyat hizmet almak ve 4 ayri salonda dügün, nisan, okul yemegi, toplanti gibi organizasyonlar gerçeklestirmek mümkün.	toplam salon kafeterya ol tesis uygun fiyat hizmet al ayri salon dugun nisan okul yemegi toplanti organizasyon gercekles mumkun	RESTAURANT#PRICES
+kafeteryasinin self servis olmasi bir eksi gibi görünse de bogaz'daki çay keyfi tartisilmaz!	kafeterya self servis ol eksi gorun cay keyfi tartisilmaz	AMBIENCE#GENERAL SERVICE#GENERAL
+tamam yemekler guzel de, pilav da kurufasulye de soguk!	yemek guzel pilav kurufasul soguk	FOOD#QUALITY FOOD#STYLE_OPTIONS
+cok kalabalik oldugu icin servis de aksiyor tabii, calisanlar bikkin.	kalabalik oldug ic servis akis calisan bikkin	SERVICE#GENERAL
+bir kere gittim, bir daha gitmem.	kere git git	RESTAURANT#GENERAL
+hani sizi keyifli sohbet ortamlari ile bütünlestiren ve ardindan damakta biraktigi lezzet ile müdavimi yapan yerler vardir!	keyif sohbet ortam butunlestir art damak biraktig lezzet mudavim yap yer	AMBIENCE#GENERAL FOOD#QUALITY
+pazar kahvaltilari benim için mabeyin'dir.	pazar kahvalti	FOOD#QUALITY
+namini duyup gittigim yerlerden ama mezeler gelince ortada nam falan kalmadi malesef.	namin duy gittigim yer meze gel orta nam kal malesef	FOOD#QUALITY
+ayrica sacma sapan hesapta gelip sonrasinda bahsisle calisan valenin para diye tutturmasida cabasi.	sac sap hesap gel bahsis calisan vale para tutturmasida cabasi	RESTAURANT#PRICES SERVICE#GENERAL
+begenmedim malesef.	begen malesef	RESTAURANT#GENERAL
+bize mi denk geldi bilmiyorum ama, uzun zamandır yediğim en kötü yemeği burada yedim, üstüne servis de çok çok kötüydü.	denk gel bil uzun zaman kotu yemek yet ust servis kotu	FOOD#QUALITY SERVICE#GENERAL
+menünün hiç bir özelliği yok.	menu ozellik yok	FOOD#STYLE_OPTIONS
+birbirinin kopyası olan, standart kafe yemekleriyle müşteri kazıklamaya çalışan tipik yerlerden biri.	birbiri kopya standart kafe yemek musteri kazikla calis tipik yer	RESTAURANT#PRICES RESTAURANT#GENERAL FOOD#STYLE_OPTIONS
+hisarüstüne çok yakışan bir bar olmuş iç dizaynını çok güzel yapmışlar ama kış aylarında biraz soğuk olma problemi var :	hisarust yakis bar ol ic dizayn guzel yap kis ay soguk ol problem	AMBIENCE#GENERAL
+( 4 tarafı cam olduğu için yeterince ısıtamıyorlar.	taraf cam yeterince isit	AMBIENCE#GENERAL
+yılbaşı için 100 liraya sınırsız yabancı alkollü bir etkinlikleri olması da çok güzel :	yilbas lira sinirsiz yabanci alkol etkin guzel	DRINKS#STYLE_OPTIONS
+hamburgerini pek beğenmedim ama diğer yemekleri lezzetli olabilir belki.	hamburger begen yemek lezzet ol	FOOD#QUALITY
+sürekli kalabalık olan bir mekan.	surekli kalabalik mekan	AMBIENCE#GENERAL
+kadıköydeki gözde mekanlardan biri	kadikoy gozde mekan	RESTAURANT#GENERAL
+çay denilince akla ilk gelen yer:	cay akla ilk gel yer	RESTAURANT#GENERAL
+)) 60'a yakın çeşitte çaydan birini mutlaka seviceksiniz:	yakin cesit cay mutlaka sev	DRINKS#STYLE_OPTIONS
+) ben karamel aramalı çayı çok sevdim adını hatırlamasamda siz içinde karamel var dediğinizde tek gelicek o olucaktır:	karamel ara cay sevdim at hatirla karamel tek gelicek olucak	DRINKS#QUALITY
+)) mekan inanılmaz keyifli içerdeki koltuklardan kalkmak istemiyor insan:	mekan inan keyif icer koltuk kalk insan	AMBIENCE#GENERAL
+kesinlikle verdiğim puanı hakeden bir mekan.	kesin ver puan haket mekan	RESTAURANT#GENERAL
+küçük şirin bir konsepte sahip.	kucuk sir konsep sahip	AMBIENCE#GENERAL
+pizza fagotto favori lezzetim ve daha iyisini yiyene kadar benim için en iyi pizza bu.	pizza fagotto favori lezzetim iyi iyi pizz	FOOD#QUALITY
+düsen kalite - eskiden ne çok severdim patlicanli güveç kebabini...	dusen kalite eskiden sev patlicanli guvec kebap	RESTAURANT#GENERAL
+yakinlarda gittim servis berbat.	yakin git servis berbat	SERVICE#GENERAL
+fiyat yüksek, kart geçmiyor...	fiyat yuksek kart gec	RESTAURANT#PRICES
+yine de sorbe dondurmasi güzeldir.	sorbe don guzel	FOOD#QUALITY
+kısıklı'ya yakın olan mekanın şatobiryan isimli etini deneyin.	yakin mekan satobir isim et dene	FOOD#QUALITY
+özel bir sunumla masanıza geliyor.	ozel sun masa gel	FOOD#STYLE_OPTIONS
+bir de mantar çanakları denenebilir.	mantar canak dene	FOOD#QUALITY
+harika manzara, güzel lezzetler - manzarasi ve yiyecekleri son derece güzel, her çesit yiyecek mevcut ve son derece lezzetli fiyatlari ise çok çok uygun.	harika manzara guzel lezzet manzarasi son derece guzel cesit yiyecek mevcut son derece lezzet fiyat uygun	AMBIENCE#GENERAL FOOD#QUALITY FOOD#PRICES FOOD#STYLE_OPTIONS
+halka açik olmasi ise son derece güzel.	halk acik ol son derece guzel	RESTAURANT#GENERAL
+çok kalabalik olusu ve yer bulamamak sikinti olsa da gidilmesi gereken yerlerden biri.	kalabalik olus yer bula sikint git yer	RESTAURANT#GENERAL AMBIENCE#GENERAL
+hisarustu'ndeki en genis mekan olmasina ragmen ferah bir yer degil.	genis mekan ol ferah yer	AMBIENCE#GENERAL
+kalabalik gruplar icin uygun, bu acidan buyuk avantaj sagliyor.	kalabalik grup ic uygun aci buyuk avantaj sagle	AMBIENCE#GENERAL
+belli bir saate kadar bistro seklinde olusu da guzel.	belli saat bistro sekil olus guzel	RESTAURANT#GENERAL
+yazin camekan olmasi hos ancak kisin donmustuk.	yazin camekan ol hos kis donmustuk	AMBIENCE#GENERAL
+ilk kez kıs gecirmesinden midir bilmem ama su da akiyordu tepemizden.	ilk kis gec bil akiyort tepe	AMBIENCE#GENERAL
+kendi biralarindan denenmeli, guzel biralar vardi.	bira dene guzel bira	DRINKS#QUALITY
+isterseniz denemek icin farkli biralardan kucuk bardaklarda alabiliyorsunuz.	denemek ic fark bira kucuk bardak al	DRINKS#STYLE_OPTIONS
+keyifli bir ortam ve cok da kalabalik degildi, tavsiye edilir	keyif ortam kalabalik tavsiye et	AMBIENCE#GENERAL
+alkol çeşitliliği, yemekleri, dekorasyonu, barmeni, müşteri profili olarak benim için kadıköy'dekl en iyi mekandır.	alkol cesitlilik yemek dekorasyon barmen musteri profil iyi mekan	AMBIENCE#GENERAL DRINKS#STYLE_OPTIONS FOOD#QUALITY SERVICE#GENERAL
+çalışanların, işletmecinin hatta sahibinin misafirperverliği ve samimiyetini başka bir mekanda bulabileceğinizi sanmıyorum.	calisan isletmeci sahip misafirperverlik samimiyet baska mekan bul san	SERVICE#GENERAL
+her daim gidilebilecek bir mekan.	daim git mekan	RESTAURANT#GENERAL
+kadıköy'ün kemik mekanı.	kemik mekan	RESTAURANT#GENERAL
+hep klasik kaliteyi bulabilmeniz mümkün.	klasik kalite bul mumkun	RESTAURANT#GENERAL
+hafta sonu kahvaltısı için de gönül rahatlığıyla tercih edebileceğiniz bir mekan	hafta son kahvalti gonul rahat tercih et mekan	FOOD#QUALITY
+ramazan ayında gitme fırsatı buldum yeşillik içinde hoş ve düzgün bir mekan.	ramazan ay git firsat bul yesil hos duzgun mekan	AMBIENCE#GENERAL
+i̇ftar öncesi ve sonrasında güzel müzik ziyafeti sundular.	ftar guzel muzik ziyafet sun	AMBIENCE#GENERAL
+esas konumuz olan yemeklere gelince çok pozitif olamaycağım.	esas konu yemek gel pozitif ol	FOOD#QUALITY
+ben aynı fiyatlara çok daha lezzetli yemekler yiyorum bu şehirde.	ayni fiyat lezzet yemek yiyorum sehir	FOOD#QUALITY
+mekanı bilmeyeniniz yoktur.	mekan bil yok	RESTAURANT#GENERAL
+kız kulesi karşısında eşşsiz bir manzara , meşhur olduktan sonra tabiki her yer gibi lezzet kalitesi düşüyor.	kiz kules karsi esssiz manzara meshur ol tabiki yer lezzet kalite dus	AMBIENCE#GENERAL FOOD#QUALITY
+telefonla aradığımda rezervasyon alamıyoruz deyip, oraya gittiğimde istediğim masaya "orası rezerve beyefendi" diyerek oturtmayan, insanları görünüşüne göre açıkça tersleyen ukala ve sevimsiz garsonlara sahip.	telefon ara rezervasyon al ora git masa ora rezerve beyefendi otur insan gorun acik tersle ukala sevimsiz garson sahip	SERVICE#GENERAL
+big chefs isminin verdiği güven ve muhitinde rakibi olmaması yüzünden sürekli dolu olabilir ama böyle giderlerse çok müşteri kaybederler.	big chefs isim ver guven muhit rakip ol surekli dolu ol git musteri kaybet	SERVICE#GENERAL
+hamburgerlerini seviyordum ama son deneyimim beni mutlu etmedi.	hamburger sev son deneyim mutlu et	RESTAURANT#GENERAL FOOD#QUALITY
+bir kez daha sans vereceğim.	sans ver	RESTAURANT#GENERAL
+servisi bazen iyi, bazen kötü.	servis iyi kotu	SERVICE#GENERAL
+mekan tasarımı iyi.	mekan tasarim iyi	AMBIENCE#GENERAL
+ikisi de birbirinden lezzetli.	birbiri lezzet	FOOD#QUALITY
+hatta sanirim hayatimda yedigim en lezzetli tavuk gögsü'nü yedim.	sanirim hayat yedigim lezzet tavuk yet	FOOD#QUALITY
+) bu arada hizli servis için tesekkür ediyoruz.	hiz servis tesekkur et	SERVICE#GENERAL
+tatli krizi ancak böyle sahane bastirilabilirdi.	tatli kriz sahane bas	FOOD#QUALITY
+mekan emniyet mah cafe ve restorant olmak sartiyla iki bölümden olusuyor her ikisinide denedim gayet genel itibari ile güzel bir mekan kuzu bonfilesi güzeldi ilgi normaldi çok kalabalik bir mekan içecekler genel olarak güzeldi giriste mini sarküteride alisverise isik tutuyor güzeldi fiyatlar birazcik fazla	mekan emniyet mah cafe restorant sarti bolum ol ikisinide denet gayet genel itibari guzel mekan kuzu bonfile guzel ilgi normal kalabalik mekan ic genel guzel giriste mini sarkuteride alisveri isik tut guzel fiyat birazcik fazla	FOOD#QUALITY RESTAURANT#PRICES RESTAURANT#GENERAL DRINKS#QUALITY SERVICE#GENERAL
+gerçekten bir özelligi olmayan çesidi bol konumu itibari ile talep gören çok sikisik havasiz normal bir mekan fiyatlar hayli yüksek süper bir özelligi olan bir yemegi varsa söyleyin arkadaslar	gercekten ozelligi cesit bol konum itibari talep gor sikisik hava normal mekan fiyat hayli yuksek super ozelligi yemegi arkadas	RESTAURANT#PRICES LOCATION#GENERAL AMBIENCE#GENERAL
+servisi ve yemekleri bu kadar kötü restorant bulmak istanbulda zor olsa gerek.	servis yemek kotu restorant bul istanbul zor	FOOD#QUALITY SERVICE#GENERAL
+yenmeyecek kadar kötü kebaplari, ukala garsonu ve en lüks restoranda ödeyecegini alkollü yemek fiyatiyla karsilasirsiniz.	yen kotu kebap ukala garson luks restoran odeyeceg alkol yemek fiyat karsila	RESTAURANT#PRICES FOOD#QUALITY SERVICE#GENERAL
+belediye bu isletmenin ruhsatini acil olarak iptal etmelidir.	belediye islet ruhsat acil iptal et	RESTAURANT#GENERAL
+herseyi birakin manzarasi yeter zaten.	herse birakin manzarasi yet	AMBIENCE#GENERAL
+denize sifir hatta oyle ki gecen gemilerden dolayi olusan dalgalar sizi islatir mi acaba diye bir korkuya kapiliyorsunuz ;) kahve ic manzarayi yani bogazi seyret yetti de artti bile.	deniz sifir oy gec gemi olus dalga islatir korku kapile kahve ic manzarayi bogazi seyret yet art	AMBIENCE#GENERAL
+sadece manzarası başka bence artı değeri yok.	sadece manzara baska arti deger yok	RESTAURANT#GENERAL AMBIENCE#GENERAL
+o da eğer yer bulabilirseniz.	yer bul	SERVICE#GENERAL
+çalışanları çok kaba.	calisan kaba	SERVICE#GENERAL
+sizi saatlerce sırada bekletip önünüze başkalarını alabiliyor.	saat sira bekle baska al	SERVICE#GENERAL
+passion fruit'lu dondurması ve içeceğini beğendim.	passion don icecek begen	DRINKS#QUALITY FOOD#QUALITY
+aşşk-ı memnu vasat bir tada sahip bence.	memnu vasat tat sahip	FOOD#QUALITY
+bir daha gider miyim?	git	RESTAURANT#GENERAL
+fena değil ama menemen için fiyat yüksek.	fena menemen fiyat yuksek	FOOD#QUALITY FOOD#PRICES
+bu arada porsiyon da oldukça büyük, iki kişiye rahatlıkla yeter.	porsiyon oldukca buyuk kisi rahat yet	FOOD#STYLE_OPTIONS
+çok sulu olduğu için zaten bol ekmekle yeniyor.	bol ekmek yen	FOOD#STYLE_OPTIONS
+tam anlamiyla harika bir mekan ic mekan konseptiyle tam kis mevsimine uygun ozellikle kisin kahvalti icin guzel bir mekan ariyorsaniz buraya bi ugrayin derim	anlam harika mekan ic mekan konsept kis mevsim uygun ozellik kis kahvalti ic guzel mekan are bura bi ugray derim	AMBIENCE#GENERAL
+özellikle güzel bir havada gidiyorsanız deniz kıyısındaki masalarında oturmak için epey bi sıra bekleyebilirsiniz.	ozellikle guzel hava git deniz kiyi masa otur epey bi sira bekle	SERVICE#GENERAL
+mekan küçük ama şirin, aşk-ı memnu'yu daha önce hiç bitiremedim ama gerçekten çok güzel bir tadı var.	mekan kucuk sir bit gercekten guzel tat	AMBIENCE#GENERAL FOOD#QUALITY
+servis sıkıntılıydı, sevemedim.	servis sikinti sev	SERVICE#GENERAL
+ayrıca bahsettiğim meşhur tatlı 21 tl	bahset meshur tatli tl	FOOD#PRICES
+aslında doymuştuk ama gözümüzün açlığından patatesli mantısını da denedik gayet iyiydi ama ekstra bir özelliği yoktu.	doy goz aclik patatesli manti dene gayet iyi ekstra ozellik yok	FOOD#QUALITY
+i̇çerisi biraz yemek kokuyordu ve çalışanlarında gereksiz bir negatif enerji vardı.	ceri yemek kok calisan negatif enerji	AMBIENCE#GENERAL SERVICE#GENERAL
+i̇nşallah sadece o güne özgü bir negatifliktir çünkü fıccın'ın tadı damağımda yine gitmek gerek.	nsallah sadece gun ozgu negatif tat damagim git	RESTAURANT#GENERAL
+fiyatlar gayet uygun.	fiyat gayet uygun	RESTAURANT#PRICES
+bu civarda güzel kahvaltı edilecek yerlerden diye girdik ama durum pek öyle olmadı.	civar guzel kahvalti yer gir durum	RESTAURANT#GENERAL
+menemeni güzel denebilir.	meneme guzel	FOOD#QUALITY
+ama kahvaltı seçenekleri zayıf zira fotoğraftaki sözde zengin kahvaltı tabağı karar sizin.	kahvalti secenek zayif fotograf soz zengin kahvalti tabak kar	FOOD#STYLE_OPTIONS
+zengini buysa normali nasıl olur.	zengin norma	FOOD#STYLE_OPTIONS
+çok övülüp merak ettiğimiz ama yine pişman olduğumuz bir yer.	ov merak et pisman ol yer	RESTAURANT#GENERAL
+bu kadar popülersin o kötü durumdaki mekanı tadilattan geçirmek çok mu zor.	popul kotu durum mekan tadilat gec zor	AMBIENCE#GENERAL
+adıyla meşhur menemen yiyeyim dedim domates kabuğu ayıklamaktan hiçbir şey anlamadım.	at meshur menemen domates kabuk ayikla anla	FOOD#QUALITY
+o kabukları soymak ne kadar zor ki?	kabuk soy zor	FOOD#STYLE_OPTIONS
+sucuklu yumurtasında da sucuklar fazla pişmişti.	sucuk yumurta sucuk fazla pis	FOOD#QUALITY
+herşeyine kefil olduğum bir mekan.	hersey kefil ol mekan	RESTAURANT#GENERAL
+garsonlarından aşçılarına kadar çok iyiler burada yediğiniz yemekler ve tabakların taklidi bulabilirsiniz ama bu tadı başka yerde bulamazsınız kardeşler keep calm and eat from happy moons	garson asci iyi yemek tabak taklit bul tat baska yer bul kardes keep calm and eat from happy moons	FOOD#QUALITY SERVICE#GENERAL
+adı üzerinde "menemeni" ile ünlü, sıcak, samimi, esnaf restoranı.	at uzer menem unlu sicak samimi esnaf restoran	AMBIENCE#GENERAL
+menemeni leziz, balı enfes ama çayı için olumlu bir yorum yapamayacağım.	menemen leziz bal enfes cay olumlu yorum yap	DRINKS#QUALITY FOOD#QUALITY
+karşısında da lokantası bulunuyor ama ben size derim ki gidin menemen ve bal kaymakla güzel bir kahvaltı yapın.	karsi lokanta bulun derim git menemen bal kay guzel kahvalti yap	FOOD#QUALITY
+fiyatlar da gayet uygun, ortalamanın altında.	fiyat gayet uygun ortalama alt	RESTAURANT#PRICES
+sampi, avarajda olsa da, otobüs yolculuğu yapanların mutlaka uğradığı yerdir.	sampi avaraj otobus yolculuk yap mutlaka ugra yer	RESTAURANT#GENERAL
+pideleri çeşitli, daha çok karadeniz pidesi türünde.	pide cesit karade pide tur	FOOD#STYLE_OPTIONS
+özellikle gitmekten öte, denk gelince gidileceklerden bence.	ozellikle git denk gel git	RESTAURANT#GENERAL
+happy moon's ların yüz karası.	happy larin kara	RESTAURANT#GENERAL
+çalışanlar çok kötü.	calisan kotu	SERVICE#GENERAL
+lezzet sıfır.	lezzet sifir	FOOD#QUALITY
+menüde alkol bulundurmayan tek gereksiz happy moon's.	menu alkol bulun tek happy	DRINKS#STYLE_OPTIONS
+olduğu sokaktaki siz masada yemek yerken ki yanınıza yapışanlarla da mücedele edemesi cabası.	sokak masa yemek yer yan yapis mucedele et caba	LOCATION#GENERAL
+kis aylarinda tercih sebebi - özellikle kisin bu kütük evde sahlep içmek oldukça güzeldir.	kis ay tercih sebep ozellikle kis kutuk ev sahlep ic ol guzel	AMBIENCE#GENERAL
+aparatifleri de açliginizi yaristirmak için birebirdir.	aparatif acligi yaristirmak birebir	FOOD#QUALITY
+nargilesi de mevcut olan mekan genelde hep doludur.	nargile mevcut mekan genelde dolu	DRINKS#STYLE_OPTIONS
+kuru fasülye için tercih etmek gerek diye düsünülsede tereyagli pilavi çok daha dogal.	kuru fasul tercih et dusunulse tereyag pilavi dogal	FOOD#QUALITY
+kuru hakikaten lezzetli ama içindeki yagin margarin oldugunu hissediyorum.	kuru hakikaten lezzet ic yagin margari oldugun hisset	FOOD#QUALITY
+bu lezzetlerin yaninda verilen küçük aci biberler bence sofranin favorisi.	lezzet yan ver kucuk ac biber sofra favori	FOOD#STYLE_OPTIONS
+((( hayal kirikligi - uzunlar'a ilk gittigimdeki tadi ikinci gidisimde bulamadim...	hayal kiriklig ilk gittigim tadi ikinci gidisim bul	FOOD#QUALITY
+ilk gittigimde çok lezzetli gelen dürüm 2. gidisimde tam bir fiyaskoydu çok yagli oldugundan yiyemedik arkadaslarla aç kaldik resmen :	ilk gittigim lezzet gel durum gidisim fiyasko yagli oldug arkadas ac kaldik resmen	FOOD#QUALITY
+((( mekanin kalabalik olmasindan mi kaynakliydi bu dikkatsizlik anlam veremedim, bu kadar övgü almasina ragmen böyle olumsuz bir durum ilginç geldi.	mekan kalabalik ol kaynak dikkat anlam ver ovgu al olumsuz durum ilginc gel	RESTAURANT#GENERAL
+seyir terasi - istanbul'u seyretmenin en çok keyif verdigi yerlerden biridir.	seyir tera seyret keyif verdigi yer	AMBIENCE#GENERAL
+manzarasi sakinlestirir ve huzur verir.	manzarasi sakin huzur ver	AMBIENCE#GENERAL
+personel ilgilidir.	personel	SERVICE#GENERAL
+burada kendinizi kötü hissetmezsiniz ve mutlu ayrilirsiniz.	kotu hisset mutlu ayir	RESTAURANT#GENERAL
+lezzetli yemekler, rahat ortam ve uygun fiyatlar.	lezzet yemek rahat ortam uygun fiyat	RESTAURANT#PRICES AMBIENCE#GENERAL FOOD#QUALITY
+tek sorunu ulaşımı birazcık sıkıntılı.	tek sorun ulasim birazcik sikinti	LOCATION#GENERAL
+özel aracımızla nereden gireceğimizi pek kestiremedik ancak 10 dakikalık bir çaba sonununda mekana ulaştık.	ozel arac nere gir kes dakika caba sonununda mekan ulas	LOCATION#GENERAL
+yemeğin ardından cafe ortamına devam edebilirsiniz.	yemek art cafe ortam devam et	AMBIENCE#GENERAL
+aynı zamanda tavla, okey gibi oyunları da oynayabileceğiniz bölümleri var.	ayni zaman tav okey oyun oyna bolum	RESTAURANT#GENERAL
+gayet kullanışlı ve uygun.	gayet kullan uygun	RESTAURANT#GENERAL
+yazın daha da güzel olan mekan.	yazi guzel mekan	RESTAURANT#GENERAL
+en sevdıgım big chef şubesi arkadaşlarınızla keyifli zaman geçireceğiniz bu mekan göksunun incisi tekrar gidiceğinizden emin olabilirsiniz	sevdigim big chef sube arkadas keyif zaman gec mekan gok inci tekrar gidicek emin ol	RESTAURANT#GENERAL
+manzaradan kurtaran bir mekan.	manzara kurtar mekan	RESTAURANT#GENERAL AMBIENCE#GENERAL
+pek sevmedim acikcasi.	sev acikca	RESTAURANT#GENERAL
+kofteleri de cok cok mukemmel degil.	kofte mukemmel	FOOD#QUALITY
+idare eder denilebilir.	idare et	RESTAURANT#GENERAL
+guler yuz yok.	guler yok	SERVICE#GENERAL
+gurultulu ve aksam saatlerinde oldukca kalabalik oluyor.	gurultulu aksam saat oldukca kalabalik	AMBIENCE#GENERAL
+oturduğunuz sürece sürekli patlamış mısır getiriyorlar.	otur sure surekli patla misir getir	SERVICE#GENERAL
+durmazsanız bir saat içinde yaklaşık 10 kase falan yiyebilirsiniz.	dur saat yaklasik kase	FOOD#STYLE_OPTIONS
+ayrıca en son premier league maçlarını da veriyorlardı.	son premier league mac ver	SERVICE#GENERAL
+kuru fasulyenin lezzetine diyecek söz yok, fiyatlar da makul sayılır ancak mekan düğün salonundan bozma.	kuru fasulye lezzet soz yok fiyat makul say mekan duk salon boz	RESTAURANT#PRICES AMBIENCE#GENERAL FOOD#QUALITY
+en nihayetinde kuru fasulyeci ancak ortam daha zevkli hale getirilebilir.	nihayet kuru fasulyeci ortam zevk hal getir	AMBIENCE#GENERAL
+mekanin konumu çok muhtesem konsept, hizmet ve ürünler vasat.	mekan konum muhtesem konsept hizmet urun vasat	LOCATION#GENERAL FOOD#QUALITY SERVICE#GENERAL
+- anadolu hisarinda bir tarafi göksu deresi diger tarafi istanbul bogazinin akip giden masmavi sulari ama hepsi bu kadar.	anadolu hisar tarafi gok dere tarafi istanbul bogaz akip git masmavi	RESTAURANT#GENERAL LOCATION#GENERAL
+ben farkli zamanlarda gittim ama mekanin kimligi enerjisi bana hitap etmiyor...	fark zaman git mekan kimlig enerji hitap et	RESTAURANT#GENERAL
+mutlaka müdavimleri vardir ama beni çekmiyor.	mutlaka mudavim cek	RESTAURANT#GENERAL
+ama bu mekan iyi bir isletmeci ile söyle iyi bir sekilde elden geçse çok iyi isler çikar buradan...	mekan iyi isletmeci iyi sekil el gec iyi is cikar bura	RESTAURANT#GENERAL SERVICE#GENERAL
+konum olarak aslinda çok güzel bir yerde.	konum guzel yer	LOCATION#GENERAL
+belki mekanin üst kisminda otursaydik büyük bir ihtimal manzarada vardir ama biz maalesef otoparkta oturdugumuz için arabadan ve agaçtan bir sey göremedik.	mekan ust kisim otur buyuk ihtimal manzara maalesef otopark oturdug araba agac gor	AMBIENCE#GENERAL
+sanirim ramazana özel bir uygulamaydi bu otoparkta masa.	sanirim ramazan ozel uygula otopark masa	AMBIENCE#GENERAL
+eger gidecekseniz özellikle mekanin üst katlarinda olmasini isteyin.	git ozellikle mekan ust kat ol	AMBIENCE#GENERAL
+lezzet konusunda da aman aman bir lezzeti yoktu.	lezzet konu aman aman lezzet yok	FOOD#QUALITY
+manzarasi için giderim diyorsaniz denenebilir.	manzarasi git dene	AMBIENCE#GENERAL
+içi gayet sikici, kredi karti geçerli olmayan, çorbayi kase yerine düz tabakta servis eden, personeli asik suratli, etlerin sadece bir parça olarak geldigi ve neden bu kadar meshur oldugunu anlayamadigim gereksiz bir yer.	ic gayet sikici kredi kart gecerli corba kas duz tabak servis personel asik surat et sadece parca geldigi meshur oldugun anlayamadigim yer	RESTAURANT#GENERAL FOOD#STYLE_OPTIONS AMBIENCE#GENERAL SERVICE#GENERAL
+son derece kotu servis, anlatilamayacak kadar hizmet sekorunden uzak, baska bir dunyada personel.	son derece kot servis anla hizmet sekor uzak baska dunya personel	SERVICE#GENERAL
+bir kebapci icin olmazsa olmaz olan iyi servis ve guleryuzlu ilgili personeli burda hayal bile etmeyin.	kebapci ic ol iyi servis guleryuz personel burt hayal et	SERVICE#GENERAL
+servis de personel de koca bir "0"	servis personel koca	SERVICE#GENERAL
+servis yavastu .	servis yavast	SERVICE#GENERAL
+garson a nie yavas oldugunu sordugumda 500 kisi var normaldir cvbini aldim.	garson nie yavas oldugun sordugum kis normal cvbin al	SERVICE#GENERAL
+kesinlikle tercih etmicem bi daha	kesin tercih et bi	RESTAURANT#GENERAL
+normal - pizzalari yeterince ince ama spesifik bir tadi eksik,mekan olarakta cok ozel olmadigindan gidilmesine gerek olmayan bir yer kanimca.	normal pizza yeterince ince spesifik tadi eksik mekan ol ozel olmadigin git yer kanim	AMBIENCE#GENERAL FOOD#QUALITY
+rezalet otesi bir mekan.	rezalet mekan	RESTAURANT#GENERAL
+cok kaba saba garsonlari ve hizmeti olan dandik bir mekan.	kaba saba garson hizmet dandik mekan	RESTAURANT#GENERAL SERVICE#GENERAL
+manzarasi disinda tirt, sunumu da berbat gercekten.	manzarasi tirt sunum berbat gercek	RESTAURANT#GENERAL AMBIENCE#GENERAL SERVICE#GENERAL
+tatli yemek istedik kalkin baska yere oturun dedi terbiyesizler.	tatli yemek kalkin bask yer otur terbiye	SERVICE#GENERAL
+tevazuya gerek yok abartı da değil.	tevazu yok abart	RESTAURANT#GENERAL
+i̇stanbulun en iyi dönerini yapıyorlar.	stanbul iyi doner yap	FOOD#QUALITY
+ancak servis harika 250 kişilik dükkanda herkese yetişiyorlar.	servis harika kisilik dukkan yetis	SERVICE#GENERAL
+dönerin yanındaki patates, salata bile süper.	doner yan patates salata super	FOOD#QUALITY
+havuç dilimi tatlı da denenebilir.	havuc dilim tatli dene	FOOD#QUALITY
+tek eksik ayranı kendilerinin yapmaması.	tek eksik ayran yap	DRINKS#STYLE_OPTIONS
+böyle bir yer için el yapımı ayran şart.	yer el yapim ayran sart	DRINKS#STYLE_OPTIONS
+mekan çok güzel, menüde 10larca seçenek var ama malesef yemekler lezzetli değil.	mekan guzel menut secenek malesef yemek lezzet	AMBIENCE#GENERAL FOOD#QUALITY FOOD#STYLE_OPTIONS
+tüm puanı mekan hakediyor.	puan mekan haket	RESTAURANT#GENERAL AMBIENCE#GENERAL
+kahve içmek isterseniz güzel bir tercih ama yemek yemek için aynı şeyi söyleyemeyeceğim	kahve ic guzel tercih yemek yemek ayni	DRINKS#QUALITY FOOD#QUALITY
+büyük porsiyonlar anca bir normal porsiyon olduğunda küçük pizzalari tavsiye edemem.	buyuk porsiyon anca normal porsiyon ol kucuk pizza tavsiye et	FOOD#STYLE_OPTIONS
+ortam olarak baya küçük bir dükkân ve ortaköye uygun.	ortam bay kucuk ortako uygun	AMBIENCE#GENERAL
+hamur biraz fazla inceydi ve peynir daha bol olabilir.	hamur fazla ince peynir bol ol	FOOD#STYLE_OPTIONS
+domates sosu malesef çok zayif kaldi ve pizzanin seviyesini düşürüyor.	domates sos malesef zayif kaldi pizza seviye dus	FOOD#QUALITY FOOD#STYLE_OPTIONS
+fiyatlar orta ile yüksek arasi.	fiyat orta yuksek arasi	RESTAURANT#PRICES
+kendi biralarını çoğunluğun aksine pek beğenmedim, hatta ilk defa bir birayı bitiremedim.	bira cogunluk aksine begen ilk biray bit	DRINKS#QUALITY
+biraz boğucu bir mekan, haftasonlari özellikle çok kalabalık oluyor.	bok mekan haftason ozellikle kalabalik	AMBIENCE#GENERAL
+kalabalığın içinde hiç beklenmeyecek kadar ferah ve güzel bir mekan.	kalabalik bekle ferah guzel mekan	AMBIENCE#GENERAL
+bunun dışında, her ne kadar çoğu zaman talebi karşılamasa da sundukları bira menüsü burayı çok çekici kılıyor.	dis zaman talep karsila sun bira menus bura cek kil	RESTAURANT#GENERAL DRINKS#STYLE_OPTIONS
+yemekleri de çeşit konusunda çok zengin değil ama lezzetli.	yemek cesit konu zengin lezzet	FOOD#QUALITY FOOD#STYLE_OPTIONS
+denediklerimizden, tavuk schnitzel mükemmel, tavuklu wrap harikaydı!	dene tavuk schnitzel mukemmel tavuk wrap harika	FOOD#QUALITY
+bir de çeşitli homemade ice tea ve limonataları gerçekten başarılı :	cesit homemade ice tea limonata gercekten basari	DRINKS#QUALITY
+etleri mezeleri basarili ama porsiyonlar inanilmaz buyuk.	et meze basari porsiyon inan buyuk	FOOD#QUALITY FOOD#STYLE_OPTIONS
+3 kisi 2 kisi icin getirdiklerini rahatlikla yiyebilir.	kis kis ic getir rahat	FOOD#STYLE_OPTIONS
+3 gidip 2 kisilik getirin derseniz yiyecekler bu sekilde geliyor ama kisi basina 70tl yaziyorlar cok sacma olmus	git kisi getir sekil gel kis basin yaz sac ol	FOOD#PRICES
+5 çayının ideal adresi karaköy'de dem.	cay ideal adres	RESTAURANT#GENERAL
+50'den fazla çay çeşidi ile damak zevkinizi bi yerde yakalayacağı kesin!	fazla cay cesit damak zevk bi yer yakala kesin	DRINKS#STYLE_OPTIONS
+benim tavsiyem vanilya aromalı bourban vanilla, tatlı ihtiyacınız içinse damla sakızlı mastika keki.	tavsiyem vanilya aroma bourb vanilla tatli ihtiyac damla sakizli mastika keki	DRINKS#QUALITY FOOD#QUALITY
+hizmet, ilgi alaka herşey şahane!	hizmet ilgi alaka hersey sahane	SERVICE#GENERAL
+iyi ki gittim de yedim dediğim bir şey yok.	iyi git yet yok	FOOD#QUALITY
+oturma yeri de çok yok.	otur yer yok	AMBIENCE#GENERAL
+bu kadar meşhur olması bana garip geldi açıkçası.	meshur garip gel acik	RESTAURANT#GENERAL
+manzara severlere...	manzara sev	AMBIENCE#GENERAL
+- o manzaraya bu yemekler, bu servis olmamis :	manzara yemek servis ol	AMBIENCE#GENERAL FOOD#QUALITY SERVICE#GENERAL
+(( üstelik fiyatlarda, yemeklerine nazaran uygun degil.	ustelik fiyat yemek nazaran uygun	FOOD#QUALITY FOOD#PRICES
+yemekleri için giderseniz memnuniyetsiz ayrilabilirsiniz; ama manzara seviyorsaniz kesin gidilmeli.	yemek git memnuniyet ayir manzara sev kesin git	AMBIENCE#GENERAL FOOD#QUALITY
+kadiköy'de gitmekten zevk aldığım mekanlardan birtanesi.	git zevk al mekan birtane	RESTAURANT#GENERAL
+english pub tarzında dekorasyona sahip, bira çeşitliliği fazla olan tarz bir mekan.	english pub tarz dekorasyon sahip bira cesitlilik fazla tarz mekan	DRINKS#STYLE_OPTIONS AMBIENCE#GENERAL
+yemek olarak schinitzel ve burger denedik, biranın yanında iyi gitti.	yemek schinitzel burger dene bira yan iyi git	FOOD#QUALITY
+kış aylarında içeride oturmanızı öneririm dekorasyon ve ortam keyif veriyor...	kis ay iceri otur oner dekorasyon ortam keyif ver	AMBIENCE#GENERAL
+dekorasyonu renkleri cok sicak ve sevimli.	dekorasyon renk sicak sevimli	AMBIENCE#GENERAL
+ev yemeği yemek isteyenler için ideal bur mekan tek bir şartla ne yiyecegini bilmen lazım çünkü hersey cok lezzetli degil.	ev yemek yemek ideal bur mekan tek sart yiyeceg bilm lazim hersey lezzet	FOOD#QUALITY
+servis yavas, çalışanların birbirleriyle diyaloglarıni da pek sevmedim.	servis yavas calisan birbi diyalog sev	SERVICE#GENERAL
+mekan kalabalık olduğunda stres kontrolu diye bişey kalmiyor sanirim.	mekan kalabalik ol stres kontrol bisey kal san	SERVICE#GENERAL
+i̇stanbul şubesi çokta güzel değil çaldıkları müzikler hard rock'tan çok popüler olmuş.	stanbul sube guzel cal muzik hard populer ol	RESTAURANT#GENERAL AMBIENCE#GENERAL
+arka bahçesi tüm yorgunluğunu alıyor insanın.	arka bahce yorgun al insan	AMBIENCE#GENERAL
+koşuyolunun en iyilerinden kirpi en çok diyet yapanların sevdiği bir mekan çünkü menüsü sağlıklı beslenmeye uygun.	kosuyol iyi kirpi diyet yap sev mekan menus saglik besle uygun	RESTAURANT#GENERAL FOOD#STYLE_OPTIONS
+masa yerlesimleri pek guzel degil oturma duzeni olmamis.	masa yerlesim guzel otur duzen ol	AMBIENCE#GENERAL
+yer bulmak da zor oluyor.	yer bul zor	SERVICE#GENERAL
+cok cesitli caylar var ancak fiyatlari biraz yuksek.	cesit cay fiyat yuksek	DRINKS#PRICES DRINKS#STYLE_OPTIONS
+i̇ngiliz cayi istedigimde sut getirmediler gerekce olarak da kotu oldugunh soylediler garson tersledi hatta	ngiliz cay istedigim sut getir gerekce kot oldugunh garson tersle	SERVICE#GENERAL
+kurufasülye ne kadar değişik olabilir demeyin bizce kuru'da yediğim kurufasulyeden gelen hafif şekerli tat beni kendine hayran bıraktı resmen.	kurufasul degisik ol kurufasulye gel hafif seker tat hayran birak resmen	FOOD#QUALITY
+tereyağlı pilavları ve tava yoğurdu da çok başarılı.	tereyak pilav tava yok basari	FOOD#QUALITY
+üzerine bal ve fındık dökülmüş sütlaçları çok cezbedici gözükse de sütlaç tadını alamadım daha çok muhallebi gibiydi.	uzer bal findik dok sutlac cezbet gozuk sutlac tat al muhallep	FOOD#QUALITY FOOD#STYLE_OPTIONS
+ayrıca hergun çıkardıkları farklı zeytinyağlı yemekleri de çok başarılı.	hergun cik fark zeytinyak yemek basari	FOOD#QUALITY
+fiyatlar ortalamanın biraz ustunde malesef.	fiyat ortalama usut malesef	RESTAURANT#PRICES
+serviste cok guzel.	servis guzel	SERVICE#GENERAL
+ortam cok guzel.	ortam guzel	AMBIENCE#GENERAL
+lezzetliydi.	lezzet	FOOD#QUALITY
+en beğendigimiz sushico şubesi.	begendigi sushico sube	RESTAURANT#GENERAL
+bahçesi çok güzel ve ferah.	bahce guzel ferah	AMBIENCE#GENERAL
+sushi ustasi cok becerikli ve şakaci :	sushi ustasi becerik sakaci	SERVICE#GENERAL
+) yogun oldugu saatlerde servis biraz aksak olsa da kabul edilebilir buluyoruz	yogun oldug saat servis aksak kabul et bul	SERVICE#GENERAL
+menü çeşitleri zengin.	menu cesit zengin	FOOD#STYLE_OPTIONS
+fiyatları normalin biraz üstünde ama yinede caddedeki yorgunluğu atmanız için ferah ferah oturabileceğiniz mekan.	fiyat normal ust cadde yorgun at ferah ferah otur mekan	RESTAURANT#PRICES AMBIENCE#GENERAL
+- herkesin muhallebisini ya da süt tatlilari yedigi yerin ben künefesini begeniyorum.	muhallebi sut tatli yedigi yer kunefe begen	FOOD#QUALITY
+favorilerim biçak arasi ve saç arasi ama tavuk sis ve diger ekmeklerde (kasarli ve kiymali) çok basarili.	favorilerim bicak arasi sac arasi tavuk sis ekmek kasar kiyma basari	FOOD#QUALITY
+konyada yemedim ama yiyenlerinde begendigi bir mekan.	konya begendigi mekan	RESTAURANT#GENERAL
+servis iyi olmadigindan michelin yildizli yemek yapsalar gözüme görünmüyor.	servis iyi olmadigin michel yildiz yemek yap gozum gorun	SERVICE#GENERAL
+35 derece yaz sicaginda buzdolaplari bozuk diye sicak kola getirdiler bu sefer de.	derece yaz sicagin buzdolap bozuk sicak kol getir sefer	DRINKS#QUALITY
+buradan içeri girersiniz karşılamasından tutunda etten önce gelen kuverdeki turşuya kadar hepsi özenle seçilmiş hazırlanmış mekanın ve tatların içinde gezer durursunuz.	bura iceri gir karsila tut et gel kuver tursu ozen sec hazirla mekan tat gez dur	RESTAURANT#GENERAL FOOD#QUALITY
+et menüsünden istediğinizi seçebilirsiniz hepsi olabileceğinin en iyisidir .	et menus sec ol iyi	FOOD#QUALITY
+tatlılar da bir o kadar harikadır.	tatli harika	FOOD#QUALITY
+mekanın sahibi beyti bey her oraya gidişinizde masanıza uğrayıp selam verir.	mekan sahip beyit bey ora git masa ugra selam ver	SERVICE#GENERAL
+söylenecek daha da birşey yok kesinlikle güzel yemek yemek istiyor ve risk almak istemiyorsanız bana kalırsa beyti'den iyisi yoktur !	yok kesin guzel yemek yemek risk al kal iyi yok	FOOD#QUALITY
+özellikle yabancı misafirlerinizi ağırlamak için osmanlı tarzı dekorasyonu ve akıl almaz lezzetleri sayesinde türk mutfağını tanıtmak için çok uygun...	ozellikle yabanci misafir agirla osman tarz dekorasyon akil al lezzet saye turk mutfak tani uygun	AMBIENCE#GENERAL FOOD#QUALITY
+servis kotu, mekan fazla aydinlik ve gurultulu.	servis kot mekan fazla aydin gurultu	AMBIENCE#GENERAL SERVICE#GENERAL
+garsonlarin ilgisizligi cabasi.	garson ilgisizligi cabasi	SERVICE#GENERAL
+yemekler soguk ve gec geliyor.	yemek soguk gec gel	FOOD#QUALITY SERVICE#GENERAL
+tek guzelligi marina manzarasi.	tek guzelligi marina manzarasi	AMBIENCE#GENERAL
+bide cikolatali karayip katlarini met etmeden yapamiycam.	bit cikolata karayip kat met et yapamiyca	FOOD#QUALITY
+i̇stikrarli.	stikrar	RESTAURANT#GENERAL
+- her gittigimde bir öncekinden daha kötü susi yapmayi nasil yapmayi beceriyorlar?	gittigim kotu sus yap yap bec	FOOD#QUALITY
+sushiler gene basarili; ama yemekler ciddi anlamda bozuldu.	sushi basari yemek ciddi anlam boz	FOOD#QUALITY
+cok guzel hepsi birbirinden guzel yemeklerinizz ve lezzetli sonrasinda.	guzel birbiri guzel yemek lezzet	FOOD#QUALITY
+garsonlarin servis sunumunda hersey dört dört lük.	garson servis sunum hersey luk	SERVICE#GENERAL
+tesekkur ediyorum.	tesekkur et	RESTAURANT#GENERAL
+tavsiye bicak arasi yemeniz .	tavsiye bicak arasi	FOOD#QUALITY
+masanin bir ucundan diger ucuna kadar uzaniyir konya mutfagindan farkli lezzetler deneyin fiyatlar uygun geldi .	masa uzani konya mutfagin fark lezzet dene fiyat uygun gel	FOOD#STYLE_OPTIONS
+çikolatalı saray muhallebisi , krem karamel ve ayva tatlısından tabaklarca yiyebilirim.	cikolata saray muhallebi krem karamel ayva tatli tabak	FOOD#QUALITY
+bu konuda onların eline kolay kolay kimse su süremez.	konu el kolay kolay sur	RESTAURANT#GENERAL
+çok açsanız pilav üstü döneri deneminizi tavsiye ederim.	ac pilav ust doner denem tavsiye et	FOOD#QUALITY
+sadece teras katı oturulabilir olan bi şubesi.	sadece teras kat otur bi sube	AMBIENCE#GENERAL
+diğer katlara pekte gerek yokmuş.	kat pekte yok	RESTAURANT#GENERAL
+çalışanlar oldukca ilgili alakalı .	calisan oldukca alaka	SERVICE#GENERAL
+fiyatlar aynı yani normal .	fiyat ayni normal	RESTAURANT#PRICES
+teras katında tatlınızı yiyip çayınızı yudumlayabilirsiniz.	teras kat tat cay yudumla	AMBIENCE#GENERAL
+denemek lazim - ögle arasinda is yerinden arkadaslar ile gittik.	denemek lazim ogle ara is yer arkadas git	RESTAURANT#GENERAL
+biçak arasi iyi, saç arasi mükemmel, garsonlar ilgisiz ve fiyatlar uçmus.	bicak arasi iyi sac arasi mukemmel garson ilgi fiyat	FOOD#QUALITY FOOD#PRICES SERVICE#GENERAL
+ama gene de gitmek lazim.	git lazim	RESTAURANT#GENERAL
+etli ekmeğinin konya'daki mekanlardan bile daha lezzetli olduğunu düşündüğüm mekan/dı.	et ekmek mekan lezzet dusun mekan di	FOOD#QUALITY
+başakşehir şubesi açıldığından beri o eski ovalı değil.	basaksehir sube ac eski ovali	RESTAURANT#GENERAL
+mekanın yeri çok güzel.	mekan yer guzel	LOCATION#GENERAL
+çalışanları kibar.	calisan kibar	SERVICE#GENERAL
+lezzetine güvenebileceğiniz bir zincir zaten.	lezzet guven zincir	FOOD#QUALITY
+deniz ürünleri salatası çok lezzetli.	deniz urun salata lezzet	FOOD#QUALITY
+ahtapot, karides, kalamar, somon füme ; ne ararsanız var içinde.	ahtapot karides kalamar somon fum ara	FOOD#STYLE_OPTIONS
+sağlıklı ve hafif.	saglik hafif	FOOD#QUALITY
+toplantı için kalkıp florya lara kadar gidip beklentiye bağlı olarak hayal kırıklığı yaratan mekan.	toplanti kalk flor lara git beklenti bak hayal kirik yarat mekan	RESTAURANT#GENERAL
+dışarıdan lüks gibi görünse de artık tarihi geçmiş mekan görüntüsü vermekte ve içerideki aksesuarlar göz yormakta.	disari luks gorun tarih gecmis mekan goruntu ver iceri aksesuar goz yor	AMBIENCE#GENERAL
+yemeklere gelince döner tatsız tuzsuz, et köfte pınar'ın et köftesinden daha kötü, kırmızı et hafifçe sert ve keyifsizdi.	yemek gel doner tat tuz et kofte et kofte kotu kirmizi et hafif sert keyif	FOOD#QUALITY
+belki künefe iyidir diye düşünürken künefenin peynirden yoksun olması hayal kırıklığımızı üst seviyeye çıkardı.	kunef iyi dusunur kunefe peynir yoksun hayal kirik ust seviye cik	FOOD#QUALITY
+illa kebap yemek istiyorsanız başka tercihlere yönelin derim...	illa kebap yemek baska tercih yonel derim	FOOD#QUALITY
+uzun zamandir gitmemistim ve iyi ki gitmemisim.	uzun zaman gitmemistim iyi git	RESTAURANT#GENERAL
+gercekten lahmacunu tavugu berbatti ve gelen hesap 2 kisi 169tl.	gercek lahmacunu tavug berbat gel hesap kis	FOOD#QUALITY FOOD#PRICES
+hic tavsiye etmiyorum , design deseniz zaten ic karartici ve demode	tavsiye et design ic karartici demo	AMBIENCE#GENERAL
+100 lira fix menuye gittik 8 kisi 1600 tl odedik 1 buyuk raki ictik toplamda.	lira fix menuye git kis tl ode buyuk raki ictik toplam	RESTAURANT#PRICES
+kahve ve caylar 200 tl tutmus heryerde cay ikramdir hemde 1600 tl hesap verene uzak durun	kahve cay tl tut heryer cay ikram hemde tl hesap ver uzak dur	DRINKS#PRICES
+eğer deniz kenarında yer bulabilirseniz oturumu çok keyifli.	deniz kenar yer bul oturum keyif	AMBIENCE#GENERAL
+mekan çok büyük olduğu için personel yetişemiyo ve servis sürekli aksıyor.	mekan buyuk personel yetisemiyo servis surekli aksa	SERVICE#GENERAL
+yemekleri gayet güzel	yemek gayet guzel	FOOD#QUALITY
+i̇ftar servisini çok zayıf bulduk.	ftar servis zayif bul	SERVICE#GENERAL
+500 kişiye kaliteli servis verilemiyorsa 300 kişiye daha iyi şartlar sağlanabilir diye düşünüyorum.	kisi kalite servis ver kisi iyi sart sagla dusun	SERVICE#GENERAL
+ramazanda tavsiye etmiyorum.	ramazan tavsiye et	RESTAURANT#GENERAL
+bana sushiyi sevdiren tek yer diyebilirim çalışanları o kadar güler yüzlü ki.	sushi sev tek yer calisan guler	SERVICE#GENERAL
+bu fiyata böyle bir memnuniyet çok az rastlanacak şey .	fiyat memnuniyet rastla	RESTAURANT#PRICES
+mekan hiç boğucu degil gayet güzel	mekan bok gayet guzel	AMBIENCE#GENERAL
+tabi ki et yemekler hepsi cok harika.	tabi et yemek harika	FOOD#QUALITY
+tarihi bina da begendim.	tarih bina begen	AMBIENCE#GENERAL
+tereyağlı mercimek çorbası ve bıçak arası muhteşem ikili diyebilirim.	tereyak mercimek corba bicak ara muhtesem ikili	FOOD#QUALITY
+her şubesi'nde aynı kaliteyi yakalamışlar.	ayni kalite yakala	RESTAURANT#GENERAL
+sadece döner olayını pek yapamıyorlar.	sadece doner olay yap	FOOD#QUALITY
+servis saatlerinde bolca kalabalik olan ilgili bir mekan ambiyans olarak farkli bir lezzet tadacaginizi size bildiriyor.	servis saat bol kalabalik mekan ambiyans fark lezzet tadacagi bil	AMBIENCE#GENERAL
+farkli tatlar icin dusunulebilinir.	fark tat dusunulebili	FOOD#STYLE_OPTIONS
+tavuklarin iri dogranmis olmasi pek hos degil.	tavuk iri dogran ol hos	FOOD#STYLE_OPTIONS
+pilavda su tadi aliyorsunuz.	pilav tat al	FOOD#QUALITY
+bir de üstüne 9,5 tl veriyorsunuz.	ust tl ver	RESTAURANT#PRICES
+tercih etmem - pazar günü kahvalti için gittim.	tercih et pazar gun kahvalti git	FOOD#QUALITY
+daha önce nisantasi'nda ki subeye gitmistim ve inanilmaz güzel kahvalti etmistim ve memnun kalmistim.	sube gitmistim inan guzel kahvalti etmistim memnun kalmistim	FOOD#QUALITY
+ama bu sefer beyoglu'nda ki subede hiç memnun kalmadim.	sefer sube memnun kal	RESTAURANT#GENERAL
+manzarasi yat limani garsonlari ilgi alakali ozellikle ege bey.	manzarasi yat limani garson ilgi alakali ozellik eg bey	SERVICE#GENERAL
+ancak fiyatlar ile yemek karsilastirmasi bence uyumsuz yuksek standartlar icermekte ayni mekanda daha çok çeşit var i̇sim satıyor birazz dikkat !	fiyat yemek karsilast uyum yuk standart ic ayni mekan cesit sim sat birazz dikkat	FOOD#PRICES
+konumu, manzarası, lezzeti şahane...	konum manzara lezzet sahane	LOCATION#GENERAL AMBIENCE#GENERAL FOOD#QUALITY
+bir arkadaşımın ısrarı ile lahmacun yemiştim ki benim yediğim en güzel lahmacundu...	arkadas israr lahmacun guzel lahmacundu	FOOD#QUALITY
+kebapları zaten muazzam :	kebap muazzam	FOOD#QUALITY
+hepsi harika...	harika	RESTAURANT#GENERAL
+ayrıca sigara içmeyenlerin dostu olması dolayısıyla bu mekan benim en favorilerimden :	sigara ic dost mekan favorilerim	RESTAURANT#MISCELLANEOUS
+pırıl pırıl salonlar güler yüzlü ve temiz garsonlar.	piril piril salon gul temiz garson	AMBIENCE#GENERAL SERVICE#GENERAL
+etler için yoruma gerek yok.	et yorum yok	FOOD#QUALITY
+özellikle favorim bakır kapta gelen kuzu kol , bunu bu şekilde başka yerde yemeniz olanaksız.	ozellikle favorim bak kap gel kuzu kol baska yer olanak	FOOD#QUALITY
+zeytinyağlılar süper özellikle imambayıldı titretiyor insanı,alkol içmeyecekseniz mukakkak koyu ayranı içmenizi tavsiye ederim.	zeytinyak super ozellikle imambayildi titre insan alkol ic mukakkak koy ayran ic tavsiye et	DRINKS#QUALITY FOOD#QUALITY
+i̇ş fiyatlara gelince öyle bir mekan için normal fakat beyti kalitesinde avrupa veya amerika'da yer iseniz 3 kat fazlasını ödemek zorundasınız.	s fiyat gel mekan normal beyti kalite avrupa yer kat fazla ode zor	RESTAURANT#PRICES
+ara sira gidilebilecek bir lokanta.	ara sira git lokanta	RESTAURANT#GENERAL
+susileri belli bir seviyede her zaman, asagi düsmüyor.	susi belli seviye zaman asagi dus	FOOD#QUALITY
+çin yemekleri de fena degil.	cin yemek fena	FOOD#QUALITY
+öğle ve akşam yemekleriyle her şubesinde aynı kaliteyi yakalamış mekan.	ok aksam yemek sube ayni kalite yakala mekan	FOOD#QUALITY
+tatlılarını övmeye gerek bile görmüyorum.	tatli ov gor	FOOD#QUALITY
+yazın dondurması da denenmeli.	yazin dont dene	FOOD#QUALITY
+sütlü tatlilari mükemmel diyebilirim.	sut tatli mukemmel	FOOD#QUALITY
+çayi güzel.	cayi guzel	DRINKS#QUALITY
+döneri çogu insan tarafindan sevilmese de ben seviyorum.	doner insan taraf sev sev	FOOD#QUALITY
+ama iskenderi güzel degil.	iskenderi guzel	FOOD#QUALITY
+sos isini beceremiyorlar.	sos bec	FOOD#QUALITY
+yanindaki yogurt güzel ama.	yanin yogurt guzel	FOOD#QUALITY
+bazen gereksiz derecede çok kalabalik olabiliyor.	derece kalabalik ol	AMBIENCE#GENERAL
+kebap ve et restoranları aleminde sıkça karşılaşılan lezzet ve ambiyans paradoksunu çözmüş bir mekan.	kebap et restoran alem sik karsilas lezzet ambiyans paradoks coz mekan	AMBIENCE#GENERAL FOOD#QUALITY
+lahmacun ve içliköfte iyi fakat dolmaları antep usulünde i̇stanbul'da yediklerim arasında en iyilerdendi.	lahmacun iclikof iyi dolma antep usul ara iyi	FOOD#QUALITY
+etler malzeme, marinasyon, pişirme ve sunum açısından çok başarılı.	et malzeme marinasyon pis sunum aci basari	FOOD#QUALITY FOOD#STYLE_OPTIONS
+özellikle fıstıklı kebap favorim.	ozellikle fistik kebap favorim	FOOD#QUALITY
+katmer de muazzam.	katmer muazzam	FOOD#QUALITY
+ambiyans ve dekorasyon titizlikle tasarlanmış olan bu mekanda menüye bağlı kalmayatak tamamen sizin isteklerinize göre sipariş verebiliyorsunuz.	ambiyans dekorasyon titiz tasar mekan menuye bak kalmayatak istek siparis ver	AMBIENCE#GENERAL FOOD#STYLE_OPTIONS
+manzara süper,yemekler fena değil ama porsiyon miktarı çook çook azz o fiyatı kesinlikle haketmiyor.	manzara super yemek fena porsiyon miktar cook cook azz fiyat kesin haket	AMBIENCE#GENERAL FOOD#QUALITY FOOD#STYLE_OPTIONS
+çok sıcak çok kalabalık denizden koku geliyor yemekleri orta garsonlar ilgisiz kahvaltısı zayıf üzerine gidip saray dan suböreği yedik otopark ücretsiz diyip ücret alıyor	sicak kalabalik deniz koku gel yemek orta garson ilgi kahvalti zayif uzer git saray suborek yedik otopark ucret ucret al	AMBIENCE#GENERAL FOOD#QUALITY SERVICE#GENERAL
+çalışanlar kesinlikle çok nezih.	calisan kesin nezih	SERVICE#GENERAL
+çayı da güzel yapıyorlar yanına da su böreği .	cay guzel yap yan borek	DRINKS#QUALITY FOOD#QUALITY
+tavsiye ederim.	tavsiye et	RESTAURANT#GENERAL
+istiklal caddesi'ne girdiğinizde solda kalıyor.	istiklal gir sol kal	LOCATION#GENERAL
+deniz kenarında olan bütün mekanların aurası başka tabi adı birde fenerbahçe olursa...	deniz kenar mekan aura baska tabi at birde fenerbah	AMBIENCE#GENERAL
+açıldığından bu yana buranın keyfini çıkarmayı çok seviyorum.	ac yan bura keyif cik sev	RESTAURANT#GENERAL
+klasik lezzetler...	klasik lezzet	FOOD#QUALITY
