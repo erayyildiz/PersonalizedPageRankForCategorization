@@ -24,3 +24,5 @@ aspect category, Personalized PageRank algorithm [3] will be performed on simila
 reviews as topic specific nodes. By this way, each review node will be scored for each aspect category.
 
 This project is carried out as a term project in a PhD Course (Web Mining ITU BLG 614E) in Istanbul Technical University See detailed report in Web Mining Project Report for more detail explaation and experimental results.
+
+The project codes and outputs are located in [PersonalizedPageRankForCategorization.ipynb](https://github.com/erayyildiz/PersonalizedPageRankForCategorization/blob/master/PersonalizedPageRankForCategorization.ipynb) notebook.
